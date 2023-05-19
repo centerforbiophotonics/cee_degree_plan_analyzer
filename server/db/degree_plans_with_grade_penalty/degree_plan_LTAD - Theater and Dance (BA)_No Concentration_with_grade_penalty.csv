@@ -1,0 +1,14 @@
+Curriculum,LTAD - Theater and Dance (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,DRA 021A Fundamentals of Act,DRA,021A,"","","",4,,,4,0.5456363636363636,0.45618181818181813,55,202201,200010,"[""A"", ""A-"", ""A+"", ""B-"", ""B+"", ""C+"", ""I""]"
+2,DRA 024 Vis Aspect Dram Art,DRA,024,"",1,"",4,,,6,0.2628888888888889,0.24955555555555556,90,202201,200101,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""F"", ""NP*"", ""P*""]"
+3,DRA 028 Stagecraft & Management,DRA,028,"",2,"",4,,,6,0.5057534246575343,0.4045205479452055,73,202110,201503,"[""A"", ""A-"", ""B"", ""B+"", ""C+"", ""F"", ""I"", ""NP*"", ""P*""]"
+4,DRA 056C Hist Theatre Dance III,DRA,056C,"",3,"",4,,,6,0.16292682926829272,0.12585365853658537,41,202103,201503,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""D"", ""F"", ""I"", ""NP*"", ""P*""]"
+5,DRA 055 Cont Theatre Dance Perf,DRA,055,"",4,"",4,,,6,0.19113207547169808,0.16415094339622643,53,202101,201603,"[""A"", ""A-"", ""A+"", ""B"", ""B+"", ""C-"", ""C+"", ""D-"", ""F"", ""I"", ""NP*"", ""P*""]"
+6,DRA 056B Hist Theatre Dance II,DRA,056B,"",5,"",4,,,4,-0.1433333333333333,-0.1442857142857143,42,202110,201501,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C+"", ""D"", ""D-"", ""P*"", ""Y""]"
+Overall Average,"","","","","","","","","","",0.25416737476490736,0.20932946822161277

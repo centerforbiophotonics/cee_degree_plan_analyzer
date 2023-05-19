@@ -1,0 +1,32 @@
+Curriculum,LANT - Anthropology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,45.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 001 Human Evolutionary Bio,ANT,001,"","","",4,,,4
+2,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+3,ANT 003 Intro to Archaeology,ANT,003,"","","",4,,,4
+4,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+5,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+6,BIS 002C Introduction to Biology,BIS,002C,5,"","",5,,,6
+7,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+8,CHE 002B General Chemistry,CHE,002B,7,"","",5,,,3
+9,CHE 008A Organic Chemistry-Brief,CHE,008A,8,"","",2,,,9
+10,CHE 008B Organic Chemistry-Brief,CHE,008B,9,"","",4,,,9
+11,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,2
+12,MAT 017B Calculus for BioSci,MAT,017B,11,"","",4,,,3
+13,MAT 017C Calculus for BioSci,MAT,017C,12,"","",4,,,4
+14,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+15,ANT 152 Human Evolution,ANT,152,"","","",5,,,8
+16,ANT 153 Hum Genetics: Mut & Mig,ANT,153,5,"","",5,,,8
+17,ANT 154A Primate Socioecol,ANT,154A,"","","",5,,,7
+18,ANT 100 Soc-Cultural Theory,ANT,100,"","","",4,,,8
+19,ANT 199 Special Study,ANT,199,"","","",5,,,9
+20,ANT 151 Primate Evolution,ANT,151,"","","",4,,,6
+21,BIS 101 Genes & Gene Expression,BIS,101,4;5;9;14,"","",4,,,10
+22,EVE 100 Intro to Evolution,EVE,100,4;5;6;11;12,"","",4,,,9
+23,ANT 156A Human Osteology,ANT,156A,"","","",4,,,9
+24,STA 100 Applied Stat for Bio Sci,STA,100,12,"","",4,,,6
+25,ANT 158 The Evolution of Sex,ANT,158,"","","",4,,,10

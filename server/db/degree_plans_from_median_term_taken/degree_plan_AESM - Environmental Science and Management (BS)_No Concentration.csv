@@ -1,0 +1,30 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 101 Advanced Composition,UWP,101,23,"","",4,,,9
+2,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+3,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+4,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+5,BIS 002C Introduction to Biology,BIS,002C,4,"","",5,,,6
+6,GEL 001 The Earth,GEL,001,"","","",4,,,3
+7,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+8,CHE 002B General Chemistry,CHE,002B,7,"","",5,,,3
+9,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+10,PHY 001B Principles Physics,PHY,001B,9,"","",3,,,8
+11,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+12,MAT 016B Short Calculus,MAT,016B,13,"","",3,,,3
+13,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+14,ESP 001 Environmental Analysis,ESP,001,"",23,"",4,,,4
+15,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+16,ESP 100 General Ecology,ESP,100,3;4;5;13;12,"","",4,,,7
+17,ESP 162 Environmental Policy,ESP,162,11,"","",4,,,8
+18,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+19,ESP 179 Env Impact Assessment,ESP,179,14,"","",4,,,9
+20,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+21,ESP 192 Internship,ESP,192,"","","",12,,,9
+22,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+23,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

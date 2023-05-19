@@ -1,0 +1,17 @@
+Curriculum,LNAS - Native American Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,NAS 001 Intro To NAS,NAS,001,"","","",4,,,1
+2,NAS 010 N A Experience,NAS,010,"",1,"",4,,,4
+3,NAS 005 Intro to NA Lit,NAS,005,"",2,"",4,,,2
+4,CHI 010 Intro Chicana/o Studies,CHI,010,"",3,"",4,,,7
+5,NAS 130A NAS Ethno History,NAS,130A,"",4,"",4,,,9
+6,NAS 157 NA Religion & Phil,NAS,157,"",5,"",4,,,11
+7,NAS 180 NA Women,NAS,180,"",6,"",4,,,3
+8,NAS 119 Intro Fed Indian Law,NAS,119,"",7,"",4,,,9
+9,NAS 130C Nat Amer Ethno-Hist,NAS,130C,"",8,"",4,,,9
+10,NAS 107 Learning Nat Am Langs,NAS,107,"",9,"",4,,,10

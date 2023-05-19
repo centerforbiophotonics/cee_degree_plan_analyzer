@@ -1,0 +1,39 @@
+Curriculum,AFSC - Food Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 016C Short Calculus,MAT,016C,2,"","",3,,,3
+2,MAT 016B Short Calculus,MAT,016B,3,"","",3,,,2
+3,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+4,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+6,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,CHE 008A Organic Chemistry-Brief,CHE,008A,6,"","",2,,,4
+9,CHE 008B Organic Chemistry-Brief,CHE,008B,8,"","",4,,,5
+10,PHY 007A General Physics,PHY,007A,"",2,"",4,,,4
+11,PHY 007B General Physics,PHY,007B,10,"","",4,,,5
+12,PHY 007C General Physics,PHY,007C,11,"","",4,,,6
+13,FST 050 Food Preservation,FST,050,5,4;14,"",5,,,4
+14,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+15,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,3
+16,BIS 102 Struc & Func Biomolecule,BIS,102,4;9,"","",3,,,6
+17,BIS 103 Bioenergetics/Metabolism,BIS,103,16,"","",3,,,8
+18,MIC 102 Intro Microbiology,MIC,102,4,6,"",4,,,6
+19,FST 100A Food Chemistry,FST,100A,9,"","",4,,,7
+20,FST 101A Food Chem Lab,FST,101A,"",19,"",3,,,7
+21,FST 100B Food Properties,FST,100B,19;9,"","",4,,,8
+22,FST 101B Food Properties Lab,FST,101B,"",21,"",2,,,8
+23,FST 103 Food Analysis,FST,103,7;9;17;21,"","",4,,,11
+24,FST 104 Food Microbiology,FST,104,4;17,"","",3,,,11
+25,FST 104L Food Micro Lab,FST,104L,4;17;24,"","",4,,,12
+26,FST 110 Food Processing,FST,110,10;11;1,12,"",4,,,10
+27,FST 110L Food Processing Lab,FST,110L,"",26,"",2,,,12
+28,FST 117 Dsgn & Anlys Sensory Sci,FST,117,14,"","",4,,,7
+29,FST 127 Sensory Eval of Foods,FST,127,28,"","",4,,,11
+30,FST 190 Senior Seminar,FST,190,"","","",1,,,12
+31,FST 109 Prin Of Qual Assurance,FST,109,14,"","",3,,,6
+32,FST 160 Food Product Development,FST,160,13;23;24;26,"","",4,,,12

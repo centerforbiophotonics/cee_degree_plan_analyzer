@@ -1,0 +1,34 @@
+Curriculum,"AWFC - Wildlife, Fish, and Conservation Biology (BS)"
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+2,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,8
+3,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+4,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+5,BIS 002C Introduction to Biology,BIS,002C,4,"","",5,,,5
+6,CHE 002B General Chemistry,CHE,002B,7,"","",5,,,3
+7,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+8,CHE 008A Organic Chemistry-Brief,CHE,008A,6,"","",2,,,4
+9,CHE 008B Organic Chemistry-Brief,CHE,008B,8,"","",4,,,6
+10,MAT 016B Short Calculus,MAT,016B,11,"","",3,,,2
+11,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+12,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+13,PHY 001B Principles Physics,PHY,001B,12,"","",3,,,8
+14,STA 100 Applied Stat for Bio Sci,STA,100,10,"","",4,,,5
+15,WFC 010 Wildl Ecol Conserve,WFC,010,"","","",4,,,3
+16,EVE 101 Introduction to Ecology,EVE,101,3;4;5;11;10,"","",4,,,7
+17,NPB 102 Animal Behavior,NPB,102,3,"","",3,,,8
+18,EVE 100 Intro to Evolution,EVE,100,3;4;5;11;10,"","",4,,,10
+19,WFC 100 Field Methods in WFCB,WFC,100,3;4;5,16,"",4,,,12
+20,WFC 130 Phys Ecol of Wildlife,WFC,130,16;3;4;5,"","",4,,,11
+21,WFC 122 Pop Dyn and Est,WFC,122,11;10;27;3;4;5,"","",4,,,9
+22,WFC 154 Conservation Biology,WFC,154,4,"","",4,,,11
+23,WFC 111 Biol Cons Wild Birds,WFC,111,3;4;5,"","",3,,,10
+24,WFC 111L Lab Biol Cons Wild Birds,WFC,111L,"",23,"",3,,,10
+25,WFC 110 Biol Cons Wild Mammals,WFC,110,3;4;5,16,"",3,,,9
+26,WFC 110L Lab Biol Cons Mammals,WFC,110L,"",25,"",3,,,12
+27,STA 013 Elementary Statistics,STA,013,"","","",4,,,4

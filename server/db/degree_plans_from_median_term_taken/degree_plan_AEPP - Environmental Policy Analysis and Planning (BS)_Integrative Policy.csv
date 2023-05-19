@@ -1,0 +1,34 @@
+Curriculum,AEPP - Environmental Policy Analysis and Planning (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 101 Advanced Composition,UWP,101,27,"","",4,,,9
+2,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+3,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+6,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,3
+7,PLS 021 Computers in Technology,PLS,021,"","","",3,,,4
+8,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+9,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,4
+10,GEL 001 The Earth,GEL,001,"","","",4,,,4
+11,ESP 001 Environmental Analysis,ESP,001,"",27,"",4,,,4
+12,MAT 016B Short Calculus,MAT,016B,13,"","",3,,,3
+13,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+14,POL 001 Amer Natl Govt,POL,001,"","","",4,,,5
+15,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+16,ESP 110 Princ Environ Science,ESP,110,5;12,"","",4,,,8
+17,ESP 160 The Policy Process,ESP,160,14,"","",4,,,9
+18,ESP 168A Environ Policy Eval,ESP,168A,15;11;8,"","",5,,,10
+19,ESP 168B Environ Policy Eval,ESP,168B,18,"","",4,,,11
+20,ESP 161 Environmental Law,ESP,161,"","","",4,,,8
+21,ESP 178 Appl Research Methods,ESP,178,23,"","",4,,,8
+22,ESP 179 Env Impact Assessment,ESP,179,11,"","",4,,,8
+23,STA 103 Applied Statistics,STA,103,15;12,"","",4,,,6
+24,ECN 100A Intermed Micro Theory,ECN,100A,8;9;13;12,"","",4,,,7
+25,ESP 175 Natural Resource Econ,ESP,175,24,"","",4,,,9
+26,ABT 150 Intro to GIS,ABT,150,"","","",4,,,10
+27,ENL 003 Intro To Literature,ENL,003,"","","",4,,,2

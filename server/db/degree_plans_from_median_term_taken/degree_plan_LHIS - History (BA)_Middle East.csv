@@ -1,0 +1,13 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 006 Intro to Middle East,HIS,006,"","","",4,,,4
+2,HIS 193B Middle East from 1914,HIS,193B,"",1,"",4,,,9
+3,HIS 190D Safavid Iran,HIS,190D,"",2,"",4,,,7
+4,HIS 190C Middle East 1401-1730,HIS,190C,"",3,"",4,,,8
+5,HIS 010C 19th-20th Century World,HIS,010C,"",4,"",4,,,2
+6,HIS 102M U S Since 1896,HIS,102M,"",5,"",5,,,9

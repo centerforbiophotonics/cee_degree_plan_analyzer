@@ -1,0 +1,26 @@
+Curriculum,LCLC - Classical Civilization (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LAT 002 Elementary Latin,LAT,002,15,"","",5,,,5
+2,CLA 003 Rome & Mediterranean,CLA,003,"","","",4,,,4
+3,CLA 002 Ancient Greece/Near East,CLA,002,"","","",4,,,6
+4,CLA 001 Near East & Early Greece,CLA,001,"","","",4,,,5
+5,LAT 100 Readings in Latin Prose,LAT,100,16,"","",4,,,5
+6,LAT 103 Vergil-Aeneid,LAT,103,5,"","",4,,,9
+7,LAT 120 Imperial Latin Lit,LAT,120,5,"","",4,,,9
+8,CLA 190 Senior Seminar,CLA,190,"","","",4,,,11
+9,GRK 100 Readings Greek Prose,GRK,100,17,"","",5,,,7
+10,CLA 143 Greek Tragedy,CLA,143,"","","",4,,,8
+11,GRK 103B Homer: Odyssey,GRK,103B,9,"","",4,,,9
+12,LAT 130 Readings in Late Latin,LAT,130,5,"","",4,,,6
+13,CLA 140 Homer & Ancient Epic,CLA,140,"","","",4,,,6
+14,LAT 119 Republican Latin Lit,LAT,119,5,"","",4,,,6
+15,LAT 001 Elementary Latin,LAT,001,"","","",5,,,4
+16,LAT 003 Intermediate Latin,LAT,003,1,"","",5,,,4
+17,GRK 003 Intermediate Greek,GRK,003,18,"","",5,,,6
+18,GRK 002 Elementary Greek,GRK,002,19,"","",5,,,5
+19,GRK 001 Elementary Greek,GRK,001,"","","",5,,,4

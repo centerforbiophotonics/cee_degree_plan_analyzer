@@ -1,0 +1,25 @@
+Curriculum,"LGSW - Gender, Sexuality and Women's Studies (BA)"
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GSW 050 Intro to Gender Studies,GSW,050,"","","",4,,,0
+2,WMS 060 Feminist Critiques,WMS,060,"","","",4,,,5
+3,WMS 070 Sexualities,WMS,070,"","","",4,,,5
+4,WMS 050 Intro Gender Studies,WMS,050,"","","",4,,,2
+5,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+6,GSW 103 Intro to Fem Theory,GSW,103,1,"","",4,,,0
+7,WMS 104 Feminist Research,WMS,104,"","","",4,,,8
+8,WMS 137 Contemp Feminist Theory,WMS,137,2,"","",4,,,8
+9,WMS 170 Queer Studies,WMS,170,"","","",4,,,6
+10,WMS 190 Senior Seminar,WMS,190,"","","",4,,,12
+11,WMS 103 Intro To Fem Theory,WMS,103,"","","",4,,,7
+12,WMS 175 Gender & Race Experience,WMS,175,"","","",4,,,9
+13,WMS 198 Directed Gp Study,WMS,198,"","","",5,,,9
+14,WMS 138 Critical Fashion Studies,WMS,138,"","","",4,,,9
+15,CHI 182 Race & Juvenile Justice,CHI,182,18,"","",4,,,9
+16,AAS 123 The Black Female,AAS,123,"","","",4,,,10
+17,HIS 184 Sexuality in US,HIS,184,"","","",4,,,6
+18,CHI 010 Intro Chicana/o Studies,CHI,010,"","","",4,,,3

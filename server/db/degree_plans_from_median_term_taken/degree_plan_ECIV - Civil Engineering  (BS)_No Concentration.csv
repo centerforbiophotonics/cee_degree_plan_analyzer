@@ -1,0 +1,45 @@
+Curriculum,ECIV - Civil Engineering  (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,17;2,"","",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,5
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;2,4,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;4;5,"","",5,,,5
+11,GEL 050 Physical Geology,GEL,050,"","","",3,,,5
+12,GEL 050L Physical Geology Lab,GEL,050L,"",11,"",2,,,6
+13,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+14,CHE 002B General Chemistry,CHE,002B,13,"","",5,,,3
+15,ENG 035 Statics,ENG,035,8,4,"",4,,,5
+16,ECI 016 Spatial Data Analysis,ECI,016,"","","",2,,,6
+17,ENG 006 Engineering Prob Solving,ENG,006,3,1,"",4,,,4
+18,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,6
+19,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+20,ENG 103 Fluid Mechanics,ENG,103,15;7;9,"","",4,,,7
+21,ENG 104 Mech of Materials,ENG,104,15;7,"","",4,,,7
+22,ENG 104L Mech Of Material Lab,ENG,104L,21,"","",1,,,8
+23,ENG 106 Engin Economics,ENG,106,"","","",4,,,8
+24,ENG 102 Dynamics,ENG,102,15;7,"","",4,,,8
+25,ECI 114 Probabilistic Sys Anlys,ECI,114,2,"","",4,,,6
+26,ECI 153 Deterministic Opt & Desg,ECI,153,2;5,"","",4,,,10
+27,ECI 141 Engr Hydraulics,ECI,141,20,"","",3,,,9
+28,ECI 141L Hydraulics Lab,ECI,141L,"",27,"",1,,,9
+29,ECI 161 Trans Sys Operations,ECI,161,2;8,"","",4,,,8
+30,ECI 179 Pavement Engineering,ECI,179,21,"","",4,,,11
+31,ECI 130 Structural Analysis,ECI,130,21;5,"","",4,,,9
+32,ECI 171 Soil Mechanics,ECI,171,21,20;33,"",4,,,9
+33,ECI 171L Soil Mechanics Lab,ECI,171L,"","","",1,,,9
+34,ENG 105 Thermodynamics,ENG,105,7;9,"","",4,,,8
+35,ECI 123 Urban Sys Sustainability,ECI,123,"","","",4,,,9
+36,ECI 193A Civil/Env Senior Design,ECI,193A,27,"","",4,,,11
+37,ECI 193B Civil/Env Senior Design,ECI,193B,36,"","",4,,,12
+38,UWP 101 Advanced Composition,UWP,101,19,"","",4,,,9

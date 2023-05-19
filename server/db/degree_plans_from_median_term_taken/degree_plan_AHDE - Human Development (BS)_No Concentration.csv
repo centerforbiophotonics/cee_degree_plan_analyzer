@@ -1,0 +1,31 @@
+Curriculum,AHDE - Human Development (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,42.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+2,PHI 005 Critical Reasoning,PHI,005,"","","",4,,,6
+3,PHI 031 Scientific Reason,PHI,031,"","","",4,,,6
+4,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+5,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+6,HDE 100A Infancy & Early Childhd,HDE,100A,4;24,"","",4,,,7
+7,HDE 100B Mid Childh & Adol,HDE,100B,6;4,"","",4,,,8
+8,HDE 100C Adulthood & Aging,HDE,100C,4,"","",4,,,7
+9,HDE 120 Res Method Human Develop,HDE,120,5,"","",5,,,9
+10,HDE 140 Young Children,HDE,140,6,11,"",2,,,10
+11,HDE 140L Lab: Early Childhood,HDE,140L,6,"","",6,,,11
+12,HDE 110 Families in Communities,HDE,110,4,"","",4,,,8
+13,HDE 104 Chld Fam Sch Cmnty,HDE,104,6,"","",4,,,12
+14,HDE 112 Soc Rltnshps Across Life,HDE,112,6,"","",4,,,11
+15,HDE 117 Longevity,HDE,117,"","","",4,,,9
+16,HDE 101 Cognitive Development,HDE,101,6,"","",4,,,9
+17,HDE 102 Social & Personal Devel,HDE,102,6,"","",4,,,9
+18,HDE 141 Fld Std Chd/Adolescents,HDE,141,6,"","",6,,,11
+19,HDE 199 Special Study,HDE,199,"","","",5,,,9
+20,HDE 130 Dev Psychopathology,HDE,130,6,"","",4,,,10
+21,HDE 192 Internship,HDE,192,"","","",12,,,11
+22,UWP 101 Advanced Composition,UWP,101,23,"","",4,,,9
+23,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3
+24,MCB 010 Intro To Human Heredity,MCB,010,"","","",4,,,6

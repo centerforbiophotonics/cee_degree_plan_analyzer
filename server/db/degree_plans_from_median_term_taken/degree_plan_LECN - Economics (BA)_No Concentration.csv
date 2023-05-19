@@ -1,0 +1,17 @@
+Curriculum,LECN - Economics (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0603
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,2
+2,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+3,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+4,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+5,MAT 016B Short Calculus,MAT,016B,4,"","",3,,,3
+6,ECN 100A Intermed Micro Theory,ECN,100A,1;2;4;5,"","",4,,,5
+7,ECN 100B Intermed Micro Theory,ECN,100B,6,"","",4,,,7
+8,ECN 101 Intermed Macro Theory,ECN,101,2,"","",5,,,6
+9,ECN 102 Analysis of Econ Data,ECN,102,1;2;3;4;5,"","",4,,,7
+10,ECN 111B Econ History,ECN,111B,2,"","",4,,,7

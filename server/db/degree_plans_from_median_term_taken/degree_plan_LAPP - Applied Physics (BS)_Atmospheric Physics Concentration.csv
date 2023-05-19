@@ -1,0 +1,41 @@
+Curriculum,LAPP - Applied Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,2
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+9,PHY 104A Intro Math Phys,PHY,104A,24;3;5;7,"","",4,,,7
+10,PHY 105A Analytical Mechanic,PHY,105A,24;3;5;7,"","",4,,,7
+11,PHY 110A Electricity & Magnetism,PHY,110A,24;3;5;7;9;10,"","",4,,,8
+12,PHY 110B Electricty & Magnetsm,PHY,110B,11;9,"","",4,,,9
+13,PHY 112 Thermo & Stat Physics,PHY,112,14,"","",4,,,10
+14,PHY 115A Quantum Mechanics,PHY,115A,9;10,"","",4,,,9
+15,PHY 116A Electronics,PHY,116A,26;7,"","",4,,,7
+16,PHY 116B Electronics,PHY,116B,26,"","",4,,,8
+17,PHY 102 Computationl Lab Phyiscs,PHY,102,3;5;7;27;8,9,"",1,,,7
+18,PHY 116C Computers in Phys Expts,PHY,116C,27;16;7,"","",4,,,9
+19,ATM 120 Thermodyn & Cloud Physic,ATM,120,1;24,28,"",4,,,0
+20,ATM 121A Atmos Dynamics,ATM,121A,19;3;24,"","",4,,,0
+21,ATM 121B Atmospheric Dynamic,ATM,121B,20,"","",4,,,0
+22,GEL 150A Phys & Chem Oceanography,GEL,150A,29;24;1;31,"","",4,,,0
+23,PHY 104B Comp Math Physics,PHY,104B,9;34,"","",4,,,8
+24,PHY 009B Classical Physics,PHY,009B,25;1,3,"",5,,,4
+25,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+26,PHY 009C Classical Physics,PHY,009C,24;3;5,"","",5,,,5
+27,PHY 009D Modern Physics,PHY,009D,26;5,"","",4,,,6
+28,ATM 060 Intr Atmospheric Science,ATM,060,4;25,"","",4,,,0
+29,ESP 116N Oceanography,ESP,116N,30,"","",3,,,0
+30,GEL 001 The Earth,GEL,001,"","","",4,,,0
+31,CHE 002C General Chemistry,CHE,002C,32,"","",5,,,4
+32,CHE 002B General Chemistry,CHE,002B,33,"","",5,,,3
+33,CHE 002A General Chemistry,CHE,002A,"","","",5,,,3
+34,PHY 105AL Comp Lab In Mech,PHY,105AL,"","","",1,,,0

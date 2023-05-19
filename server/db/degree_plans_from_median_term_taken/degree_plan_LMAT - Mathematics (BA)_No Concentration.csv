@@ -1,0 +1,28 @@
+Curriculum,LMAT - Mathematics (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,27.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,2,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 108 Intro Abstract Math,MAT,108,1,"","",4,,,5
+8,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+9,ENG 006 Engineering Prob Solving,ENG,006,3,1,"",4,,,3
+10,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,3
+11,ECS 020 Discrete Math for CS,ECS,020,3,"","",4,,,3
+12,ANT 001 Human Evolutionary Bio,ANT,001,"","","",4,,,6
+13,PSC 041 Research Meth in Psych,PSC,041,20,"","",4,,,3
+14,MAT 127A Real Analysis,MAT,127A,5;7;2,"","",4,,,7
+15,MAT 127B Real Analysis,MAT,127B,14,"","",4,,,8
+16,MAT 127C Real Analysis,MAT,127C,15,"","",4,,,9
+17,MAT 135A Probability,MAT,135A,2;7,"","",4,,,7
+18,MAT 150A Modern Algebra,MAT,150A,21;7;5,"","",4,,,7
+19,MAT 115A Number Theory,MAT,115A,1,"","",4,,,7
+20,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+21,MAT 067 Modern Linear Algebra,MAT,067,2,"","",4,,,4

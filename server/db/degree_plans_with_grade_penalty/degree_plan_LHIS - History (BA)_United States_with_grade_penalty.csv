@@ -1,0 +1,14 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 017B History Of The U S,HIS,017B,"","","",4,,,3,0.07790400000000001,0.03500800000000001,625,202201,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D-"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""Y""]"
+2,HIS 017A History Of The U S,HIS,017A,"",1,"",4,,,3,0.19100340136054422,0.15008503401360543,588,202201,200101,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D-"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW"", ""Y""]"
+3,HIS 174C US Since 1945,HIS,174C,"",2,"",4,,,8,0.13801829268292684,0.09737804878048784,328,202110,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""I"", ""NP*"", ""P*""]"
+4,HIS 171B Civil War Era,HIS,171B,"",3,"",4,,,6,0.06898876404494385,-0.10617977528089886,89,202101,200203,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""NP*"", ""P*""]"
+5,HIS 102M U S Since 1896,HIS,102M,"",4,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+Overall Average,"","","","","","","","","","",0.14087102850723196,0.051703775218618485

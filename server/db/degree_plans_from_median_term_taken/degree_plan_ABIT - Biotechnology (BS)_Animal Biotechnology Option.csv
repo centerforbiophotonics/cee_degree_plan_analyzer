@@ -1,0 +1,40 @@
+Curriculum,ABIT - Biotechnology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANG 111 Molecular Biol Lab Tech,ANG,111,11;24;26;27,"","",4,,,10
+2,ANS 170 Ethics of Animal Use,ANS,170,33,"","",4,,,9
+3,MCB 150 Developmental Biology,MCB,150,24,"","",4,,,11
+4,MCB 182 Principles of Genomics,MCB,182,24,"","",3,,,9
+5,NPB 101 Systemic Physiology,NPB,101,9;13,"","",5,,,9
+6,NPB 101L Systemic Physiology Lab,NPB,101L,5,"","",3,,,9
+7,BIT 161A Genetics & Biotech Lab,BIT,161A,24,"","",6,,,9
+8,BIS 183 Functional Genomics,BIS,183,24,"","",3,,,9
+9,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+10,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+11,BIS 002C Introduction to Biology,BIS,002C,10,"","",5,,,5
+12,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+13,CHE 002B General Chemistry,CHE,002B,12,"","",5,,,2
+14,CHE 002C General Chemistry,CHE,002C,13,"","",5,,,3
+15,CHE 118A Organic Chem Health Sci,CHE,118A,14,"","",4,,,4
+16,CHE 118B Organic Chem Health Sci,CHE,118B,15,"","",4,,,5
+17,CHE 118C Organic Chem Health Sci,CHE,118C,16,"","",4,,,7
+18,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+19,MAT 017B Calculus for BioSci,MAT,017B,18,"","",4,,,2
+20,PHY 007A General Physics,PHY,007A,"",19,"",4,,,5
+21,PHY 007B General Physics,PHY,007B,20,"","",4,,,6
+22,STA 100 Applied Stat for Bio Sci,STA,100,19,"","",4,,,5
+23,UWP 101 Advanced Composition,UWP,101,33,"","",4,,,9
+24,BIS 101 Genes & Gene Expression,BIS,101,9;10;15;22,"","",4,,,7
+25,BIS 104 Cell Biology,BIS,104,24;26,"","",3,,,10
+26,BIS 102 Struc & Func Biomolecule,BIS,102,9;16,"","",3,,,8
+27,BIS 103 Bioenergetics/Metabolism,BIS,103,26,"","",3,,,9
+28,BIT 171 Ethics in Biotechnology,BIT,171,"","","",3,,,9
+29,MIC 102 Intro Microbiology,MIC,102,9,13,"",4,,,8
+30,MCB 121 Adv Molecular Biology,MCB,121,24,26,"",3,,,10
+31,BIT 192 Internship,BIT,192,"","","",12,,,10
+32,BIT 188 Research Proposal,BIT,188,"","","",3,,,9
+33,UWP 001 Academic Literacies,UWP,001,"","","",4,,,5

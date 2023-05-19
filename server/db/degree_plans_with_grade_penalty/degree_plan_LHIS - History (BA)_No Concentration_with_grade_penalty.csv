@@ -1,0 +1,10 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 010C 19th-20th Century World,HIS,010C,"","","",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+2,HIS 102M U S Since 1896,HIS,102M,"",1,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.1846558564774884,0.06696567189925823

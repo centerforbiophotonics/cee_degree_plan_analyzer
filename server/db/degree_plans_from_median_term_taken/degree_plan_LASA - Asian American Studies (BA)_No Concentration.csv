@@ -1,0 +1,22 @@
+Curriculum,LASA - Asian American Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ASA 001 Hist Exp Asian Am,ASA,001,"","","",4,,,6
+2,ASA 002 Contemp Iss Asian Amer,ASA,002,"","","",4,,,5
+3,ASA 004 AsianAm Cultural Studies,ASA,004,"","","",4,,,4
+4,WMS 050 Intro Gender Studies,WMS,050,"","","",4,,,2
+5,NAS 005 Intro to NA Lit,NAS,005,"","","",4,,,4
+6,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+7,PSC 041 Research Meth in Psych,PSC,041,15,"","",4,,,4
+8,ASA 192 Internships,ASA,192,"","","",5,,,11
+9,ASA 189B Topics Asian Am Culture,ASA,189B,"","","",4,,,8
+10,ASA 150 Filipino American Exp,ASA,150,"","","",4,,,9
+11,ASA 114 Asian Diasporas,ASA,114,"","","",4,,,8
+12,ASA 102 Theoretical Persp AsAmer,ASA,102,"","","",4,,,7
+13,ASA 150E Southeast Asian Am Exp,ASA,150E,"","","",4,,,11
+14,ASA 100 Asian Amer Communities,ASA,100,"","","",4,,,10
+15,PSC 001 General Psychology,PSC,001,"","","",4,,,2

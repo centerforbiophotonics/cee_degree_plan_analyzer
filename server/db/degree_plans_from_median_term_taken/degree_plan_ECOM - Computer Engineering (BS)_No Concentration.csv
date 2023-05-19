@@ -1,0 +1,43 @@
+Curriculum,ECOM - Computer Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,2,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;2,4,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;4;5,"","",5,,,5
+11,ECS 020 Discrete Math for CS,ECS,020,3,"","",4,,,3
+12,ECS 036A Programming,ECS,036A,36,"","",4,,,3
+13,ECS 036B Object-Oriented Program,ECS,036B,12,"","",4,,,6
+14,ECS 036C Data Structures,ECS,036C,13;11,"","",4,,,6
+15,EEC 001 Intro to ECE,EEC,001,"","","",1,,,1
+16,ENG 017 Circuits I,ENG,017,2,"","",4,,,6
+17,EEC 018 Digital Systems I,EEC,018,16,"","",5,,,7
+18,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,5
+19,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+20,EEC 100 Circuits II,EEC,100,16;7,"","",5,,,7
+21,EEC 111 Digital Elec Circuits,EEC,111,20,"","",4,,,11
+22,EEC 161 Probabilistic Analysis,EEC,161,20;6,"","",4,,,9
+23,EEC 170 Intro to Comp Arch,EEC,170,13;17,"","",4,,,10
+24,EEC 172 Embedded Systems,EEC,172,23;20,"","",4,,,11
+25,EEC 173A Computer Networks,EEC,173A,14;22,"","",4,,,11
+26,EEC 180 Digital Systems II,EEC,180,17,"","",5,,,9
+27,EEC 196 Issues in Eng Design,EEC,196,"","","",1,,,10
+28,ECS 122A Algorithm Design & Anyls,ECS,122A,11;14,"","",4,,,8
+29,ECS 150 Operating Systems,ECS,150,14;23,"","",4,,,11
+30,ENG 190 Prof Resp Of Engr,ENG,190,"","","",3,,,9
+31,EEC 195A Autonomous Car Project,EEC,195A,12;17;13,"","",3,,,10
+32,EEC 195B Autonomous Car Project,EEC,195B,31,"","",3,,,11
+33,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+34,PHY 009D Modern Physics,PHY,009D,10;5,"","",4,,,6
+35,UWP 101 Advanced Composition,UWP,101,19,"","",4,,,8
+36,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,0

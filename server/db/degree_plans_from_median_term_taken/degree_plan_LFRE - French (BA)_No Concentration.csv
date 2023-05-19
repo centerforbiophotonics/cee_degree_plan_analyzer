@@ -1,0 +1,24 @@
+Curriculum,LFRE - French (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,FRE 023 Intermed French,FRE,023,13,"","",5,,,4
+2,FRE 100 Comp In French,FRE,100,1,"","",4,,,5
+3,FRE 141 Selected Topics Fr Lit,FRE,141,2,"","",4,,,9
+4,FRE 115 Medieval French Lit/Soc,FRE,115,2,"","",4,,,11
+5,FRE 117B Classical Moment,FRE,117B,2,"","",4,,,8
+6,FRE 128 Topics Fr Cult,FRE,128,2,"","",4,,,11
+7,FRE 107B Making of Modern France,FRE,107B,1,"","",4,,,8
+8,FRE 109 French Phonetics,FRE,109,1,"","",4,,,7
+9,FRE 105 Advanced French Grammar,FRE,105,1,"","",4,,,9
+10,FRE 108 Mod French Culture,FRE,108,1,"","",4,,,7
+11,FRE 161 Ling French Form & Mean,FRE,161,2,"","",4,,,9
+12,FRE 118A Age of Reason & Revltion,FRE,118A,2,"","",4,,,9
+13,FRE 022 Intermed French,FRE,022,14,"","",5,,,3
+14,FRE 021 Intermed French,FRE,021,15,"","",5,,,2
+15,FRE 003 Elementary French,FRE,003,16,"","",5,,,2
+16,FRE 002 Elementary French,FRE,002,17,"","",5,,,1
+17,FRE 001 Elementary French,FRE,001,"","","",5,,,1

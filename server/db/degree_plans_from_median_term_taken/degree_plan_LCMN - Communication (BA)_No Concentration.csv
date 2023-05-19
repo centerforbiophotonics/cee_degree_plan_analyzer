@@ -1,0 +1,23 @@
+Curriculum,LCMN - Communication (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIN 001 Intro Linguistics,LIN,001,"","","",4,,,4
+2,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,4
+3,PHI 012 Intro to Symbol Logic,PHI,012,"","","",4,,,6
+4,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+5,SOC 001 Intro Sociology,SOC,001,"","","",5,,,4
+6,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+7,CMN 101 Communication Theories,CMN,101,"","","",4,,,6
+8,CMN 102 Empirical Methods Commun,CMN,102,6,"","",4,,,8
+9,CMN 120 Interpersonal Commun,CMN,120,"","","",4,,,8
+10,CMN 140 Intro Mass Communication,CMN,140,"","","",4,,,8
+11,CMN 172 Interpersonal Technolog,CMN,172,"","","",4,,,9
+12,CMN 136 Organizational Communic,CMN,136,"","","",4,,,8
+13,CMN 141 Media Effects,CMN,141,"","","",4,,,10
+14,CMN 174 Social Media,CMN,174,"","","",4,,,8
+15,CMN 122 Nonverbal Communication,CMN,122,"","","",4,,,8
+16,CMN 112 Theories of Persuasion,CMN,112,"","","",4,,,8

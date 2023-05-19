@@ -1,0 +1,25 @@
+Curriculum,AMGE - Managerial Economics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,52.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 104A Business Writing,UWP,104A,17,"","",4,,,10
+2,PLS 021 Computers in Technology,PLS,021,"","","",3,,,3
+3,MGT 011A Elementary Accounting,MGT,011A,"","","",4,,,4
+4,MGT 011B Elementary Accounting,MGT,011B,3,"","",4,,,6
+5,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+6,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+7,MAT 016B Short Calculus,MAT,016B,9,"","",3,,,2
+8,MAT 016C Short Calculus,MAT,016C,7,"","",3,,,4
+9,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+10,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+11,STA 103 Applied Statistics,STA,103,10;7,"","",4,,,6
+12,ARE 100A Intermed Microeconomics,ARE,100A,6,"","",4,,,6
+13,ARE 100B Intermed Microeconomics,ARE,100B,12;5;6;7;18,"","",4,,,7
+14,ARE 106 Econometrics,ARE,106,12;11;10;2,"","",4,,,8
+15,ARE 155 Oper Res & Mgmt Sci,ARE,155,12;11;10,"","",4,,,8
+16,ECN 101 Intermed Macro Theory,ECN,101,6,"","",5,,,6
+17,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+18,ARE 018 Business Law,ARE,018,"","","",4,,,6

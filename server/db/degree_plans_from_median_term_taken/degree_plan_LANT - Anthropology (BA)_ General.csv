@@ -1,0 +1,25 @@
+Curriculum,LANT - Anthropology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 001 Human Evolutionary Bio,ANT,001,"","","",4,,,4
+2,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+3,ANT 003 Intro to Archaeology,ANT,003,"","","",4,,,4
+4,"ANT 032 Drugs, Science & Culture",ANT,032,"","","",4,,,5
+5,ANT 015 Human Life Cycle,ANT,015,"","","",5,,,4
+6,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+7,ANT 100 Soc-Cultural Theory,ANT,100,"","","",4,,,8
+8,ANT 152 Human Evolution,ANT,152,"","","",5,,,8
+9,ANT 153 Hum Genetics: Mut & Mig,ANT,153,18,"","",5,,,8
+10,ANT 154A Primate Socioecol,ANT,154A,"","","",5,,,7
+11,ANT 151 Primate Evolution,ANT,151,"","","",4,,,6
+12,ANT 156A Human Osteology,ANT,156A,"","","",4,,,9
+13,ANT 121 Medical Anthropology,ANT,121,"","","",4,,,7
+14,ANT 132 Psychological Anthro,ANT,132,"","","",4,,,9
+15,ANT 144 Latin America,ANT,144,"","","",4,,,8
+16,ANT 124 Religion in Soc & Cultr,ANT,124,"","","",4,,,7
+17,ANT 140B East & South Africans,ANT,140B,"","","",4,,,7
+18,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4

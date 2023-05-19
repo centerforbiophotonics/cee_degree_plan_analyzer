@@ -1,0 +1,35 @@
+Curriculum,AENT - Entomology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,4
+7,CHE 008B Organic Chemistry-Brief,CHE,008B,6,"","",4,,,6
+8,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+9,MAT 016B Short Calculus,MAT,016B,8,"","",3,,,3
+10,MAT 016C Short Calculus,MAT,016C,9,"","",3,,,4
+11,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+12,PHY 001B Principles Physics,PHY,001B,11,"","",3,,,8
+13,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+14,BIS 101 Genes & Gene Expression,BIS,101,1;2;6;13,"","",4,,,8
+15,EVE 100 Intro to Evolution,EVE,100,1;2;3;8;9,"","",4,,,9
+16,ENT 100 Gen Entomology,ENT,100,2,"","",4,,,6
+17,ENT 100L Gen Entomology Lab,ENT,100L,"",16,"",2,,,7
+18,ENT 102 Insect Physiology,ENT,102,16,"","",4,,,8
+19,MIC 162 General Virology,MIC,162,14,"","",4,,,9
+20,ENT 105 Insect Ecology,ENT,105,"",2,"",4,,,10
+21,BIS 102 Struc & Func Biomolecule,BIS,102,1;7,"","",3,,,8
+22,BIS 103 Bioenergetics/Metabolism,BIS,103,21,"","",3,,,10
+23,ENT 104 Behav Ecol Insects,ENT,104,"","","",3,,,8
+24,ENT 153 Med Entomol,ENT,153,1;2,"","",3,,,11
+25,ENT 198 Directed Gp Study,ENT,198,"","","",5,,,7
+26,ENT 156 Bio Of Paras,ENT,156,1,"","",3,,,9
+27,ENT 156L Bio Of Paras Lab,ENT,156L,"",26,"",1,,,12
+28,ENT 158 Forensic Ent,ENT,158,16,"","",3,,,9

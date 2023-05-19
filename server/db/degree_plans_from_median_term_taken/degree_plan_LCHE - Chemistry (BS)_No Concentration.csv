@@ -1,0 +1,35 @@
+Curriculum,LCHE - Chemistry (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+2,CHE 002B General Chemistry,CHE,002B,1,"","",5,,,2
+3,CHE 002C General Chemistry,CHE,002C,2,"","",5,,,3
+4,PHY 009A Classical Physics,PHY,009A,7,"","",5,,,4
+5,PHY 009B Classical Physics,PHY,009B,4;9,10,"",5,,,5
+6,PHY 009C Classical Physics,PHY,009C,5;10;11,"","",5,,,6
+7,MAT 021B Calculus,MAT,021B,8,"","",4,,,2
+8,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+9,MAT 021C Calculus,MAT,021C,7,"","",4,,,3
+10,MAT 021D Vector Analysis,MAT,021D,9,"","",4,,,4
+11,MAT 022A Linear Algebra,MAT,022A,9,12,"",3,,,5
+12,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,9,"","",1,,,5
+13,MAT 022B Differential Equations,MAT,022B,11,"","",3,,,6
+14,CHE 105 Anly & Phys Chem Methods,CHE,105,"",16,"",4,,,10
+15,CHE 108 Molecular Biochemistry,CHE,108,24,"","",3,,,12
+16,CHE 110A Phys Chem: Quantum Mech,CHE,110A,3;9;6,"","",4,,,7
+17,CHE 110B Phys Chem: Atoms & Molec,CHE,110B,16,"","",4,,,8
+18,CHE 110C Phys Chem: Thermo & Kin,CHE,110C,17,"","",4,,,9
+19,CHE 115 Instrumental Analysis,CHE,115,14,"","",4,,,11
+20,CHE 124A Inorg Fundamentals,CHE,124A,3,"","",3,,,7
+21,CHE 125 Adv Methods Phys Chem,CHE,125,19,18,"",4,,,12
+22,CHE 128A Organic Chemistry,CHE,128A,3,"","",3,,,4
+23,CHE 128B Organic Chemistry,CHE,128B,22,"","",3,,,5
+24,CHE 128C Organic Chemistry,CHE,128C,23,"","",3,,,6
+25,CHE 129A Organic Chem Lab,CHE,129A,3,22,"",2,,,4
+26,CHE 129B Organic Chem Lab,CHE,129B,25,23,"",2,,,5
+27,CHE 129C Organic Chem Lab,CHE,129C,26,24,"",2,,,7
+28,CHE 199 Special Study,CHE,199,"","","",5,,,8

@@ -1,0 +1,39 @@
+Curriculum,AIAD - International Agricultural Development (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,6
+3,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+4,CHE 002B General Chemistry,CHE,002B,3,"","",5,,,3
+5,PLS 130 Rangeland Ecology,PLS,130,11,"","",3,,,8
+6,PLS 150 Agroecosystem Management,PLS,150,12;3;11,"","",4,,,9
+7,PLS 111 Agronomic Crop Prod,PLS,111,11,"","",4,,,8
+8,PLS 170A Fruit & Nut Crop Systems,PLS,170A,11,"","",2,,,10
+9,SSC 109 Sustainable Nutri Mangmt,SSC,109,30,"","",5,,,12
+10,IAD 010 Intro Int Ag Dev,IAD,010,"","","",4,,,2
+11,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+12,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+13,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+14,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+15,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+16,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+17,CRD 001 The Community,CRD,001,"","","",4,,,4
+18,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,3
+19,PLS 001 Ag Nature & Society,PLS,001,"","","",3,,,4
+20,PLS 101 Agric & the Environment,PLS,101,11,"","",3,,,8
+21,ECN 115A Economic Development,ECN,115A,13;14,"","",4,,,8
+22,IAD 142 Eqpt/Tech for Small Farm,IAD,142,"","","",2,,,12
+23,PLS 112 Forage Crop Production,PLS,112,11,"","",3,,,8
+24,IAD 103 Soc Chg & Ag Dev,IAD,103,"","","",4,,,9
+25,IAD 170 Program Develop for IAD,IAD,170,10,"","",4,,,7
+26,CRD 141 Org of Economic Space,CRD,141,17,"","",4,,,8
+27,CRD 142 Rural Change Indust Wrld,CRD,142,17,"","",4,,,8
+28,POL 124 Pol Global Ineq,POL,124,"","","",4,,,8
+29,ARB 003 Elem Arabic 3,ARB,003,31,"","",5,,,6
+30,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,8
+31,ARB 002 Elem Arabic 2,ARB,002,32,"","",5,,,5
+32,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,4

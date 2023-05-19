@@ -1,0 +1,39 @@
+Curriculum,AEPP - Environmental Policy Analysis and Planning (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ESP 172 Public Lands Mgmt,ESP,172,"","","",4,,,10
+2,ESP 169 Water Policy & Politics,ESP,169,"","","",3,,,9
+3,EVE 115 Marine Ecology,EVE,115,31,"","",4,,,6
+4,ARE 115A Economic Development,ARE,115A,12;13,"","",4,,,12
+5,UWP 101 Advanced Composition,UWP,101,32,"","",4,,,9
+6,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+7,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+9,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+10,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,3
+11,PLS 021 Computers in Technology,PLS,021,"","","",3,,,4
+12,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+13,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,4
+14,GEL 001 The Earth,GEL,001,"","","",4,,,4
+15,ESP 001 Environmental Analysis,ESP,001,"",32,"",4,,,4
+16,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,3
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+18,POL 001 Amer Natl Govt,POL,001,"","","",4,,,5
+19,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+20,ESP 110 Princ Environ Science,ESP,110,9;16,"","",4,,,8
+21,ESP 160 The Policy Process,ESP,160,18,"","",4,,,9
+22,ESP 168A Environ Policy Eval,ESP,168A,19;15;12,"","",5,,,10
+23,ESP 168B Environ Policy Eval,ESP,168B,22,"","",4,,,11
+24,ESP 161 Environmental Law,ESP,161,"","","",4,,,8
+25,ESP 178 Appl Research Methods,ESP,178,27,"","",4,,,8
+26,ESP 179 Env Impact Assessment,ESP,179,15,"","",4,,,8
+27,STA 103 Applied Statistics,STA,103,19;16,"","",4,,,6
+28,ECN 100A Intermed Micro Theory,ECN,100A,12;13;17;16,"","",4,,,7
+29,ESP 175 Natural Resource Econ,ESP,175,28,"","",4,,,9
+30,ABT 150 Intro to GIS,ABT,150,"","","",4,,,10
+31,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+32,ENL 003 Intro To Literature,ENL,003,"","","",4,,,2

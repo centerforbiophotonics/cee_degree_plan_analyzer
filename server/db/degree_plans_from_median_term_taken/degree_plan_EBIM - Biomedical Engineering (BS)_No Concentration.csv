@@ -1,0 +1,40 @@
+Curriculum,EBIM - Biomedical Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIM 001 Intro to Biomedical Eng,BIM,001,"","","",2,,,1
+2,BIM 020 Fund of Bioengineering,BIM,020,6;14;19;10,"","",4,,,6
+3,BIM 020L Graphics Design for BME,BIM,020L,6;14;19;10,2,"",2,,,0
+4,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,2
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+6,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,CHE 008A Organic Chemistry-Brief,CHE,008A,6,"","",2,,,4
+9,CHE 008B Organic Chemistry-Brief,CHE,008B,8,"","",4,,,5
+10,ENG 006 Engineering Prob Solving,ENG,006,15,12,"",4,,,4
+11,ENG 017 Circuits I,ENG,017,13,"","",4,,,6
+12,MAT 021B Calculus,MAT,021B,15,"","",4,,,2
+13,MAT 021C Calculus,MAT,021C,12,"","",4,,,3
+14,MAT 021D Vector Analysis,MAT,021D,13,"","",4,,,3
+15,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+16,MAT 022A Linear Algebra,MAT,022A,10;13,"","",3,,,5
+17,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,13,"","",1,,,4
+18,MAT 022B Differential Equations,MAT,022B,16,"","",3,,,6
+19,PHY 009B Classical Physics,PHY,009B,30;13,14,"",5,,,4
+20,PHY 009C Classical Physics,PHY,009C,19;14;16,"","",5,,,5
+21,ENL 003 Intro To Literature,ENL,003,"","","",4,,,1
+22,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,6
+23,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+24,BIM 106 Biotransport Phenomena,BIM,106,2;31;19;18,"","",4,,,8
+25,BIM 189C Biomedical Engineering,BIM,189C,"","","",5,,,11
+26,BIM 105 Probablity for BME,BIM,105,16,10,"",4,,,7
+27,BIM 108 Biomed Signal & Control,BIM,108,18;10;11,"","",4,,,9
+28,BIM 110A Bioengineering Design,BIM,110A,26;24;32;27;33;31,"","",4,,,11
+29,UWP 101 Advanced Composition,UWP,101,21,"","",4,,,7
+30,PHY 009A Classical Physics,PHY,009A,12,"","",5,,,3
+31,BIM 116 BME Physiology,BIM,116,4;20,"","",5,,,7
+32,BIM 107 Mfg Processes for BME,BIM,107,2;3,"","",2,,,0
+33,BIM 109 Biomaterials,BIM,109,24;4;7,"","",4,,,9

@@ -1,0 +1,18 @@
+Curriculum,LAMS - American Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,AMS 010 Intro American Studies,AMS,010,"","","",4,,,4
+2,AMS 030 Amr Images in Pop Cltr,AMS,030,"",1,"",4,,,2
+3,CHI 010 Intro Chicana/o Studies,CHI,010,"",2,"",4,,,2
+4,ANT 002 Cultural Anthropology,ANT,002,"",3,"",5,,,2
+5,HIS 017B History Of The U S,HIS,017B,"",4,"",4,,,12
+6,ENL 003 Intro To Literature,ENL,003,"",5,"",4,,,5
+7,AMS 100 Methods American Studies,AMS,100,"",6,"",4,,,9
+8,AMS 160 Undergraduate Seminar,AMS,160,"",7,"",4,,,9
+9,AMS 130 Amer Pop Culture,AMS,130,"",8,"",4,,,7
+10,AMS 152 Children In America,AMS,152,"",9,"",4,,,6
+11,AMS 190A Senior Thesis,AMS,190A,"",10,"",4,,,10

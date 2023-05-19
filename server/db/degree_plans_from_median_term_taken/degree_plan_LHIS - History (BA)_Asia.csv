@@ -1,0 +1,14 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 009A East Asian Civ,HIS,009A,"","","",4,,,3
+2,HIS 008 Indian Civilization,HIS,008,"",1,"",4,,,5
+3,HIS 196A Medieval India,HIS,196A,"",2,"",4,,,7
+4,HIS 191F History People Rep China,HIS,191F,"",3,"",4,,,9
+5,HIS 196B India,HIS,196B,"",4,"",4,,,8
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9

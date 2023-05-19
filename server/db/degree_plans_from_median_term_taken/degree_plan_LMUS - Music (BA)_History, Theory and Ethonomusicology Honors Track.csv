@@ -1,0 +1,39 @@
+Curriculum,LMUS - Music (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 121 Topics Mus Schol,MUS,121,17;32,"","",4,,,9
+2,MUS 123 Music as Culture,MUS,123,31,"","",4,,,7
+3,MUS 124D Music History 4,MUS,124D,32,"","",4,,,0
+4,MUS 131A Voice,MUS,131A,"","","",2,,,8
+5,MUS 131B Piano,MUS,131B,"","","",2,,,7
+6,MUS 131E Violin,MUS,131E,"","","",2,,,4
+7,MUS 141 University Symphony,MUS,141,"","","",2,,,6
+8,MUS 146 Chamber Music,MUS,146,"","","",1,,,6
+9,MUS 143 University Concert Band,MUS,143,"","","",2,,,6
+10,MUS 144 University Chorus,MUS,144,"","","",2,,,6
+11,MUS 103 Wrkshp in Composition,MUS,103,17,"","",3,,,7
+12,MUS 122 Topics Anlys & Theory,MUS,122,17;32,"","",4,,,10
+13,MUS 101A Advanced Theory,MUS,101A,26,"","",4,,,10
+14,MUS 113 Elementary Conducting,MUS,113,17,"","",2,,,5
+15,MUS 006A Elementary Theory,MUS,006A,"",18;21,"",3,,,2
+16,MUS 006B Elementary Theory,MUS,006B,"",19;22,"",3,,,5
+17,MUS 006C Elementary Theory,MUS,006C,"",20;23,"",3,,,6
+18,MUS 002A Keyboard Competence,MUS,002A,"",21,"",2,,,4
+19,MUS 002B Keyboard Competence,MUS,002B,18,22,"",2,,,5
+20,MUS 002C Keyboard Competence,MUS,002C,19,23,"",2,,,6
+21,MUS 016A Elementary Musicianship,MUS,016A,"","","",2,,,1
+22,MUS 016B Elementary Musicianship,MUS,016B,21,"","",2,,,5
+23,MUS 016C Elementary Musicianship,MUS,016C,22,"","",2,,,6
+24,MUS 007A Intermediate Theory,MUS,007A,17,27,"",3,,,7
+25,MUS 007B Intermediate Theory,MUS,007B,24,28,"",3,,,8
+26,MUS 007C Intermediate Theory,MUS,007C,25,29,"",3,,,9
+27,MUS 017A Intermed Musicianship,MUS,017A,23,"","",2,,,7
+28,MUS 017B Intermed Musicianship,MUS,017B,27,"","",2,,,8
+29,MUS 017C Intermed Musicianship,MUS,017C,28,"","",2,,,9
+30,MUS 024A MH1: Baroque & Classic,MUS,024A,15,"","",4,,,4
+31,MUS 024B MH2: Romantic Era,MUS,024B,30,"","",3,,,5
+32,MUS 024C Intro Music History,MUS,024C,31,"","",4,,,6

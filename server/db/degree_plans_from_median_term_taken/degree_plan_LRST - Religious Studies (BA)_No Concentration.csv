@@ -1,0 +1,25 @@
+Curriculum,LRST - Religious Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,38.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,RST 001G Myth Ritual Symbol,RST,001G,"","","",4,,,7
+2,RST 040 New Testament,RST,040,"","","",4,,,3
+3,RST 060 Intro to Islam,RST,060,"","","",4,,,2
+4,RST 010 Ethics Issues,RST,010,"","","",2,,,4
+5,RST 030 South Asian Religions,RST,030,"","","",4,,,4
+6,RST 012 Abrahamic Religions,RST,012,"","","",4,,,4
+7,RST 190 Seminar,RST,190,"","","",4,,,9
+8,RST 130 Topics Rel Studies,RST,130,17,"","",4,,,9
+9,RST 150 Religious Ethics,RST,150,"","","",4,,,4
+10,RST 199 Special Study,RST,199,"","","",5,,,12
+11,RST 170 Buddhism,RST,170,"","","",4,,,8
+12,RST 140 Christian Theology,RST,140,"","","",4,,,8
+13,RST 160 Intro Islamic Thought,RST,160,"","","",4,,,0
+14,RST 115 Mysticism,RST,115,"","","",4,,,9
+15,RST 135 The Bible & Film,RST,135,"","","",4,,,10
+16,RST 125 Dead Sea Scrolls,RST,125,18,"","",4,,,8
+17,RST 001 Survey of Religion,RST,001,"","","",4,,,3
+18,RST 021 The Bible,RST,021,"","","",4,,,5

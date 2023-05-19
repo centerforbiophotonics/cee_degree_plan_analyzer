@@ -1,0 +1,34 @@
+Curriculum,LPMC - Pharmaceutical Chemistry (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,51.2010
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002B General Chemistry,CHE,002B,2,"","",5,,,2
+2,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+3,CHE 002C General Chemistry,CHE,002C,1,"","",5,,,3
+4,PHY 007A General Physics,PHY,007A,"",8,"",4,,,5
+5,PHY 007C General Physics,PHY,007C,6,"","",4,,,7
+6,PHY 007B General Physics,PHY,007B,4,"","",4,,,6
+7,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+8,MAT 017B Calculus for BioSci,MAT,017B,7,"","",4,,,2
+9,MAT 017C Calculus for BioSci,MAT,017C,8,"","",4,,,3
+10,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+11,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+12,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+13,CHE 124A Inorg Fundamentals,CHE,124A,3,"","",3,,,9
+14,CHE 130A Pharmaceutical Chemistry,CHE,130A,21,"","",3,,,9
+15,CHE 130B Pharmaceutical Chemistry,CHE,130B,"",14,"",3,,,11
+16,CHE 135 Adv Bio-organic Chem Lab,CHE,135,"",15,"",3,,,12
+17,CHE 107A Physical Chem Life Sci,CHE,107A,3;9;5,"","",3,,,9
+18,CHE 107B Phys Chem Life Sci,CHE,107B,17,"","",3,,,9
+19,CHE 118A Organic Chem Health Sci,CHE,118A,3,"","",4,,,4
+20,CHE 118B Organic Chem Health Sci,CHE,118B,19,"","",4,,,5
+21,CHE 118C Organic Chem Health Sci,CHE,118C,20,"","",4,,,6
+22,BIS 102 Struc & Func Biomolecule,BIS,102,10;20,"","",3,,,7
+23,CHE 150 Natural Products,CHE,150,21,"","",3,,,9
+24,CHE 199 Special Study,CHE,199,"","","",5,,,9
+25,BIS 103 Bioenergetics/Metabolism,BIS,103,22,"","",3,,,9
+26,NPB 101 Systemic Physiology,NPB,101,10;1,"","",5,,,9
+27,NPB 101L Systemic Physiology Lab,NPB,101L,26,"","",3,,,11

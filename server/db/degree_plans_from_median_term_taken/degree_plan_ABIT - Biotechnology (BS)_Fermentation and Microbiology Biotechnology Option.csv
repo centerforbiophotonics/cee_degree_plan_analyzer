@@ -1,0 +1,39 @@
+Curriculum,ABIT - Biotechnology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIT 161A Genetics & Biotech Lab,BIT,161A,23,"","",6,,,9
+2,MIC 115 Recombinant DNA Cloning,MIC,115,23,"","",3,,,10
+3,MCB 182 Principles of Genomics,MCB,182,23,"","",3,,,9
+4,BIS 183 Functional Genomics,BIS,183,23,"","",3,,,9
+5,EVE 100 Intro to Evolution,EVE,100,8;9;10;17;18,"","",4,,,10
+6,BIS 181 Comparative Genomics,BIS,181,23,"","",3,,,10
+7,BIT 161B Plant Genetics & Bio Lab,BIT,161B,23,"","",6,,,12
+8,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+9,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+10,BIS 002C Introduction to Biology,BIS,002C,9,"","",5,,,5
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,2
+13,CHE 002C General Chemistry,CHE,002C,12,"","",5,,,3
+14,CHE 118A Organic Chem Health Sci,CHE,118A,13,"","",4,,,4
+15,CHE 118B Organic Chem Health Sci,CHE,118B,14,"","",4,,,5
+16,CHE 118C Organic Chem Health Sci,CHE,118C,15,"","",4,,,7
+17,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+18,MAT 017B Calculus for BioSci,MAT,017B,17,"","",4,,,2
+19,PHY 007A General Physics,PHY,007A,"",18,"",4,,,5
+20,PHY 007B General Physics,PHY,007B,19,"","",4,,,6
+21,STA 100 Applied Stat for Bio Sci,STA,100,18,"","",4,,,5
+22,UWP 101 Advanced Composition,UWP,101,32,"","",4,,,9
+23,BIS 101 Genes & Gene Expression,BIS,101,8;9;14;21,"","",4,,,7
+24,BIS 104 Cell Biology,BIS,104,23;25,"","",3,,,10
+25,BIS 102 Struc & Func Biomolecule,BIS,102,8;15,"","",3,,,8
+26,BIS 103 Bioenergetics/Metabolism,BIS,103,25,"","",3,,,9
+27,BIT 171 Ethics in Biotechnology,BIT,171,"","","",3,,,9
+28,MIC 102 Intro Microbiology,MIC,102,8,12,"",4,,,8
+29,MCB 121 Adv Molecular Biology,MCB,121,23,25,"",3,,,10
+30,BIT 192 Internship,BIT,192,"","","",12,,,10
+31,BIT 188 Research Proposal,BIT,188,"","","",3,,,9
+32,UWP 001 Academic Literacies,UWP,001,"","","",4,,,5

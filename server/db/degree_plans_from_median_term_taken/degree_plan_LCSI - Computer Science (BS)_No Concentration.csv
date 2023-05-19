@@ -1,0 +1,34 @@
+Curriculum,LCSI - Computer Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,11.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,3
+2,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 022A Linear Algebra,MAT,022A,1,5,"",3,,,4
+5,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+6,ECS 020 Discrete Math for CS,ECS,020,3,"","",4,,,3
+7,ECS 036A Programming,ECS,036A,27,"","",4,,,1
+8,ECS 036B Object-Oriented Program,ECS,036B,7,"","",4,,,4
+9,ECS 036C Data Structures,ECS,036C,8;6,"","",4,,,4
+10,ECS 050 Machine Dependent Prog,ECS,050,8,"","",4,,,4
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+12,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+13,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+14,ECS 122A Algorithm Design & Anyls,ECS,122A,6;9,"","",4,,,6
+15,ECS 120 Theory Computation,ECS,120,6,"","",4,,,7
+16,ECS 140A Programming Languages,ECS,140A,10;9;6;17,"","",4,,,8
+17,ECS 150 Operating Systems,ECS,150,9;18,"","",4,,,9
+18,ECS 154A Computer Architecture,ECS,154A,10,"","",4,,,7
+19,ECS 132 Prob & Sta Model for CS,ECS,132,8;6;1;4,"","",4,,,9
+20,ECS 152A Computer Networks,ECS,152A,9;19,"","",4,,,9
+21,MAT 108 Intro Abstract Math,MAT,108,2,"","",4,,,8
+22,ECS 122B Algorithm Design & Anlys,ECS,122B,14;9,"","",4,,,9
+23,ECS 188 Ethics in an Age of Tech,ECS,188,"","","",4,,,10
+24,ECS 170 Artificial Intelligence,ECS,170,9,"","",4,,,9
+25,ECS 165A Database Systems,ECS,165A,9,"","",4,,,11
+26,MAT 145 Combinatorics,MAT,145,1,"","",4,,,9
+27,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,2

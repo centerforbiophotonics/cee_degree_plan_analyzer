@@ -1,0 +1,13 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 017B History Of The U S,HIS,017B,"","","",4,,,3
+2,HIS 017A History Of The U S,HIS,017A,"",1,"",4,,,3
+3,HIS 174C US Since 1945,HIS,174C,"",2,"",4,,,8
+4,HIS 171B Civil War Era,HIS,171B,"",3,"",4,,,6
+5,HIS 102M U S Since 1896,HIS,102M,"",4,"",5,,,9
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2

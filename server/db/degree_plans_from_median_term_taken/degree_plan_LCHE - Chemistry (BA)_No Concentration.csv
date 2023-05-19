@@ -1,0 +1,29 @@
+Curriculum,LCHE - Chemistry (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,40.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+2,CHE 002B General Chemistry,CHE,002B,1,"","",5,,,2
+3,CHE 002C General Chemistry,CHE,002C,2,"","",5,,,3
+4,PHY 007A General Physics,PHY,007A,"",7,"",4,,,5
+5,PHY 007B General Physics,PHY,007B,4,"","",4,,,6
+6,PHY 007C General Physics,PHY,007C,5,"","",4,,,7
+7,MAT 021B Calculus,MAT,021B,8,"","",4,,,2
+8,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+9,MAT 021C Calculus,MAT,021C,7,"","",4,,,3
+10,CHE 105 Anly & Phys Chem Methods,CHE,105,"",11,"",4,,,10
+11,CHE 110A Phys Chem: Quantum Mech,CHE,110A,3;9;6,"","",4,,,7
+12,CHE 110B Phys Chem: Atoms & Molec,CHE,110B,11,"","",4,,,8
+13,CHE 110C Phys Chem: Thermo & Kin,CHE,110C,12,"","",4,,,9
+14,CHE 124A Inorg Fundamentals,CHE,124A,3,"","",3,,,7
+15,CHE 128A Organic Chemistry,CHE,128A,3,"","",3,,,4
+16,CHE 128B Organic Chemistry,CHE,128B,15,"","",3,,,5
+17,CHE 128C Organic Chemistry,CHE,128C,16,"","",3,,,6
+18,CHE 129A Organic Chem Lab,CHE,129A,3,15,"",2,,,4
+19,CHE 129B Organic Chem Lab,CHE,129B,18,16,"",2,,,5
+20,CHE 199 Special Study,CHE,199,"","","",5,,,8
+21,CHE 118A Organic Chem Health Sci,CHE,118A,3,"","",4,,,4
+22,CHE 118B Organic Chem Health Sci,CHE,118B,21,"","",4,,,6

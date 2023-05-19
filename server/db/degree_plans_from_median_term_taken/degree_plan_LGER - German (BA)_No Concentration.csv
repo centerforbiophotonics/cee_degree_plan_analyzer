@@ -1,0 +1,24 @@
+Curriculum,LGER - German (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GER 022 Intermediate German,GER,022,13,"","",4,,,5
+2,GER 101A German Lit: 800-1800,GER,101A,1,"","",4,,,7
+3,"GER 101B German Lit, 1800-Present",GER,101B,1,"","",4,,,8
+4,GER 103 German Writing Skills,GER,103,1,"","",4,,,10
+5,GER 120 Survey of German Culture,GER,120,1,"","",4,,,9
+6,GER 109A Business German,GER,109A,1,"","",4,,,8
+7,GER 168 German Multiculturalism,GER,168,1,"","",4,,,11
+8,GER 121 Medieval German Lit,GER,121,1,"","",4,,,8
+9,GER 143 Language Through Media,GER,143,1,"","",4,,,7
+10,GER 112 Topics German Literature,GER,112,"","","",4,,,11
+11,GER 141 Holocaust Lit,GER,141,"","","",4,,,9
+12,GER 114  German Women & Film,GER,114,"","","",4,,,11
+13,GER 021 Intermediate German,GER,021,14,"","",4,,,5
+14,GER 020 Intermediate German,GER,020,15,"","",4,,,4
+15,GER 003 Elementary German,GER,003,16,"","",5,,,3
+16,GER 002 Elementary German,GER,002,17,"","",5,,,3
+17,GER 001 Elementary German,GER,001,"","","",5,,,2

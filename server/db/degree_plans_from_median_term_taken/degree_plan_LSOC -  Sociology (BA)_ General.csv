@@ -1,0 +1,25 @@
+Curriculum,LSOC -  Sociology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOC 001 Intro Sociology,SOC,001,"","","",5,,,3
+2,SOC 046A Intro Social Rsch,SOC,046A,"",1,"",4,,,5
+3,SOC 056 Intro to Social Stats,SOC,056,"",2,"",5,,,0
+4,SOC 003 Social Problems,SOC,003,"",3,"",4,,,4
+5,ANT 002 Cultural Anthropology,ANT,002,"",4,"",5,,,3
+6,HIS 017B History Of The U S,HIS,017B,"",5,"",4,,,4
+7,PHI 005 Critical Reasoning,PHI,005,"",6,"",4,,,5
+8,SOC 100 Sociological Theory,SOC,100,"",7,"",4,,,9
+9,SOC 125 Sociology of Culture,SOC,125,"",8,"",4,,,9
+10,SOC 132 Gender,SOC,132,"",9,"",4,,,9
+11,SOC 131 The Family,SOC,131,"",10,"",4,,,8
+12,SOC 104 International Migration,SOC,104,"",11,"",4,,,9
+13,SOC 150 Criminology,SOC,150,"",12,"",4,,,9
+14,SOC 120 Deviance,SOC,120,"",13,"",4,,,9
+15,SOC 152 Juvenile Delinquency,SOC,152,"",14,"",4,,,9
+16,SOC 151 The Criminal Justice Sys,SOC,151,"",15,"",4,,,8
+17,SOC 140 Social Stratification,SOC,140,"",16,"",4,,,10
+18,SOC 130 Race Relations,SOC,130,"",17,"",4,,,9

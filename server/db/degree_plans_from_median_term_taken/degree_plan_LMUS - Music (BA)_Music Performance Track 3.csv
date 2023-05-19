@@ -1,0 +1,41 @@
+Curriculum,LMUS - Music (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 121 Topics Mus Schol,MUS,121,19;34,"","",4,,,9
+2,MUS 123 Music as Culture,MUS,123,33,"","",4,,,7
+3,MUS 124D Music History 4,MUS,124D,34,"","",4,,,0
+4,MUS 195 Senior Project,MUS,195,28;2,"","",2,,,12
+5,MUS 131A Voice,MUS,131A,"","","",2,,,8
+6,MUS 131B Piano,MUS,131B,"","","",2,,,7
+7,MUS 131E Violin,MUS,131E,"","","",2,,,4
+8,MUS 141 University Symphony,MUS,141,"","","",2,,,6
+9,MUS 146 Chamber Music,MUS,146,"","","",1,,,6
+10,MUS 143 University Concert Band,MUS,143,"","","",2,,,6
+11,MUS 144 University Chorus,MUS,144,"","","",2,,,6
+12,MUS 140 University Jazz Band,MUS,140,"","","",2,,,9
+13,MUS 145 Early Music Ensemble,MUS,145,"","","",2,,,9
+14,MUS 150 Brazilian Samba School,MUS,150,"","","",2,,,12
+15,MUS 103 Wrkshp in Composition,MUS,103,19,"","",3,,,7
+16,MUS 122 Topics Anlys & Theory,MUS,122,19;34,"","",4,,,10
+17,MUS 006A Elementary Theory,MUS,006A,"",20;23,"",3,,,2
+18,MUS 006B Elementary Theory,MUS,006B,"",21;24,"",3,,,5
+19,MUS 006C Elementary Theory,MUS,006C,"",22;25,"",3,,,6
+20,MUS 002A Keyboard Competence,MUS,002A,"",23,"",2,,,4
+21,MUS 002B Keyboard Competence,MUS,002B,20,24,"",2,,,5
+22,MUS 002C Keyboard Competence,MUS,002C,21,25,"",2,,,6
+23,MUS 016A Elementary Musicianship,MUS,016A,"","","",2,,,1
+24,MUS 016B Elementary Musicianship,MUS,016B,23,"","",2,,,5
+25,MUS 016C Elementary Musicianship,MUS,016C,24,"","",2,,,6
+26,MUS 007A Intermediate Theory,MUS,007A,19,29,"",3,,,7
+27,MUS 007B Intermediate Theory,MUS,007B,26,30,"",3,,,8
+28,MUS 007C Intermediate Theory,MUS,007C,27,31,"",3,,,9
+29,MUS 017A Intermed Musicianship,MUS,017A,25,"","",2,,,7
+30,MUS 017B Intermed Musicianship,MUS,017B,29,"","",2,,,8
+31,MUS 017C Intermed Musicianship,MUS,017C,30,"","",2,,,9
+32,MUS 024A MH1: Baroque & Classic,MUS,024A,17,"","",4,,,4
+33,MUS 024B MH2: Romantic Era,MUS,024B,32,"","",3,,,5
+34,MUS 024C Intro Music History,MUS,024C,33,"","",4,,,6

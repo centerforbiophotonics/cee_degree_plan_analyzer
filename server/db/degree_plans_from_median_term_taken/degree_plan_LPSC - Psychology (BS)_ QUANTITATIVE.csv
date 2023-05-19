@@ -1,0 +1,31 @@
+Curriculum,LPSC - Psychology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,42.2799
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+2,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+3,PSC 041 Research Meth in Psych,PSC,041,1,"","",4,,,4
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+6,MAT 021C Calculus,MAT,021C,5,"","",4,,,4
+7,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,8
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+9,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,3
+10,PHY 007A General Physics,PHY,007A,"",5,"",4,,,6
+11,PHY 007B General Physics,PHY,007B,10,"","",4,,,7
+12,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+13,PSC 103A Stat Analys Psych Data,PSC,103A,1;3;2,"","",5,,,9
+14,PSC 103B Stat Analys Psych Data,PSC,103B,13;2,"","",5,,,9
+15,STA 108 Regression Analysis,STA,108,2,"","",4,,,8
+16,STA 106 Analysis of Variance,STA,106,2,"","",4,,,8
+17,PSC 100 Cognitive Psychology,PSC,100,1;3,"","",4,,,7
+18,PSC 135 Cognitive Neuroscience,PSC,135,1;3,"","",4,,,8
+19,PSC 101 Intro to Bio Psych,PSC,101,1;3,"","",4,,,7
+20,PSC 126 Health Psychology,PSC,126,1;3,"","",4,,,8
+21,PSC 168 Abnormal Psych,PSC,168,1;3,"","",4,,,8
+22,PSC 140 Developmental Psychology,PSC,140,1;3,"","",4,,,7
+23,PSC 151 Social Psychology,PSC,151,"","","",4,,,7
+24,PSC 199 Special Study,PSC,199,"","","",5,,,9

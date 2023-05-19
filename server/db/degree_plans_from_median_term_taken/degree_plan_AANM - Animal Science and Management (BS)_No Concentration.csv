@@ -1,0 +1,46 @@
+Curriculum,AANM - Animal Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 101 Advanced Composition,UWP,101,34,"","",4,,,9
+2,UWP 104A Business Writing,UWP,104A,34,"","",4,,,8
+3,ANS 001 Domestic Anim & People,ANS,001,"","","",4,,,1
+4,ANS 002 Intro Animal Sci,ANS,002,"","","",4,,,3
+5,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+6,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+7,BIS 002C Introduction to Biology,BIS,002C,6,"","",5,,,6
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+9,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,2
+10,CHE 008A Organic Chemistry-Brief,CHE,008A,9,"","",2,,,4
+11,CHE 008B Organic Chemistry-Brief,CHE,008B,10,"","",4,,,5
+12,PLS 021 Computers in Technology,PLS,021,"","","",3,,,4
+13,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,4
+14,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,5
+15,MGT 011A Elementary Accounting,MGT,011A,"","","",4,,,7
+16,MGT 011B Elementary Accounting,MGT,011B,15,"","",4,,,9
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+18,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,3
+19,MAT 016C Short Calculus,MAT,016C,18,"","",3,,,5
+20,STA 100 Applied Stat for Bio Sci,STA,100,18,"","",4,,,6
+21,BIS 101 Genes & Gene Expression,BIS,101,5;6;10;20,"","",4,,,9
+22,NUT 115 Animal Nutrition,NUT,115,11,"","",4,,,8
+23,ANS 100 Animal Physiology,ANS,100,5;9,"","",5,,,9
+24,ARE 100A Intermed Microeconomics,ARE,100A,17,"","",4,,,9
+25,ARE 136 Managerial Marketing,ARE,136,35;37;24;38;39,"","",4,,,0
+26,ARE 145 Farm & Rural Res Apprais,ARE,145,"","","",4,,,11
+27,ANS 128 Agr Applications of LP,ANS,128,12,"","",4,,,11
+28,ANS 148 Enterprise Analy An Indu,ANS,148,"","","",4,,,12
+29,ANS 041 Domestic Anim Prod,ANS,041,"","","",2,,,4
+30,ANS 041L Domestic Animal Prod Lab,ANS,041L,"",29,"",2,,,5
+31,ANS 146 Dairy Cattle Production,ANS,146,22,"","",5,,,12
+32,ANS 192 Internship,ANS,192,"","","",12,,,8
+33,ARE 112 Organization Management,ARE,112,"","","",4,,,10
+34,ENL 003 Intro To Literature,ENL,003,"","","",4,,,4
+35,ARE 100B Intermed Microeconomics,ARE,100B,24;13;14;17;36,"","",4,,,0
+36,ARE 018 Business Law,ARE,018,"","","",4,,,6
+37,ARE 106 Econometrics,ARE,106,24;38;39;12,"","",4,,,0
+38,STA 103 Applied Statistics,STA,103,20;18,"","",4,,,8
+39,STA 013 Elementary Statistics,STA,013,"","","",4,,,0

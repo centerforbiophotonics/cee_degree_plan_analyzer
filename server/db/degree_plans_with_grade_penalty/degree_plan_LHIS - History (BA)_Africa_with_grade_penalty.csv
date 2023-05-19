@@ -1,0 +1,15 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 015A Africa to 1900,HIS,015A,"","","",4,,,5,0.12680000000000002,0.20626666666666668,75,202103,201810,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""F"", ""NP*"", ""P*""]"
+2,HIS 015B Africa Today,HIS,015B,"",1,"",4,,,3,0.16937500000000003,0.18541666666666667,48,202110,201803,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""F"", ""P*""]"
+3,HIS 115C Southern African,HIS,115C,"",2,"",4,,,9,0.4336956521739131,0.3002173913043479,46,202103,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C+"", ""I"", ""NP*"", ""P*""]"
+4,HIS 115B History of East Africa,HIS,115B,"",3,"",4,,,8,0.5011764705882352,0.2555882352941176,34,202003,200201,"[""A"", ""A-"", ""A+"", ""B"", ""B+"", ""P*""]"
+5,HIS 115A History of West Africa,HIS,115A,"",4,"",4,,,7,0.17392857142857146,0.06892857142857148,28,202201,200203,"[""A"", ""A-"", ""A+"", ""B-"", ""B+"", ""C+"", ""I"", ""P*""]"
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.25346962959224234,0.16433555359412666

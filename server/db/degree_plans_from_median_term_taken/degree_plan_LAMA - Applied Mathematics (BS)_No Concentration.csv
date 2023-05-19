@@ -1,0 +1,37 @@
+Curriculum,LAMA - Applied Mathematics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,27.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,2,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 108 Intro Abstract Math,MAT,108,1,"","",4,,,5
+8,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+9,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,4
+10,ENG 006 Engineering Prob Solving,ENG,006,4,1,"",4,,,6
+11,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,2
+12,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+13,MAT 119A Ordinary Diff Equations,MAT,119A,3;5;8,"","",4,,,8
+14,MAT 127A Real Analysis,MAT,127A,5;7;2,"","",4,,,6
+15,MAT 127B Real Analysis,MAT,127B,14,"","",4,,,7
+16,MAT 127C Real Analysis,MAT,127C,15,"","",4,,,9
+17,MAT 128A Numerical Analysis,MAT,128A,2;10,"","",4,,,9
+18,MAT 128B Numerical Analysis,MAT,128B,5;10,"","",4,,,11
+19,MAT 135A Probability,MAT,135A,2;7,"","",4,,,7
+20,MAT 150A Modern Algebra,MAT,150A,26;7;5,"","",4,,,8
+21,MAT 185A Complex Variables,MAT,185A,15;5;7,"","",4,,,10
+22,MAT 145 Combinatorics,MAT,145,2,"","",4,,,8
+23,MAT 128C Numerical Analysis,MAT,128C,8;5;10,"","",4,,,9
+24,ATM 121A Atmos Dynamics,ATM,121A,27;3;28,"","",4,,,8
+25,MAT 135B Stochastic Processes,MAT,135B,19;5,"","",4,,,10
+26,MAT 067 Modern Linear Algebra,MAT,067,2,"","",4,,,4
+27,ATM 120 Thermodyn & Cloud Physic,ATM,120,2;28,30,"",4,,,7
+28,PHY 009B Classical Physics,PHY,009B,29;2,3,"",5,,,4
+29,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+30,ATM 060 Intr Atmospheric Science,ATM,060,4;29,"","",4,,,4

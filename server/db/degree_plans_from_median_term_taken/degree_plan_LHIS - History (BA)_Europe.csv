@@ -1,0 +1,14 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 004C Western Civ,HIS,004C,"","","",4,,,3
+2,HIS 004A Western Civ,HIS,004A,"",1,"",4,,,4
+3,HIS 142A History of the Holocaust,HIS,142A,"",2,"",4,,,9
+4,HIS 146B Europe In 20th Cent,HIS,146B,"",3,"",4,,,6
+5,HIS 146A Europe In 20th Cent,HIS,146A,"",4,"",4,,,10
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9

@@ -1,0 +1,22 @@
+Curriculum,LCDM - Cinema and Digital Media (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,FMS 001 Intro to Film Studies,FMS,001,"","","",4,,,2
+2,CDM 002 Intro Technocult Studies,CDM,002,"","","",4,,,7
+3,CTS 012 Media Computation,CTS,012,"","","",4,,,5
+4,CDM 020 Filmmaking Foundations,CDM,020,"","","",5,,,7
+5,CTS 040A Media History 1,CTS,040A,"","","",4,,,6
+6,CTS 041B Cinema Hist 1945 to now,CTS,041B,"","","",4,,,7
+7,CTS 150 Media Theory,CTS,150,"","","",5,,,9
+8,CTS 116 Design on Screen,CTS,116,"","","",4,,,7
+9,CDM 198 Directed Group Study,CDM,198,"","","",5,,,10
+10,TCS 155 Intro Doc Studies,TCS,155,"","","",4,,,7
+11,FMS 127 Film Theory,FMS,127,1,"","",4,,,8
+12,CDM 156 Epic Television,CDM,156,"","","",4,,,9
+13,CDM 121 Intro to Sonic Arts,CDM,121,"","","",4,,,10
+14,FMS 124 US Film History,FMS,124,1,"","",4,,,10
+15,FMS 125 Film Genres,FMS,125,1,"","",4,,,6

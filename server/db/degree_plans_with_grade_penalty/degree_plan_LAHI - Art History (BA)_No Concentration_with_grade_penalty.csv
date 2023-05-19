@@ -1,0 +1,17 @@
+Curriculum,LAHI - Art History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,AHI 001A Ancient Mediterran Art,AHI,001A,"","","",4,,,4,0.46985163204747776,0.44676557863501487,337,202110,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""F"", ""NP*"", ""P*""]"
+2,AHI 001B Mediev & Renaiss Art,AHI,001B,"",1,"",4,,,2,0.11522633744855969,0.10740740740740742,243,202201,200101,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D-"", ""D+"", ""F"", ""NP*"", ""P*""]"
+3,AHI 001C Baroque to Modern Art,AHI,001C,"",2,"",4,,,3,-0.4172789115646259,-0.5437414965986395,147,202103,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D-"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""Y""]"
+4,AHI 001D Arts of Asia,AHI,001D,"",3,"",4,,,6,0.05142857142857142,-0.16940476190476192,84,202103,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D+"", ""F"", ""I"", ""NP*"", ""P*""]"
+5,ART 002 Beginning Drawing,ART,002,"",4,"",5,,,9,0.42975778546712806,0.35681660899653983,289,202201,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""F"", ""NG"", ""NP*"", ""P*""]"
+6,AHI 172A Early Greek Art & Arch,AHI,172A,"",5,"",4,,,7,0.2592857142857143,0.3375,56,202110,200401,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""F""]"
+7,AHI 186 Contemporary Art,AHI,186,"",6,"",4,,,8,0.009531250000000047,-0.13499999999999995,64,202001,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C+"", ""D"", ""P*""]"
+8,AHI 183B Impressionism Manet-1900,AHI,183B,"",7,"",4,,,8,-0.04461538461538462,-0.12019230769230771,52,202110,200303,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C+"", ""D"", ""F""]"
+9,AHI 189 Photography in History,AHI,189,"",8,"",4,,,9,0.47150684931506853,0.17753424657534253,73,202003,200101,"[""A"", ""A-"", ""A+"", ""B+"", ""F"", ""P*""]"
+Overall Average,"","","","","","","","","","",0.14941042709027882,0.050853919490955066

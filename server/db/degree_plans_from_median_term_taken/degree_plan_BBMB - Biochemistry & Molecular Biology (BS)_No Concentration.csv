@@ -1,0 +1,38 @@
+Curriculum,BBMB - Biochemistry & Molecular Biology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0205
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,5
+4,BIS 002D Intro to Cell Biology,BIS,002D,1,"","",3,,,0
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+6,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+9,MAT 017B Calculus for BioSci,MAT,017B,8,"","",4,,,2
+10,MAT 017C Calculus for BioSci,MAT,017C,9,"","",4,,,3
+11,PHY 007A General Physics,PHY,007A,"",9,"",4,,,5
+12,PHY 007B General Physics,PHY,007B,11,"","",4,,,6
+13,PHY 007C General Physics,PHY,007C,12,"","",4,,,7
+14,BIS 101 Genes & Gene Expression,BIS,101,1;2;17;22,"","",4,,,6
+15,BIS 102 Struc & Func Biomolecule,BIS,102,1;18,"","",3,,,7
+16,BIS 103 Bioenergetics/Metabolism,BIS,103,15,"","",3,,,8
+17,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+18,CHE 118B Organic Chem Health Sci,CHE,118B,17,"","",4,,,5
+19,CHE 118C Organic Chem Health Sci,CHE,118C,18,"","",4,,,6
+20,CHE 107A Physical Chem Life Sci,CHE,107A,7;10;13,"","",3,,,8
+21,CHE 107B Phys Chem Life Sci,CHE,107B,20,"","",3,,,9
+22,STA 100 Applied Stat for Bio Sci,STA,100,9,"","",4,,,5
+23,MCB 120 Laboratory Assoc Lect,MCB,120,15,"","",3,,,9
+24,MCB 120L Molec Biol & Biochem Lab,MCB,120L,15,"","",6,,,9
+25,MCB 121 Adv Molecular Biology,MCB,121,14,15,"",3,,,9
+26,MCB 123 Enzymes & Receptors,MCB,123,16,"","",3,,,10
+27,MCB 124 Macromolec Struct Funct,MCB,124,15;14,"","",4,,,10
+28,BIS 104 Cell Biology,BIS,104,14;15,"","",3,,,9
+29,BIS 101D Genes and Gene Exp Disc,BIS,101D,"",14,"",1,,,7
+30,NPB 101 Systemic Physiology,NPB,101,1;6,"","",5,,,9
+31,NPB 101L Systemic Physiology Lab,NPB,101L,30,"","",3,,,11

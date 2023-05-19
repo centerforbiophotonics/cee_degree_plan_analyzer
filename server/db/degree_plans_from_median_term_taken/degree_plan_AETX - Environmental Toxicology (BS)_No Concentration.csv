@@ -1,0 +1,35 @@
+Curriculum,AETX - Environmental Toxicology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1006
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 118A Organic Chem Health Sci,CHE,118A,6,"","",4,,,4
+8,CHE 118B Organic Chem Health Sci,CHE,118B,7,"","",4,,,6
+9,CHE 118C Organic Chem Health Sci,CHE,118C,8,"","",4,,,7
+10,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+11,MAT 017B Calculus for BioSci,MAT,017B,10,"","",4,,,2
+12,MAT 017C Calculus for BioSci,MAT,017C,11,"","",4,,,3
+13,PHY 007A General Physics,PHY,007A,"",11,"",4,,,5
+14,PHY 007B General Physics,PHY,007B,13,"","",4,,,6
+15,PHY 007C General Physics,PHY,007C,14,"","",4,,,7
+16,STA 100 Applied Stat for Bio Sci,STA,100,11,"","",4,,,5
+17,UWP 104E Writing in Science,UWP,104E,27,"","",4,,,8
+18,BIS 102 Struc & Func Biomolecule,BIS,102,1;8,"","",3,,,8
+19,BIS 101 Genes & Gene Expression,BIS,101,1;2;7;16,"","",4,,,7
+20,ETX 101 Principles Environ Tox,ETX,101,8;1,"","",4,,,7
+21,ETX 102A Env Fate of Toxicants,ETX,102A,8,"","",4,,,8
+22,ETX 102B Quant Analys Env Tox,ETX,102B,21,"","",5,,,9
+23,ETX 103A Bio Effects of Toxicants,ETX,103A,28,"","",4,,,11
+24,ETX 103B Bio Effects of Tox Exp,ETX,103B,23,"","",5,,,12
+25,ETX 135 Toxic Risk Assessment,ETX,135,20,"","",3,,,10
+26,ETX 138 Legal Aspects Env Tox,ETX,138,"","","",3,,,8
+27,ENL 003 Intro To Literature,ENL,003,"","","",4,,,2
+28,NPB 101 Systemic Physiology,NPB,101,1;5,"","",5,,,9

@@ -1,0 +1,32 @@
+Curriculum,"BEEB - Evolution, Ecology, and Biodiversity (BA)"
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,26.1310
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,5
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+7,PHY 001B Principles Physics,PHY,001B,6,"","",3,,,8
+8,BIS 101 Genes & Gene Expression,BIS,101,2;1;21;22,"","",4,,,7
+9,EVE 100 Intro to Evolution,EVE,100,2;1;3;24;23,"","",4,,,9
+10,EVE 101 Introduction to Ecology,EVE,101,2;1;3;24;23,"","",4,,,8
+11,EVE 112 Biology of Invertebrates,EVE,112,1,"","",4,,,8
+12,EVE 112L Biol Invertebrates Lab,EVE,112L,1,11,"",3,,,8
+13,EVE 107 Animal Communication,EVE,107,1,"","",4,,,7
+14,BIS 104 Cell Biology,BIS,104,8;18,"","",3,,,10
+15,EVE 199 Special Study,EVE,199,"","","",5,,,9
+16,EVE 189 Intro To Bio Res,EVE,189,"","","",1,,,9
+17,BIS 101D Genes and Gene Exp Disc,BIS,101D,"",8,"",1,,,7
+18,BIS 105 Biomolecule & Metabolism,BIS,105,2;25,"","",3,,,8
+19,BIS 102 Struc & Func Biomolecule,BIS,102,2;25,"","",3,,,8
+20,EVE 115 Marine Ecology,EVE,115,1,"","",4,,,11
+21,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,6
+22,STA 100 Applied Stat for Bio Sci,STA,100,23,"","",4,,,6
+23,MAT 017B Calculus for BioSci,MAT,017B,24,"","",4,,,2
+24,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+25,CHE 008B Organic Chemistry-Brief,CHE,008B,21,"","",4,,,7

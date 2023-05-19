@@ -1,0 +1,15 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 007A Latin America to 1700,HIS,007A,"","","",4,,,4,0.24945578231292517,0.19333333333333336,147,202110,200410,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""D+"", ""F"", ""NP*"", ""P*"", ""RW""]"
+2,HIS 007B Latin America 1700-1900,HIS,007B,"",1,"",4,,,3,-0.12428571428571433,-0.246,35,202201,200501,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""NP*"", ""P*""]"
+3,HIS 161 Human Rights Latin Am,HIS,161,"",2,"",4,,,8,0.08711711711711714,-0.12378378378378377,111,202201,201503,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D-"", ""F"", ""I"", ""NP*"", ""P*""]"
+4,HIS 166B Mex Hist Since 1848,HIS,166B,"",3,"",4,,,7,0.16254901960784315,0.10274509803921571,51,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C+"", ""F"", ""NP*"", ""P*""]"
+5,HIS 168 Inter-Amer Relation,HIS,168,"",4,"",4,,,9,0.24227272727272728,0.08818181818181817,44,202107,200101,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C-"", ""D"", ""F"", ""I"", ""P*""]"
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.14091723499712502,0.02120111565272856

@@ -1,0 +1,22 @@
+Curriculum,LPPS - Political Science—Public Service (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POL 001 Amer Natl Govt,POL,001,"","","",4,,,3
+2,POL 003 Internatl Relations,POL,003,"","","",4,,,2
+3,POL 002 Intro Comp Politics,POL,002,"","","",4,,,3
+4,POL 004 Bas Cnpt/Pol Thry,POL,004,"","","",4,,,3
+5,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+6,POL 051 Scientific Study Politic,POL,051,"","","",4,,,4
+7,POL 104 CA State Govt & Politics,POL,104,"","","",4,,,7
+8,POL 108 Public Sector Policy,POL,108,"","","",4,,,7
+9,POL 105 Legislative Process,POL,105,"","","",4,,,8
+10,POL 192A Internship Pub Aff,POL,192A,"","","",6,,,9
+11,POL 193 Res In Practical Pol,POL,193,10;15,"","",2,,,10
+12,POL 100 Local Govt & Politics,POL,100,"","","",4,,,6
+13,POL 109 Pub Pol & Gov Proc,POL,109,"","","",4,,,7
+14,POL 165 Mass Media & Politics,POL,165,"","","",4,,,7
+15,POL 192B Internship Pub Aff,POL,192B,10,"","",5,,,9

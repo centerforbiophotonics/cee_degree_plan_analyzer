@@ -1,0 +1,51 @@
+Curriculum,AHYD - Hydrology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0605
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,6
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,6
+3,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+4,CHE 002B General Chemistry,CHE,002B,3,"","",5,,,2
+5,CHE 002C General Chemistry,CHE,002C,4,"","",5,,,3
+6,PHY 009A Classical Physics,PHY,009A,11,"","",5,,,3
+7,PHY 009B Classical Physics,PHY,009B,6;9,10,"",5,,,4
+8,PHY 009C Classical Physics,PHY,009C,7;10;13,"","",5,,,5
+9,MAT 021C Calculus,MAT,021C,11,"","",4,,,3
+10,MAT 021D Vector Analysis,MAT,021D,9,"","",4,,,4
+11,MAT 021B Calculus,MAT,021B,12,"","",4,,,2
+12,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+13,MAT 022A Linear Algebra,MAT,022A,17;9,"","",3,,,5
+14,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,9,"","",1,,,0
+15,GEL 050 Physical Geology,GEL,050,"","","",3,,,6
+16,GEL 050L Physical Geology Lab,GEL,050L,"",15,"",2,,,6
+17,ENG 006 Engineering Prob Solving,ENG,006,12,11,"",4,,,5
+18,ENG 103 Fluid Mechanics,ENG,103,30;31;7,"","",4,,,9
+19,ECI 114 Probabilistic Sys Anlys,ECI,114,9,"","",4,,,9
+20,HYD 134 Aqueous Geochemistry,HYD,134,4,"","",6,,,9
+21,HYD 141 Physical Hydrology,HYD,141,7;11,"","",4,,,7
+22,HYD 144 Groundwater Hydrology,HYD,144,"",12,"",4,,,10
+23,ESM 108 Environmental Monitoring,ESM,108,32;34;35;38;39;40;41;42,"","",3,,,0
+24,SSC 107 Soil Physics,SSC,107,40;39,"","",5,,,10
+25,HYD 150 Water Law,HYD,150,"","","",3,,,8
+26,LDA 150 Intro to GIS,LDA,150,"","","",4,,,0
+27,HYD 143 Ecohydrology,HYD,143,15,"","",4,,,8
+28,ABT 165 Irrig for Urban Envir,ABT,165,43,"","",3,,,8
+29,HYD 124 Plant-Water Relations,HYD,124,"",24;44,"",4,,,12
+30,ENG 035 Statics,ENG,035,6,10,"",4,,,8
+31,MAT 022B Differential Equations,MAT,022B,13,"","",3,,,6
+32,EVE 101 Introduction to Ecology,EVE,101,1;2;33;12;11,"","",4,,,0
+33,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,0
+34,ESP 100 General Ecology,ESP,100,1;2;33;12;11,"","",4,,,0
+35,ETX 101 Principles Environ Tox,ETX,101,36;1,"","",4,,,0
+36,CHE 128B Organic Chemistry,CHE,128B,37,"","",3,,,0
+37,CHE 128A Organic Chemistry,CHE,128A,5,"","",3,,,0
+38,WFC 100 Field Methods in WFCB,WFC,100,1;2;33,34,"",4,,,0
+39,ERS 100 Hydrologic Principles,ERS,100,"","","",4,,,0
+40,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,7
+41,ENH 100 Urban Forestry,ENH,100,2,"","",4,,,0
+42,LDA 050 Site Ecology,LDA,050,2,"","",4,,,0
+43,PHY 001A Principles Physics,PHY,001A,"","","",3,,,0
+44,PLS 100A Plant Metabolic Process,PLS,100A,33,"","",3,,,0

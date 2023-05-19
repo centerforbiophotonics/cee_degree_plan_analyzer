@@ -1,0 +1,21 @@
+Curriculum,LSTA - Statistics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,27.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,3
+2,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 022A Linear Algebra,MAT,022A,1,5,"",3,,,5
+5,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,5
+6,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,5
+7,STA 013 Elementary Statistics,STA,013,"","","",4,,,2
+8,STA 106 Analysis of Variance,STA,106,7,"","",4,,,6
+9,STA 108 Regression Analysis,STA,108,7,"","",4,,,5
+10,STA 130A Brief Math Stat,STA,130A,1;7,"","",4,,,7
+11,STA 130B Math Stat: Brief Course,STA,130B,10,"","",4,,,8
+12,STA 138 Anly Categor Data,STA,138,9,"","",4,,,10
+13,STA 141A Statistical Data Science,STA,141A,9,"","",4,,,9
+14,STA 141B Stat Data Technologies,STA,141B,13,"","",4,,,10

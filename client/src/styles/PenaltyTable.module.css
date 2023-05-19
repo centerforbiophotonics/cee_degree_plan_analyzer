@@ -1,0 +1,21 @@
+.table {
+}
+
+.checkboxContainer {
+  background-color: #b4d4d9;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.checkboxLabel {
+  text-align: center;
+  font-weight: bold;
+}
+
+.checkboxGroup {
+  height: 14rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

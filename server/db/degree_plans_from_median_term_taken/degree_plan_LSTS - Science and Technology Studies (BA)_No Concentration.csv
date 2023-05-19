@@ -1,0 +1,24 @@
+Curriculum,LSTS - Science and Technology Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,30.1501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,STS 001 Intro Science Studies,STS,001,"","","",4,,,7
+2,"STS 032 Drugs, Science & Culture",STS,032,"","","",4,,,8
+3,PHI 031 Scientific Reason,PHI,031,"","","",4,,,9
+4,STS 011 Science on Trial,STS,011,"","","",4,,,7
+5,"STS 100 Methods Sci, Tech & Med",STS,100,"","","",4,,,0
+6,STS 175 Laboratory Studies Lab,STS,175,"","","",4,,,12
+7,STS 150 Gender & Science,STS,150,"","","",4,,,9
+8,STS 121 Medical Anthropology,STS,121,"","","",4,,,9
+9,STS 173 Science Fiction,STS,173,1,"","",4,,,8
+10,STS 114 Global Information Age,STS,114,"","","",4,,,9
+11,STS 101 Intro to Data Studies,STS,101,"","","",4,,,10
+12,STS 162 Surveillance Studies,STS,162,17,"","",4,,,9
+13,STS 112 Visualizing Society,STS,112,"","","",4,,,8
+14,STS 180 Topics in STS,STS,180,"","","",4,,,6
+15,STS 198 Directed Group Study,STS,198,"","","",5,,,9
+16,STS 122 Health & Med Tech,STS,122,"","","",4,,,10
+17,STS 020 Methods Science Studies,STS,020,"","","",4,,,8

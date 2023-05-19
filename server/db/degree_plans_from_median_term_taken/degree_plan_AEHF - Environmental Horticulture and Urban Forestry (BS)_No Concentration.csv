@@ -1,0 +1,35 @@
+Curriculum,AEHF - Environmental Horticulture and Urban Forestry (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ENH 001 Envir Hort/Urban Forest,ENH,001,"","","",3,,,4
+2,ENH 006 Intro Environ Plant,ENH,006,"","","",4,,,4
+3,LDA 030 History Environ Design,LDA,030,"","","",4,,,5
+4,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+5,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+6,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,4
+7,PLS 021 Computers in Technology,PLS,021,"","","",3,,,3
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+9,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,3
+10,ESP 010 Current Issues Environ,ESP,010,"","","",4,,,5
+11,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+12,PHY 001B Principles Physics,PHY,001B,11,"","",3,,,8
+13,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+14,UWP 104E Writing in Science,UWP,104E,24,"","",4,,,9
+15,PLS 100A Plant Metabolic Process,PLS,100A,6,"","",3,,,7
+16,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",15,"",2,,,0
+17,ENH 105 Taxon & Ecol Env Plants,ENH,105,2,"","",4,,,9
+18,PLS 150 Agroecosystem Management,PLS,150,25;8;6,"","",4,,,12
+19,PLS 171 Plant Propagation,PLS,171,6,"","",4,,,9
+20,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,10
+21,PLP 120 Intro Plant Path,PLP,120,26,"","",4,,,8
+22,PLS 105 Concepts in Pest Mgt,PLS,105,27;4,"","",3,,,10
+23,PLS 192 Internship,PLS,192,"","","",12,,,9
+24,UWP 001 Academic Literacies,UWP,001,"","","",4,,,6
+25,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,1
+26,BIS 002C Introduction to Biology,BIS,002C,4,"","",5,,,5
+27,CHE 008B Organic Chemistry-Brief,CHE,008B,28,"","",4,,,7
+28,CHE 008A Organic Chemistry-Brief,CHE,008A,9,"","",2,,,6

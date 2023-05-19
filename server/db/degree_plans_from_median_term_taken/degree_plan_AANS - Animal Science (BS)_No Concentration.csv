@@ -1,0 +1,32 @@
+Curriculum,AANS - Animal Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANS 001 Domestic Anim & People,ANS,001,"","","",4,,,1
+2,ANS 002 Intro Animal Sci,ANS,002,"","","",4,,,3
+3,ANS 041 Domestic Anim Prod,ANS,041,"","","",2,,,4
+4,ANS 041L Domestic Animal Prod Lab,ANS,041L,"",3,"",2,,,5
+5,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+6,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+7,BIS 002C Introduction to Biology,BIS,002C,6,"","",5,,,6
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+9,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,2
+10,CHE 008A Organic Chemistry-Brief,CHE,008A,9,"","",2,,,4
+11,CHE 008B Organic Chemistry-Brief,CHE,008B,10,"","",4,,,5
+12,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+13,MAT 016B Short Calculus,MAT,016B,12,"","",3,,,3
+14,STA 100 Applied Stat for Bio Sci,STA,100,13,"","",4,,,6
+15,BIS 101 Genes & Gene Expression,BIS,101,5;6;10;14,"","",4,,,8
+16,ANG 107 Genetics & Anim Breeding,ANG,107,15,"","",5,,,10
+17,ABI 102 Animal Biochem & Metabol,ABI,102,8,"","",5,,,7
+18,ABI 103 Animal Biochem & Metabol,ABI,103,17,"","",5,,,8
+19,ANS 100 Animal Physiology,ANS,100,5;9,"","",5,,,9
+20,ANS 104 Domestic Animal Behavior,ANS,104,6,"","",4,,,9
+21,ANS 150 Animal Health & Disease,ANS,150,6,"","",4,,,12
+22,ANS 170 Ethics of Animal Use,ANS,170,25,"","",4,,,9
+23,NUT 115 Animal Nutrition,NUT,115,11,"","",4,,,8
+24,NUT 141 Comp Nut & Metabolism,NUT,141,18,"","",4,,,10
+25,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3

@@ -1,0 +1,33 @@
+Curriculum,AMCS - Marine and Coastal Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.3201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+8,MAT 017B Calculus for BioSci,MAT,017B,7,"","",4,,,2
+9,MAT 017C Calculus for BioSci,MAT,017C,8,"","",4,,,3
+10,PHY 007A General Physics,PHY,007A,"",8,"",4,,,4
+11,PHY 007B General Physics,PHY,007B,10,"","",4,,,5
+12,PHY 007C General Physics,PHY,007C,11,"","",4,,,7
+13,STA 100 Applied Stat for Bio Sci,STA,100,8,"","",4,,,6
+14,GEL 116N Oceanography,GEL,116N,23,"","",3,,,8
+15,ESP 152 Coastal Oceanography,ESP,152,"","","",3,,,7
+16,ESP 155 Wetland Ecology,ESP,155,2,"","",4,,,7
+17,ETX 102A Env Fate of Toxicants,ETX,102A,24,"","",4,,,11
+18,HYD 143 Ecohydrology,HYD,143,26,"","",4,,,11
+19,CHE 100 Environmental Water Chem,CHE,100,6,"","",3,,,5
+20,ETX 101 Principles Environ Tox,ETX,101,24;2,"","",4,,,10
+21,HYD 134 Aqueous Geochemistry,HYD,134,5,"","",6,,,0
+22,BIS 124 Coastal Marine Research,BIS,124,"",15,"",6,,,0
+23,GEL 016 The Oceans,GEL,016,"","","",3,,,2
+24,CHE 008B Organic Chemistry-Brief,CHE,008B,25,"","",4,,,7
+25,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,6
+26,GEL 050 Physical Geology,GEL,050,"","","",3,,,6

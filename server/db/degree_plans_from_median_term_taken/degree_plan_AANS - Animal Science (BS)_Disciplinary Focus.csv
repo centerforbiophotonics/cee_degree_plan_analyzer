@@ -1,0 +1,35 @@
+Curriculum,AANS - Animal Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,NPB 121 Reproductive Physiology,NPB,121,22,"","",4,,,11
+2,NPB 121L Phys Reprod Lab,NPB,121L,"",1,"",1,,,11
+3,ANS 106 Animal Behavior Lab,ANS,106,23,"","",3,,,11
+4,ANS 001 Domestic Anim & People,ANS,001,"","","",4,,,1
+5,ANS 002 Intro Animal Sci,ANS,002,"","","",4,,,3
+6,ANS 041 Domestic Anim Prod,ANS,041,"","","",2,,,4
+7,ANS 041L Domestic Animal Prod Lab,ANS,041L,"",6,"",2,,,5
+8,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+9,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+10,BIS 002C Introduction to Biology,BIS,002C,9,"","",5,,,6
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,2
+13,CHE 008A Organic Chemistry-Brief,CHE,008A,12,"","",2,,,4
+14,CHE 008B Organic Chemistry-Brief,CHE,008B,13,"","",4,,,5
+15,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+16,MAT 016B Short Calculus,MAT,016B,15,"","",3,,,3
+17,STA 100 Applied Stat for Bio Sci,STA,100,16,"","",4,,,6
+18,BIS 101 Genes & Gene Expression,BIS,101,8;9;13;17,"","",4,,,8
+19,ANG 107 Genetics & Anim Breeding,ANG,107,18,"","",5,,,10
+20,ABI 102 Animal Biochem & Metabol,ABI,102,11,"","",5,,,7
+21,ABI 103 Animal Biochem & Metabol,ABI,103,20,"","",5,,,8
+22,ANS 100 Animal Physiology,ANS,100,8;12,"","",5,,,9
+23,ANS 104 Domestic Animal Behavior,ANS,104,9,"","",4,,,9
+24,ANS 150 Animal Health & Disease,ANS,150,9,"","",4,,,12
+25,ANS 170 Ethics of Animal Use,ANS,170,28,"","",4,,,9
+26,NUT 115 Animal Nutrition,NUT,115,14,"","",4,,,8
+27,NUT 141 Comp Nut & Metabolism,NUT,141,21,"","",4,,,10
+28,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3

@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  font-size: calc(20px + 2vmin);
+  font-weight: bold;
+  color: black;
+}
+
+.App-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-container > * {
+  margin: 0.75rem;
+}
+
+.loadDegreeBtn {
+  padding: 0.25rem;
+}

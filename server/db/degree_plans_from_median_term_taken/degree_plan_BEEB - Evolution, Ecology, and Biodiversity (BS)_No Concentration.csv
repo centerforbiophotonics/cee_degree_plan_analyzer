@@ -1,0 +1,33 @@
+Curriculum,"BEEB - Evolution, Ecology, and Biodiversity (BS)"
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1310
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,5
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 008B Organic Chemistry-Brief,CHE,008B,8,"","",4,,,7
+8,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,6
+9,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+10,MAT 017B Calculus for BioSci,MAT,017B,9,"","",4,,,2
+11,MAT 017C Calculus for BioSci,MAT,017C,10,"","",4,,,3
+12,BIS 101 Genes & Gene Expression,BIS,101,2;1;8;18,"","",4,,,7
+13,BIS 102 Struc & Func Biomolecule,BIS,102,2;7,"","",3,,,8
+14,BIS 103 Bioenergetics/Metabolism,BIS,103,13,"","",3,,,10
+15,BIS 104 Cell Biology,BIS,104,12;13,"","",3,,,10
+16,EVE 100 Intro to Evolution,EVE,100,2;1;3;9;10,"","",4,,,9
+17,EVE 101 Introduction to Ecology,EVE,101,2;1;3;9;10,"","",4,,,8
+18,STA 100 Applied Stat for Bio Sci,STA,100,10,"","",4,,,6
+19,EVE 107 Animal Communication,EVE,107,1,"","",4,,,7
+20,GEL 107 Paleobiology,GEL,107,1,"","",3,,,9
+21,GEL 107L Paleobiology Lab,GEL,107L,"",20,"",2,,,9
+22,EVE 115 Marine Ecology,EVE,115,1,"","",4,,,11
+23,EVE 112 Biology of Invertebrates,EVE,112,1,"","",4,,,8
+24,EVE 112L Biol Invertebrates Lab,EVE,112L,1,23,"",3,,,8
+25,WFC 110 Biol Cons Wild Mammals,WFC,110,2;1;3,17,"",3,,,9
+26,WFC 110L Lab Biol Cons Mammals,WFC,110L,"",25,"",3,,,12

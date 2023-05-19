@@ -1,0 +1,49 @@
+Curriculum,AAEE - Agricultural & Environmental Education (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,13.1301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 017A History Of The U S,HIS,017A,"","","",4,,,3
+2,ANS 001 Domestic Anim & People,ANS,001,"","","",4,,,1
+3,ANS 002 Intro Animal Sci,ANS,002,"","","",4,,,3
+4,ABT 016 Metal Prop & Fabrication,ABT,016,"","","",2,,,4
+5,ABT 101 Engine Technology,ABT,101,"","","",3,,,8
+6,ABT 052 Field Equipment Welding,ABT,052,4,"","",2,,,8
+7,ABT 049 Field Eqpt Operation,ABT,049,"","","",2,,,9
+8,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,4
+9,ENH 001 Envir Hort/Urban Forest,ENH,001,"","","",3,,,7
+10,ENH 006 Intro Environ Plant,ENH,006,"","","",4,,,7
+11,ETX 010 Intro Environ Toxicology,ETX,010,"","","",3,,,7
+12,ESP 010 Current Issues Environ,ESP,010,"","","",4,,,3
+13,"HYD 010 Water, Power, Society",HYD,010,"","","",3,,,3
+14,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+15,VEN 003 Intro/Wine Making,VEN,003,"","","",3,,,3
+16,VEN 002 Intro To Viticult,VEN,002,"","","",2,,,8
+17,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+18,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+19,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+20,CHE 002B General Chemistry,CHE,002B,19,"","",5,,,4
+21,GEL 001 The Earth,GEL,001,"","","",4,,,3
+22,GEL 020 Geology of California,GEL,020,"","","",2,,,5
+23,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+24,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+25,MAT 016B Short Calculus,MAT,016B,24,"","",3,,,3
+26,PHY 007A General Physics,PHY,007A,"",25,"",4,,,8
+27,PHY 007B General Physics,PHY,007B,26,"","",4,,,9
+28,AED 100 Ag & Env Educ,AED,100,"","","",3,,,8
+29,AED 160 Vocational Education,AED,160,"","","",3,,,7
+30,EDU 110 Ed Psych: Gen,EDU,110,"","","",4,,,7
+31,EDU 115 Edu Disabled Child,EDU,115,"","","",2,,,9
+32,EDU 142 Intro Environ Educ,EDU,142,"","","",4,,,9
+33,ESP 110 Princ Environ Science,ESP,110,26;25,"","",4,,,8
+34,ANS 104 Domestic Animal Behavior,ANS,104,18,"","",4,,,10
+35,ANS 170 Ethics of Animal Use,ANS,170,38,"","",4,,,10
+36,ANS 146 Dairy Cattle Production,ANS,146,39,"","",5,,,12
+37,ANS 112 Sustainable Animal Agric,ANS,112,2,"","",3,,,0
+38,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3
+39,NUT 115 Animal Nutrition,NUT,115,40,"","",4,,,11
+40,CHE 118B Organic Chem Health Sci,CHE,118B,41,"","",4,,,6
+41,CHE 118A Organic Chem Health Sci,CHE,118A,42,"","",4,,,5
+42,CHE 002C General Chemistry,CHE,002C,20,"","",5,,,3

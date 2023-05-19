@@ -1,0 +1,36 @@
+Curriculum,LPHY - Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHY 104A Intro Math Phys,PHY,104A,26;19;21;23,"","",4,,,7
+2,PHY 105A Analytical Mechanic,PHY,105A,26;19;21;23,"","",4,,,7
+3,PHY 108 Optics,PHY,108,27;20;17;18;19,"","",3,,,6
+4,PHY 110A Electricity & Magnetism,PHY,110A,26;19;21;23;1;2,"","",4,,,8
+5,PHY 110B Electricty & Magnetsm,PHY,110B,4;1,"","",4,,,9
+6,PHY 112 Thermo & Stat Physics,PHY,112,7,"","",4,,,10
+7,PHY 115A Quantum Mechanics,PHY,115A,1;2,"","",4,,,9
+8,PHY 115B Quantum Mechanics,PHY,115B,7,"","",4,,,10
+9,PHY 102 Computationl Lab Phyiscs,PHY,102,19;21;23;28;24,1,"",1,,,7
+10,PHY 151 Stellar Astrophysics,PHY,151,27,"","",4,,,7
+11,PHY 152 Galactic Structure,PHY,152,27,2,"",4,,,7
+12,PHY 153 Extragalactic Astrophys,PHY,153,27;1;2,"","",4,,,8
+13,PHY 156 Intro to Cosmology,PHY,156,27,2,"",4,,,9
+14,PHY 122B Adv Lab in Particle Phys,PHY,122B,1;2;5;7;25,6,"",4,,,12
+15,PHY 105B Analytical Mechanic,PHY,105B,1;2,"","",4,,,8
+16,PHY 110C Electricty & Magnetsm,PHY,110C,5,"","",4,,,10
+17,MAT 021B Calculus,MAT,021B,20,"","",4,,,1
+18,MAT 021C Calculus,MAT,021C,17,"","",4,,,2
+19,MAT 021D Vector Analysis,MAT,021D,18,"","",4,,,3
+20,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+21,MAT 022A Linear Algebra,MAT,022A,18,22,"",3,,,4
+22,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,18,"","",1,,,4
+23,MAT 022B Differential Equations,MAT,022B,21,"","",3,,,5
+24,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+25,PHY 080 Experimental Techniques,PHY,080,28,"","",4,,,9
+26,PHY 009B Classical Physics,PHY,009B,27;18,19,"",5,,,4
+27,PHY 009A Classical Physics,PHY,009A,17,"","",5,,,3
+28,PHY 009D Modern Physics,PHY,009D,29;21,"","",4,,,6
+29,PHY 009C Classical Physics,PHY,009C,26;19;21,"","",5,,,5

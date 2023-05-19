@@ -1,0 +1,37 @@
+Curriculum,AANS - Animal Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,NPB 121 Reproductive Physiology,NPB,121,24,"","",4,,,11
+2,NPB 121L Phys Reprod Lab,NPB,121L,"",1,"",1,,,11
+3,ANS 106 Animal Behavior Lab,ANS,106,25,"","",3,,,11
+4,ANS 146 Dairy Cattle Production,ANS,146,28,"","",5,,,12
+5,ANS 144 Beef Catl & Sheep Prod,ANS,144,8;28,"","",4,,,9
+6,ANS 001 Domestic Anim & People,ANS,001,"","","",4,,,1
+7,ANS 002 Intro Animal Sci,ANS,002,"","","",4,,,3
+8,ANS 041 Domestic Anim Prod,ANS,041,"","","",2,,,4
+9,ANS 041L Domestic Animal Prod Lab,ANS,041L,"",8,"",2,,,5
+10,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+11,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+12,BIS 002C Introduction to Biology,BIS,002C,11,"","",5,,,6
+13,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+14,CHE 002B General Chemistry,CHE,002B,13,"","",5,,,2
+15,CHE 008A Organic Chemistry-Brief,CHE,008A,14,"","",2,,,4
+16,CHE 008B Organic Chemistry-Brief,CHE,008B,15,"","",4,,,5
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+18,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,3
+19,STA 100 Applied Stat for Bio Sci,STA,100,18,"","",4,,,6
+20,BIS 101 Genes & Gene Expression,BIS,101,10;11;15;19,"","",4,,,8
+21,ANG 107 Genetics & Anim Breeding,ANG,107,20,"","",5,,,10
+22,ABI 102 Animal Biochem & Metabol,ABI,102,13,"","",5,,,7
+23,ABI 103 Animal Biochem & Metabol,ABI,103,22,"","",5,,,8
+24,ANS 100 Animal Physiology,ANS,100,10;14,"","",5,,,9
+25,ANS 104 Domestic Animal Behavior,ANS,104,11,"","",4,,,9
+26,ANS 150 Animal Health & Disease,ANS,150,11,"","",4,,,12
+27,ANS 170 Ethics of Animal Use,ANS,170,30,"","",4,,,9
+28,NUT 115 Animal Nutrition,NUT,115,16,"","",4,,,8
+29,NUT 141 Comp Nut & Metabolism,NUT,141,23,"","",4,,,10
+30,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3

@@ -1,0 +1,34 @@
+Curriculum,LMOR - Math Analytics and Operations Research (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,27.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+2,MAT 021B Calculus,MAT,021B,1,"","",4,,,2
+3,MAT 021C Calculus,MAT,021C,2,"","",4,,,3
+4,MAT 021D Vector Analysis,MAT,021D,3,"","",4,,,4
+5,MAT 108 Intro Abstract Math,MAT,108,2,"","",4,,,5
+6,MAT 022A Linear Algebra,MAT,022A,3,7,"",3,,,4
+7,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,3,"","",1,,,4
+8,MAT 022B Differential Equations,MAT,022B,6,"","",3,,,6
+9,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,5
+10,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,2
+11,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+12,STA 032 Gateway to Data Science,STA,032,2,"","",4,,,5
+13,MAT 127A Real Analysis,MAT,127A,6;5;3,"","",4,,,6
+14,MAT 127B Real Analysis,MAT,127B,13,"","",4,,,7
+15,MAT 127C Real Analysis,MAT,127C,14,"","",4,,,9
+16,MAT 128A Numerical Analysis,MAT,128A,3;9,"","",4,,,9
+17,MAT 135A Probability,MAT,135A,3;5,"","",4,,,7
+18,MAT 135B Stochastic Processes,MAT,135B,17;6,"","",4,,,9
+19,MAT 150A Modern Algebra,MAT,150A,27;5;6,"","",4,,,8
+20,MAT 168 Optimization,MAT,168,3;6;5,"","",4,,,10
+21,MAT 170 Math for Data Analytics,MAT,170,22,"","",4,,,12
+22,MAT 167 Applied Linear Algebra,MAT,167,6,"","",4,,,9
+23,MAT 160 Math for Data Analytics,MAT,160,22,"","",4,,,9
+24,ECN 100B Intermed Micro Theory,ECN,100B,25,"","",4,,,8
+25,ECN 100A Intermed Micro Theory,ECN,100A,10;11;1;2,"","",4,,,6
+26,MAT 180 Special Topics,MAT,180,13;6;5,"","",3,,,11
+27,MAT 067 Modern Linear Algebra,MAT,067,3,"","",4,,,4

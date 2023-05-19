@@ -1,0 +1,41 @@
+Curriculum,APLT - Plant Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 101 Genes & Gene Expression,BIS,101,9;8;14;34,"","",4,,,7
+2,PLS 154 Plant Breeding,PLS,154,28,"","",4,,,8
+3,BIT 160 Plant Biotechnology,BIT,160,9;28,"","",3,,,8
+4,BIT 161B Plant Genetics & Bio Lab,BIT,161B,28,"","",6,,,12
+5,PLS 171 Plant Propagation,PLS,171,10,"","",4,,,9
+6,ENH 125 Greenhs & Nurs Crop Prod,ENH,125,10,"","",5,,,11
+7,PLS 112 Forage Crop Production,PLS,112,10,"","",3,,,11
+8,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+9,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+10,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+13,CHE 002C General Chemistry,CHE,002C,12,"","",5,,,4
+14,CHE 008A Organic Chemistry-Brief,CHE,008A,12,"","",2,,,6
+15,CHE 008B Organic Chemistry-Brief,CHE,008B,14,"","",4,,,7
+16,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+17,PHY 001B Principles Physics,PHY,001B,16,"","",3,,,6
+18,MAT 016B Short Calculus,MAT,016B,19,"","",3,,,3
+19,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+20,PLS 120 Applied Stat in Ag Sci,PLS,120,"","","",4,,,7
+21,PLS 100A Plant Metabolic Process,PLS,100A,10,"","",3,,,7
+22,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",21,"",2,,,7
+23,PLS 100B Plant Growth & Yield,PLS,100B,21,"","",3,,,8
+24,PLS 100BL Plant Growth & Yield Lab,PLS,100BL,"",23,"",2,,,11
+25,PLS 100C Plant-Envir Interact,PLS,100C,21,"","",3,,,9
+26,PLS 100CL Plant-Envir Interact Lab,PLS,100CL,"",25,"",2,,,9
+27,PLS 101 Agric & the Environment,PLS,101,10,"","",3,,,8
+28,PLS 152 Plant Genetics,PLS,152,9,"","",4,,,7
+29,PLB 143 Evolution of Crop Plants,PLB,143,10,"","",4,,,6
+30,PLS 147 CA Plant Communities,PLS,147,10,"","",3,,,9
+31,PLS 147L CA Plant Comm Field,PLS,147L,10,30,"",1,,,12
+32,PLS 105 Concepts in Pest Mgt,PLS,105,15;8,"","",3,,,10
+33,PLS 192 Internship,PLS,192,"","","",12,,,9
+34,STA 100 Applied Stat for Bio Sci,STA,100,18,"","",4,,,6

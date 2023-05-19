@@ -1,0 +1,23 @@
+Curriculum,ASAF - Sustainable Agriculture and Food Systems (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0308
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,7
+2,PLS 015 Intro Sustainable Agric,PLS,015,"","","",4,,,6
+3,CRD 020 Food Systems,CRD,020,"","","",4,,,7
+4,PLS 150 Agroecosystem Management,PLS,150,13;14;15,"","",4,,,9
+5,ARE 121 Econ of Ag Sustain,ARE,121,16,"","",4,,,8
+6,PLS 190 Seminar on Altern Agric,PLS,190,"","","",2,,,8
+7,ESP 191A Sustainability Workshop,ESP,191A,2;3;5;4,"","",3,,,11
+8,ESP 191B Sustainability Workshop,ESP,191B,7,"","",3,,,12
+9,SAF 192 Internship,SAF,192,"","","",12,,,8
+10,PLS 049 Organic Crop Prod Pract,PLS,049,"","","",3,,,9
+11,ANS 049C Animal Prac/Dairy,ANS,049C,"","","",2,,,5
+12,ABT 049 Field Eqpt Operation,ABT,049,"","","",2,,,12
+13,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+14,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+15,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+16,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3

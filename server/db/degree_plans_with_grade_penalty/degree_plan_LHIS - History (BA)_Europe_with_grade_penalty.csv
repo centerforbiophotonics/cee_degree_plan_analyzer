@@ -1,0 +1,15 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 004C Western Civ,HIS,004C,"","","",4,,,3,-0.1135164835164835,-0.19461538461538463,91,202107,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""NP*"", ""P*""]"
+2,HIS 004A Western Civ,HIS,004A,"",1,"",4,,,4,-0.18717514124293788,-0.13536723163841807,177,202110,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""D+"", ""F"", ""I"", ""NP*"", ""P*""]"
+3,HIS 142A History of the Holocaust,HIS,142A,"",2,"",4,,,9,-0.03560975609756096,-0.09673170731707316,205,202201,200310,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""F"", ""I"", ""NP*"", ""P*""]"
+4,HIS 146B Europe In 20th Cent,HIS,146B,"",3,"",4,,,6,0.027162162162162173,-0.1589189189189189,148,202101,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+5,HIS 146A Europe In 20th Cent,HIS,146A,"",4,"",4,,,10,-0.0071074380165289,-0.10966942148760327,121,202110,200101,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""F"", ""I"", ""NG"", ""NP*"", ""P*""]"
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.007580722320518243,-0.08019590288269737

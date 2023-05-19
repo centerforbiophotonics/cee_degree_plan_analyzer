@@ -1,0 +1,27 @@
+Curriculum,LDRA - Dramatic Art (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DRA 021A Fundamentals of Act,DRA,021A,"","","",4,,,0
+2,DRA 028 Stagecraft & Management,DRA,028,"","","",4,,,0
+3,DRA 055 Cont Theatre Dance Perf,DRA,055,"","","",4,,,0
+4,DRA 056A Hist Theatre Dance I,DRA,056A,"","","",4,,,0
+5,DRA 056B Hist Theatre Dance II,DRA,056B,"","","",4,,,0
+6,DRA 056C Hist Theatre Dance III,DRA,056C,"","","",4,,,0
+7,DRA 158 Performance Studies Sem,DRA,158,"","","",4,,,0
+8,DRA 155A Afram Dance & Culture,DRA,155A,"","","",4,,,0
+9,DRA 126 Stage Management,DRA,126,"","","",4,,,0
+10,DRA 120 Acting Gateway,DRA,120,1,"","",4,,,0
+11,DRA 140A Dance Composition I,DRA,140A,20,"","",4,,,0
+12,DRA 124D Thea Desgn Costume,DRA,124D,"","","",4,,,0
+13,DRA 124C Thea Desgn Lighting,DRA,124C,"","","",4,,,0
+14,DRA 145 Directed Choreogrph Proj,DRA,145,11,"","",4,,,0
+15,DRA 180A Theatre Lab: Performance,DRA,180A,"","","",5,,,0
+16,DRA 180D Theatre Lab Crew,DRA,180D,"","","",4,,,0
+17,DRA 180G Lighting/Sound Lab,DRA,180G,"","","",4,,,0
+18,DRA 180E Scenic Lab,DRA,180E,"","","",4,,,0
+19,DRA 195 Senior Capstone,DRA,195,"","","",2,,,0
+20,DRA 040A Beginning Modern Dance,DRA,040A,"","","",2,,,0

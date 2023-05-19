@@ -1,0 +1,34 @@
+Curriculum,LCOM - Comparative Literature (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COM 002 Mjr Wrks Medi Early Mod,COM,002,"","","",4,,,4
+2,COM 003 Major Wrks Mod World,COM,003,"","","",4,,,4
+3,COM 004 Mjr Wrks Contemp World,COM,004,"","","",4,,,5
+4,COM 001 Major Wrks Ancient World,COM,001,"","","",4,,,3
+5,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,1
+6,COM 160A Modern Novel,COM,160A,"","","",4,,,7
+7,COM 199 Special Study,COM,199,"","","",5,,,10
+8,COM 146 Myth In Literature,COM,146,"","","",4,,,10
+9,COM 141 Intro to Critical Theory,COM,141,"","","",4,,,7
+10,COM 195 Senior Seminar Comp Lit,COM,195,"","","",4,,,12
+11,SPA 100 Principles Lit Criticism,SPA,100,15,"","",4,,,7
+12,SPA 151 Latin Amer Lit 1900 Pres,SPA,151,11,"","",4,,,6
+13,FRE 100 Comp In French,FRE,100,22,"","",4,,,0
+14,UWP 104J Writing Social Justice,UWP,104J,2,"","",4,,,0
+15,SPA 024 Spanish Composition II,SPA,024,16,"","",4,,,5
+16,SPA 023 Spanish Composition I,SPA,023,17,"","",4,,,4
+17,SPA 022 Intermediate Spanish,SPA,022,18,"","",5,,,0
+18,SPA 021 Intermediate Spanish,SPA,021,19,"","",5,,,0
+19,SPA 003 Elementary Spanish,SPA,003,20,"","",5,,,0
+20,SPA 002 Elementary Spanish,SPA,002,21,"","",5,,,0
+21,SPA 001 Elementary Spanish,SPA,001,"","","",5,,,3
+22,FRE 023 Intermed French,FRE,023,23,"","",5,,,0
+23,FRE 022 Intermed French,FRE,022,24,"","",5,,,0
+24,FRE 021 Intermed French,FRE,021,25,"","",5,,,0
+25,FRE 003 Elementary French,FRE,003,26,"","",5,,,0
+26,FRE 002 Elementary French,FRE,002,27,"","",5,,,0
+27,FRE 001 Elementary French,FRE,001,"","","",5,,,4

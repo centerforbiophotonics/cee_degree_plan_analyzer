@@ -1,0 +1,14 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 015A Africa to 1900,HIS,015A,"","","",4,,,5
+2,HIS 015B Africa Today,HIS,015B,"",1,"",4,,,3
+3,HIS 115C Southern African,HIS,115C,"",2,"",4,,,9
+4,HIS 115B History of East Africa,HIS,115B,"",3,"",4,,,8
+5,HIS 115A History of West Africa,HIS,115A,"",4,"",4,,,7
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9

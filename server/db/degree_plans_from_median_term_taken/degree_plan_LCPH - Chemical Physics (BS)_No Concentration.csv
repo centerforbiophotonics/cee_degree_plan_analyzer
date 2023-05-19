@@ -1,0 +1,36 @@
+Curriculum,LCPH - Chemical Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0508
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002B General Chemistry,CHE,002B,2,"","",5,,,2
+2,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+3,CHE 002C General Chemistry,CHE,002C,1,"","",5,,,3
+4,PHY 009A Classical Physics,PHY,009A,9,"","",5,,,3
+5,PHY 009B Classical Physics,PHY,009B,4;8,10,"",5,,,4
+6,PHY 009C Classical Physics,PHY,009C,5;10;12,"","",5,,,5
+7,PHY 009D Modern Physics,PHY,009D,6;12,"","",4,,,6
+8,MAT 021C Calculus,MAT,021C,9,"","",4,,,2
+9,MAT 021B Calculus,MAT,021B,11,"","",4,,,1
+10,MAT 021D Vector Analysis,MAT,021D,8,"","",4,,,3
+11,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+12,MAT 022A Linear Algebra,MAT,022A,8,13,"",3,,,4
+13,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,8,"","",1,,,4
+14,MAT 022B Differential Equations,MAT,022B,12,"","",3,,,5
+15,CHE 105 Anly & Phys Chem Methods,CHE,105,"",16,"",4,,,10
+16,CHE 110A Phys Chem: Quantum Mech,CHE,110A,3;8;6,"","",4,,,7
+17,CHE 110B Phys Chem: Atoms & Molec,CHE,110B,16,"","",4,,,8
+18,CHE 110C Phys Chem: Thermo & Kin,CHE,110C,17,"","",4,,,11
+19,CHE 115 Instrumental Analysis,CHE,115,"",17,"",4,,,11
+20,CHE 124A Inorg Fundamentals,CHE,124A,3,"","",3,,,6
+21,CHE 125 Adv Methods Phys Chem,CHE,125,19,18,"",4,,,12
+22,CHE 128A Organic Chemistry,CHE,128A,3,"","",3,,,4
+23,CHE 128B Organic Chemistry,CHE,128B,22,"","",3,,,5
+24,CHE 129A Organic Chem Lab,CHE,129A,3,22,"",2,,,4
+25,PHY 104A Intro Math Phys,PHY,104A,5;10;12;14,"","",4,,,7
+26,PHY 105A Analytical Mechanic,PHY,105A,5;10;12;14,"","",4,,,10
+27,PHY 110A Electricity & Magnetism,PHY,110A,5;10;12;14;25;26,"","",4,,,11
+28,PHY 115A Quantum Mechanics,PHY,115A,25;26,"","",4,,,10
+29,CHE 199 Special Study,CHE,199,"","","",5,,,7

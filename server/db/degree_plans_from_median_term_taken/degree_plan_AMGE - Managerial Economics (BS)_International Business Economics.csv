@@ -1,0 +1,33 @@
+Curriculum,AMGE - Managerial Economics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,52.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ARE 115A Economic Development,ARE,115A,13;14,"","",4,,,8
+2,ARE 146 Business/Gov't Reg/Soc,ARE,146,20;21,"","",4,,,10
+3,ARE 139 Futures & Options Market,ARE,139,20;19;18,"","",4,,,9
+4,ARE 107 Econometrics for Bus Dec,ARE,107,22;20;18;19,"","",4,,,11
+5,ARE 115B Economic Development,ARE,115B,13;14,"","",4,,,9
+6,ARE 171 Principles of Finance,ARE,171,20;22;11;12,"","",4,,,10
+7,ARE 172 Financial Mgmt of Firm,ARE,172,6;22;20;11;12,"","",4,,,11
+8,ARE 176 Environmental Economics,ARE,176,20,"","",4,,,10
+9,UWP 104A Business Writing,UWP,104A,25,"","",4,,,10
+10,PLS 021 Computers in Technology,PLS,021,"","","",3,,,3
+11,MGT 011A Elementary Accounting,MGT,011A,"","","",4,,,4
+12,MGT 011B Elementary Accounting,MGT,011B,11,"","",4,,,6
+13,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+14,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+15,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,2
+16,MAT 016C Short Calculus,MAT,016C,15,"","",3,,,4
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+18,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+19,STA 103 Applied Statistics,STA,103,18;15,"","",4,,,6
+20,ARE 100A Intermed Microeconomics,ARE,100A,14,"","",4,,,6
+21,ARE 100B Intermed Microeconomics,ARE,100B,20;13;14;15;26,"","",4,,,7
+22,ARE 106 Econometrics,ARE,106,20;19;18;10,"","",4,,,8
+23,ARE 155 Oper Res & Mgmt Sci,ARE,155,20;19;18,"","",4,,,8
+24,ECN 101 Intermed Macro Theory,ECN,101,14,"","",5,,,6
+25,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+26,ARE 018 Business Law,ARE,018,"","","",4,,,6

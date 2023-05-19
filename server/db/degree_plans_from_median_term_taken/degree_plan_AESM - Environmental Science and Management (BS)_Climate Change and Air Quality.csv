@@ -1,0 +1,41 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ATM 060 Intr Atmospheric Science,ATM,060,23;33,"","",4,,,10
+2,ATM 116 Modern Climate Change,ATM,116,"","","",3,,,7
+3,ESM 131 Air As A Resource,ESM,131,17;18,"","",3,,,8
+4,ATM 133 Biometeorology,ATM,133,22,"","",4,,,8
+5,ESM 121 Water Science&Management,ESM,121,16,"","",3,,,9
+6,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,7
+7,ESM 144 Trees & Forests,ESM,144,15,"","",4,,,7
+8,EVE 147 Biogeography,EVE,147,14,"","",4,,,10
+9,ESP 171 Urban & Regl Planning,ESP,171,"","","",4,,,9
+10,ESP 172 Public Lands Mgmt,ESP,172,"","","",4,,,10
+11,UWP 101 Advanced Composition,UWP,101,34,"","",4,,,9
+12,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+13,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+14,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+15,BIS 002C Introduction to Biology,BIS,002C,14,"","",5,,,6
+16,GEL 001 The Earth,GEL,001,"","","",4,,,3
+17,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+18,CHE 002B General Chemistry,CHE,002B,17,"","",5,,,3
+19,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+20,PHY 001B Principles Physics,PHY,001B,19,"","",3,,,8
+21,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+22,MAT 016B Short Calculus,MAT,016B,23,"","",3,,,3
+23,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+24,ESP 001 Environmental Analysis,ESP,001,"",34,"",4,,,4
+25,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+26,ESP 100 General Ecology,ESP,100,13;14;15;23;22,"","",4,,,7
+27,ESP 162 Environmental Policy,ESP,162,21,"","",4,,,8
+28,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+29,ESP 179 Env Impact Assessment,ESP,179,24,"","",4,,,9
+30,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+31,ESP 192 Internship,ESP,192,"","","",12,,,9
+32,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+33,PHY 007A General Physics,PHY,007A,"",22,"",4,,,5
+34,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

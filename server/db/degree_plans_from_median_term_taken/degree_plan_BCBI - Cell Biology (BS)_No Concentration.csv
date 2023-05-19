@@ -1,0 +1,42 @@
+Curriculum,BCBI - Cell Biology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,5
+4,BIS 002D Intro to Cell Biology,BIS,002D,1,"","",3,,,0
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+6,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+9,CHE 118B Organic Chem Health Sci,CHE,118B,8,"","",4,,,5
+10,CHE 118C Organic Chem Health Sci,CHE,118C,9,"","",4,,,6
+11,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+12,MAT 017B Calculus for BioSci,MAT,017B,11,"","",4,,,2
+13,MAT 017C Calculus for BioSci,MAT,017C,12,"","",4,,,3
+14,PHY 007A General Physics,PHY,007A,"",12,"",4,,,5
+15,PHY 007B General Physics,PHY,007B,14,"","",4,,,6
+16,PHY 007C General Physics,PHY,007C,15,"","",4,,,7
+17,BIS 101 Genes & Gene Expression,BIS,101,1;2;8;21,"","",4,,,6
+18,BIS 102 Struc & Func Biomolecule,BIS,102,1;9,"","",3,,,7
+19,BIS 103 Bioenergetics/Metabolism,BIS,103,18,"","",3,,,9
+20,BIS 104 Cell Biology,BIS,104,17;18,"","",3,,,9
+21,STA 100 Applied Stat for Bio Sci,STA,100,12,"","",4,,,5
+22,MCB 121 Adv Molecular Biology,MCB,121,17,18,"",3,,,8
+23,MCB 145 Cell Signaling,MCB,145,17;18;20,"","",3,,,12
+24,MCB 144 Mechanisms of Cell Div,MCB,144,17;18;20,"","",3,,,10
+25,MCB 150 Developmental Biology,MCB,150,17,"","",4,,,11
+26,NPB 101 Systemic Physiology,NPB,101,1;6,"","",5,,,9
+27,NPB 101L Systemic Physiology Lab,NPB,101L,26,"","",3,,,12
+28,MIC 102 Intro Microbiology,MIC,102,1,6,"",4,,,9
+29,MCB 143 Cell & Molecular Biophysics,MCB,143,17;18;19;20,"","",3,,,12
+30,EVE 100 Intro to Evolution,EVE,100,1;2;3;11;12,"","",4,,,10
+31,MMI 188 Human Immunology,MMI,188,"","","",3,,,12
+32,MCB 163 Developmental Genetics,MCB,163,"",22,"",3,,,9
+33,NPB 101D Systemic Physiology Disc,NPB,101D,"",26,"",2,,,8
+34,NPB 100 Neurobiology,NPB,100,1,"","",4,,,8
+35,NPB 100L Neurobiology Lab,NPB,100L,"",34,"",3,,,0

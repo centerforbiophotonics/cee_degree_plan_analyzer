@@ -1,0 +1,24 @@
+Curriculum,LMUS - Music (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 006A Elementary Theory,MUS,006A,"",4;7,"",3,,,2
+2,MUS 006B Elementary Theory,MUS,006B,"",5;8,"",3,,,5
+3,MUS 006C Elementary Theory,MUS,006C,"",6;9,"",3,,,6
+4,MUS 002A Keyboard Competence,MUS,002A,"",7,"",2,,,4
+5,MUS 002B Keyboard Competence,MUS,002B,4,8,"",2,,,5
+6,MUS 002C Keyboard Competence,MUS,002C,5,9,"",2,,,6
+7,MUS 016A Elementary Musicianship,MUS,016A,"","","",2,,,1
+8,MUS 016B Elementary Musicianship,MUS,016B,7,"","",2,,,5
+9,MUS 016C Elementary Musicianship,MUS,016C,8,"","",2,,,6
+10,MUS 007A Intermediate Theory,MUS,007A,3,13,"",3,,,7
+11,MUS 007B Intermediate Theory,MUS,007B,10,14,"",3,,,8
+12,MUS 007C Intermediate Theory,MUS,007C,11,15,"",3,,,9
+13,MUS 017A Intermed Musicianship,MUS,017A,9,"","",2,,,7
+14,MUS 017B Intermed Musicianship,MUS,017B,13,"","",2,,,8
+15,MUS 017C Intermed Musicianship,MUS,017C,14,"","",2,,,9
+16,MUS 024A MH1: Baroque & Classic,MUS,024A,1,"","",4,,,4
+17,MUS 024B MH2: Romantic Era,MUS,024B,16,"","",3,,,5

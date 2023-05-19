@@ -1,0 +1,29 @@
+Curriculum,LPHI - Philosophy (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,38.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHI 015 Intro to Bioethics,PHI,015,"","","",4,,,7
+2,PHI 038 Intro Philosophy of Biol,PHI,038,"","","",4,,,5
+3,PHI 024 Introduction to Ethics,PHI,024,"","","",4,,,6
+4,PHI 121 Bioethics,PHI,121,"","","",4,,,9
+5,PHI 107 Phil Of Phys Sci,PHI,107,"","","",4,,,10
+6,PHI 117 Foundation of Ethics,PHI,117,"","","",4,,,10
+7,PHI 137C Semantics & Pragmatics,PHI,137C,"","","",4,,,9
+8,PHI 131 Philos Logic & Math,PHI,131,13,"","",4,,,8
+9,PHI 114 History of Ethics,PHI,114,"","","",4,,,10
+10,PHI 175 Kant,PHI,175,"","","",4,,,11
+11,PHI 111 Space & Time,PHI,111,"","","",4,,,11
+12,PHI 001 Intro To Philos,PHI,001,"","","",4,,,2
+13,PHI 012 Intro to Symbol Logic,PHI,012,"","","",4,,,5
+14,PHI 112 Intermed Symbolic Logic,PHI,112,13,"","",4,,,8
+15,PHI 102 Theory of Knowledge,PHI,102,"","","",4,,,9
+16,PHI 119 Philosophy Of Law,PHI,119,"","","",4,,,9
+17,PHI 101 Metaphysics,PHI,101,"","","",4,,,9
+18,PHI 118 Political Philosophy,PHI,118,"","","",4,,,7
+19,PHI 105 Phil Of Religion,PHI,105,"","","",4,,,10
+20,PHI 116 Ethical Theories,PHI,116,"","","",4,,,10
+21,PHI 103 Philosophy Of Mind,PHI,103,"","","",4,,,11
+22,PHI 108 Philosophy of Biology,PHI,108,"","","",4,,,8

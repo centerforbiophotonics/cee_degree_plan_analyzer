@@ -1,0 +1,41 @@
+Curriculum,"AWFC - Wildlife, Fish, and Conservation Biology (BS)"
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,WFC 120 Biol Cons Fishes,WFC,120,10;11;12,"","",3,,,10
+2,WFC 120L Lab Biol Cons Fishes,WFC,120L,"",1,"",2,,,10
+3,EVE 112 Biology of Invertebrates,EVE,112,11,"","",4,,,9
+4,EVE 112L Biol Invertebrates Lab,EVE,112L,11,3,"",3,,,9
+5,EVE 115 Marine Ecology,EVE,115,11,"","",4,,,11
+6,ESP 161 Environmental Law,ESP,161,"","","",4,,,10
+7,ESP 155 Wetland Ecology,ESP,155,10,"","",4,,,0
+8,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+9,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,8
+10,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+11,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+12,BIS 002C Introduction to Biology,BIS,002C,11,"","",5,,,5
+13,CHE 002B General Chemistry,CHE,002B,14,"","",5,,,3
+14,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+15,CHE 008A Organic Chemistry-Brief,CHE,008A,13,"","",2,,,4
+16,CHE 008B Organic Chemistry-Brief,CHE,008B,15,"","",4,,,6
+17,MAT 016B Short Calculus,MAT,016B,18,"","",3,,,2
+18,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+19,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+20,PHY 001B Principles Physics,PHY,001B,19,"","",3,,,8
+21,STA 100 Applied Stat for Bio Sci,STA,100,17,"","",4,,,5
+22,WFC 010 Wildl Ecol Conserve,WFC,010,"","","",4,,,3
+23,EVE 101 Introduction to Ecology,EVE,101,10;11;12;18;17,"","",4,,,7
+24,NPB 102 Animal Behavior,NPB,102,10,"","",3,,,8
+25,EVE 100 Intro to Evolution,EVE,100,10;11;12;18;17,"","",4,,,10
+26,WFC 100 Field Methods in WFCB,WFC,100,10;11;12,23,"",4,,,12
+27,WFC 130 Phys Ecol of Wildlife,WFC,130,23;10;11;12,"","",4,,,11
+28,WFC 122 Pop Dyn and Est,WFC,122,18;17;34;10;11;12,"","",4,,,9
+29,WFC 154 Conservation Biology,WFC,154,11,"","",4,,,11
+30,WFC 111 Biol Cons Wild Birds,WFC,111,10;11;12,"","",3,,,10
+31,WFC 111L Lab Biol Cons Wild Birds,WFC,111L,"",30,"",3,,,10
+32,WFC 110 Biol Cons Wild Mammals,WFC,110,10;11;12,23,"",3,,,9
+33,WFC 110L Lab Biol Cons Mammals,WFC,110L,"",32,"",3,,,12
+34,STA 013 Elementary Statistics,STA,013,"","","",4,,,4

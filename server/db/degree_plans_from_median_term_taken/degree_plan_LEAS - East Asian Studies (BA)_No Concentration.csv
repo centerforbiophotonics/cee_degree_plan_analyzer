@@ -1,0 +1,21 @@
+Curriculum,LEAS - East Asian Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 009A East Asian Civ,HIS,009A,"","","",4,,,2
+2,JPN 010 Masterworks Jpn Lit,JPN,010,"","","",4,,,5
+3,JPN 002 Elementary Japanese,JPN,002,4,"","",5,,,3
+4,JPN 001 Elementary Japanese,JPN,001,"","","",5,,,1
+5,JPN 102 Mid-Era Lit In Engl,JPN,102,"","","",4,,,11
+6,JPN 101 Early Lit In Engl,JPN,101,"","","",4,,,7
+7,JPN 103 Modern Lit In Engl,JPN,103,"","","",4,,,7
+8,ANT 148A Cult Pol Econ Cont China,ANT,148A,"","","",4,,,10
+9,JPN 106 Japanese Culture & Film,JPN,106,"","","",4,,,8
+10,HIS 191F History People Rep China,HIS,191F,"","","",4,,,9
+11,JPN 155 Intro Japanese Folklore,JPN,155,"","","",4,,,8
+12,CHN 197T Tutoring in Chinese,CHN,197T,"","","",3,,,5
+13,JPN 109 Japanese Popular Culture,JPN,109,"","","",5,,,10
+14,CHN 104 Mod Chinese Fict (Engl),CHN,104,"","","",4,,,8

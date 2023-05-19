@@ -1,0 +1,29 @@
+Curriculum,AIAD - International Agricultural Development (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,IAD 010 Intro Int Ag Dev,IAD,010,"","","",4,,,2
+2,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+3,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+4,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+5,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+6,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+7,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+8,CRD 001 The Community,CRD,001,"","","",4,,,4
+9,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,3
+10,PLS 001 Ag Nature & Society,PLS,001,"","","",3,,,4
+11,PLS 101 Agric & the Environment,PLS,101,2,"","",3,,,8
+12,ECN 115A Economic Development,ECN,115A,4;5,"","",4,,,8
+13,IAD 142 Eqpt/Tech for Small Farm,IAD,142,"","","",2,,,12
+14,PLS 112 Forage Crop Production,PLS,112,2,"","",3,,,8
+15,IAD 103 Soc Chg & Ag Dev,IAD,103,"","","",4,,,9
+16,IAD 170 Program Develop for IAD,IAD,170,1,"","",4,,,7
+17,CRD 141 Org of Economic Space,CRD,141,8,"","",4,,,8
+18,CRD 142 Rural Change Indust Wrld,CRD,142,8,"","",4,,,8
+19,POL 124 Pol Global Ineq,POL,124,"","","",4,,,8
+20,ARB 003 Elem Arabic 3,ARB,003,21,"","",5,,,6
+21,ARB 002 Elem Arabic 2,ARB,002,22,"","",5,,,5
+22,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,4

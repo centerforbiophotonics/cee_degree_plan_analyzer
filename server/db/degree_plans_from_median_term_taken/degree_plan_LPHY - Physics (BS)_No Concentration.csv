@@ -1,0 +1,20 @@
+Curriculum,LPHY - Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,4,"","",4,,,1
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,2,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+9,PHY 080 Experimental Techniques,PHY,080,10,"","",4,,,9
+10,PHY 009D Modern Physics,PHY,009D,11;5,"","",4,,,6
+11,PHY 009C Classical Physics,PHY,009C,12;3;5,"","",5,,,5
+12,PHY 009B Classical Physics,PHY,009B,13;2,3,"",5,,,4
+13,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3

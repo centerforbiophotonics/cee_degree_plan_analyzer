@@ -1,0 +1,36 @@
+Curriculum,AATM - Atmospheric Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 101 Advanced Composition,UWP,101,29,"","",4,,,8
+2,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+3,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+4,CHE 002B General Chemistry,CHE,002B,3,"","",5,,,3
+5,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,8
+6,MAT 021C Calculus,MAT,021C,7,"","",4,,,3
+7,MAT 021B Calculus,MAT,021B,8,"","",4,,,2
+8,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+9,MAT 021D Vector Analysis,MAT,021D,6,"","",4,,,4
+10,MAT 022A Linear Algebra,MAT,022A,28;6,"","",3,,,5
+11,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,6,"","",1,,,5
+12,MAT 022B Differential Equations,MAT,022B,10,"","",3,,,6
+13,ATM 060 Intr Atmospheric Science,ATM,060,8;14,"","",4,,,4
+14,PHY 009A Classical Physics,PHY,009A,7,"","",5,,,3
+15,PHY 009B Classical Physics,PHY,009B,14;6,9,"",5,,,5
+16,PHY 009C Classical Physics,PHY,009C,15;9;10,"","",5,,,6
+17,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+18,ATM 110 Weather Observ & Analy,ATM,110,13,"","",4,,,6
+19,ATM 111 Weather Analysis Predict,ATM,111,18;22,"","",5,,,11
+20,ATM 120 Thermodyn & Cloud Physic,ATM,120,6;15,13,"",4,,,7
+21,ATM 121A Atmos Dynamics,ATM,121A,20;9;15,"","",4,,,8
+22,ATM 121B Atmospheric Dynamic,ATM,121B,21,"","",4,,,9
+23,ATM 124 Meteor Instr & Observ,ATM,124,13,"","",3,,,7
+24,ATM 128 Rad & Sat Meteorology,ATM,128,13;15;12;9,"","",4,,,8
+25,ATM 192 Internship,ATM,192,"","","",9,,,10
+26,ATM 133 Biometeorology,ATM,133,"","","",4,,,9
+27,ATM 158 Boundary-Layer Met,ATM,158,21,"","",4,,,9
+28,ENG 006 Engineering Prob Solving,ENG,006,8,7,"",4,,,9
+29,ENL 003 Intro To Literature,ENL,003,"","","",4,,,5

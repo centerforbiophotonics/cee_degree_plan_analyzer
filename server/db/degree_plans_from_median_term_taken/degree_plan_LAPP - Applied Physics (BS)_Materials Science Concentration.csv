@@ -1,0 +1,37 @@
+Curriculum,LAPP - Applied Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,2
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+9,PHY 104A Intro Math Phys,PHY,104A,25;3;5;7,"","",4,,,7
+10,PHY 105A Analytical Mechanic,PHY,105A,25;3;5;7,"","",4,,,7
+11,PHY 110A Electricity & Magnetism,PHY,110A,25;3;5;7;9;10,"","",4,,,8
+12,PHY 110B Electricty & Magnetsm,PHY,110B,11;9,"","",4,,,9
+13,PHY 112 Thermo & Stat Physics,PHY,112,14,"","",4,,,10
+14,PHY 115A Quantum Mechanics,PHY,115A,9;10,"","",4,,,9
+15,PHY 116A Electronics,PHY,116A,27;7,"","",4,,,7
+16,PHY 116B Electronics,PHY,116B,27,"","",4,,,8
+17,PHY 102 Computationl Lab Phyiscs,PHY,102,3;5;7;28;8,9,"",1,,,7
+18,PHY 116C Computers in Phys Expts,PHY,116C,28;16;7,"","",4,,,9
+19,PHY 115B Quantum Mechanics,PHY,115B,14,"","",4,,,10
+20,PHY 140A Solid State Physics,PHY,140A,14,"","",4,,,11
+21,PHY 140B Solid State Physics,PHY,140B,14,"","",4,,,12
+22,EMS 174 Mech Behavior of Matls,EMS,174,29,"","",4,,,12
+23,EMS 174L Mechanical Behavior Lab,EMS,174L,"",22,"",3,,,0
+24,EMS 180 Materials in Eng Design,EMS,180,29,"","",4,,,10
+25,PHY 009B Classical Physics,PHY,009B,26;1,3,"",5,,,4
+26,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+27,PHY 009C Classical Physics,PHY,009C,25;3;5,"","",5,,,5
+28,PHY 009D Modern Physics,PHY,009D,27;5,"","",4,,,6
+29,ENG 045 Properties of Materials,ENG,045,1;30;26,"","",4,,,7
+30,CHE 002A General Chemistry,CHE,002A,"","","",5,,,3

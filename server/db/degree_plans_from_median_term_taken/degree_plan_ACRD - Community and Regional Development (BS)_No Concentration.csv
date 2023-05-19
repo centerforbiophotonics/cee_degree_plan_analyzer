@@ -1,0 +1,64 @@
+Curriculum,ACRD - Community and Regional Development (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,44.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CRD 001 The Community,CRD,001,"","","",4,,,4
+2,CRD 002 Ethnicity & Amer Comm,CRD,002,"","","",4,,,3
+3,PLS 021 Computers in Technology,PLS,021,"","","",3,,,4
+4,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,4
+5,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+6,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+7,CRD 172 Social Inequality,CRD,172,1,"","",4,,,9
+8,CRD 152 Community Development,CRD,152,1,"","",4,,,9
+9,CRD 142 Rural Change Indust Wrld,CRD,142,1,"","",4,,,9
+10,CRD 118 Technology & Society,CRD,118,1,"","",4,,,7
+11,CRD 141 Org of Economic Space,CRD,141,1,"","",4,,,8
+12,CRD 157 Politics & Community Dev,CRD,157,"","","",4,,,8
+13,CRD 158 Community Governance,CRD,158,1,"","",4,,,8
+14,CRD 151 Community Field Research,CRD,151,1;6,"","",5,,,7
+15,CRD 156 Community Econ Develop,CRD,156,3,"","",5,,,9
+16,CRD 192 Internship,CRD,192,"","","",12,,,10
+17,"CRD 162 People, Work & Technol",CRD,162,1,"","",5,,,8
+18,CRD 140 Regional Development,CRD,140,1,"","",4,,,7
+19,CRD 154 Soc Theory Community Chg,CRD,154,1,"","",4,,,7
+20,CRD 176 Comparative Ethnicity,CRD,176,1,"","",4,,,9
+21,CRD 164 Community Change Orgs,CRD,164,6;1,"","",5,,,7
+22,CRD 180 Transnational Comm Dev,CRD,180,1,"","",4,,,8
+23,CRD 171 Housing & Social Policy,CRD,171,"","","",4,,,6
+24,CRD 147 Comm Youth Dev,CRD,147,"","","",4,,,7
+25,CRD 149 Comm Dev and Env Just,CRD,149,"","","",4,,,9
+26,CRD 198 Directed Group Study,CRD,198,"","","",5,,,10
+27,CRD 199 Special Study,CRD,199,"","","",5,,,9
+28,CRD 150 Methods Community Res,CRD,150,6,"","",5,,,11
+29,POL 100 Local Govt & Politics,POL,100,"","","",4,,,9
+30,ECN 115A Economic Development,ECN,115A,4;57,"","",4,,,11
+31,POL 142A Political Development,POL,142A,"","","",4,,,11
+32,POL 105 Legislative Process,POL,105,"","","",4,,,0
+33,CRD 153A Int'l Community Dev Asia,CRD,153A,"","","",4,,,7
+34,ARE 100A Intermed Microeconomics,ARE,100A,4,"","",4,,,0
+35,POL 155 Jud Proc & Behav,POL,155,"","","",4,,,5
+36,CRD 197T Tutor in Comm & Reg Dev,CRD,197T,"","","",3,,,8
+37,SOC 120 Deviance,SOC,120,"","","",4,,,9
+38,POL 108 Public Sector Policy,POL,108,"","","",4,,,9
+39,SOC 140 Social Stratification,SOC,140,"","","",4,,,10
+40,POL 109 Pub Pol & Gov Proc,POL,109,"","","",4,,,6
+41,SOC 155 Sociology of Law,SOC,155,"","","",4,,,8
+42,SOC 185 Social Policy,SOC,185,"","","",4,,,11
+43,POL 142C Democracy,POL,142C,"","","",4,,,0
+44,SOC 132 Gender,SOC,132,"","","",4,,,11
+45,WMS 182 Global Gender & Culture,WMS,182,"","","",4,,,8
+46,SOC 159 Work & Employment,SOC,159,"","","",4,,,9
+47,SOC 139 Corporations & Society,SOC,139,"","","",4,,,9
+48,SOC 141 Indust & Social Change,SOC,141,"","","",4,,,10
+49,SOC 138 Economic Sociology,SOC,138,"","","",4,,,9
+50,POL 124 Pol Global Ineq,POL,124,"","","",4,,,9
+51,ANT 126A Anthro of Development,ANT,126A,"","","",4,,,12
+52,SOC 145A Third World Dev,SOC,145A,"","","",4,,,10
+53,POL 130 Recent US Foreign Pol,POL,130,"","","",4,,,0
+54,NAS 005 Intro to NA Lit,NAS,005,"","","",4,,,5
+55,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+56,UWP 101 Advanced Composition,UWP,101,54,"","",4,,,9
+57,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,4

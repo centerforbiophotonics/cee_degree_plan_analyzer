@@ -1,0 +1,43 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ESM 186 Environ Remote Sensing,ESM,186,21;32,"","",5,,,11
+2,ESM 185 Aerial Photo Interp,ESM,185,"","","",4,,,10
+3,ESP 171 Urban & Regl Planning,ESP,171,"","","",4,,,9
+4,ESP 172 Public Lands Mgmt,ESP,172,"","","",4,,,10
+5,ESP 121 Population Ecology,ESP,121,13;21,"","",4,,,11
+6,STA 108 Regression Analysis,STA,108,27,"","",4,,,9
+7,ATM 116 Modern Climate Change,ATM,116,"","","",3,,,7
+8,ATM 133 Biometeorology,ATM,133,21,"","",4,,,8
+9,ATM 110 Weather Observ & Analy,ATM,110,35,"","",4,,,12
+10,UWP 101 Advanced Composition,UWP,101,36,"","",4,,,9
+11,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+12,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+13,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+14,BIS 002C Introduction to Biology,BIS,002C,13,"","",5,,,6
+15,GEL 001 The Earth,GEL,001,"","","",4,,,3
+16,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+17,CHE 002B General Chemistry,CHE,002B,16,"","",5,,,3
+18,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+19,PHY 001B Principles Physics,PHY,001B,18,"","",3,,,8
+20,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+21,MAT 016B Short Calculus,MAT,016B,22,"","",3,,,3
+22,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+23,ESP 001 Environmental Analysis,ESP,001,"",36,"",4,,,4
+24,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+25,ESP 100 General Ecology,ESP,100,12;13;14;22;21,"","",4,,,7
+26,ESP 162 Environmental Policy,ESP,162,20,"","",4,,,8
+27,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+28,ESP 179 Env Impact Assessment,ESP,179,23,"","",4,,,9
+29,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+30,ESP 192 Internship,ESP,192,"","","",12,,,9
+31,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+32,PHY 007C General Physics,PHY,007C,33,"","",4,,,8
+33,PHY 007B General Physics,PHY,007B,34,"","",4,,,6
+34,PHY 007A General Physics,PHY,007A,"",21,"",4,,,5
+35,ATM 060 Intr Atmospheric Science,ATM,060,22;34,"","",4,,,10
+36,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

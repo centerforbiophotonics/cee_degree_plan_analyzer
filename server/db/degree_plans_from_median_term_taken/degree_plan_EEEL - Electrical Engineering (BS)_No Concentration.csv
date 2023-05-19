@@ -1,0 +1,38 @@
+Curriculum,EEEL - Electrical Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,13;2,"","",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;2,4,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;4;5,"","",5,,,5
+11,PHY 009D Modern Physics,PHY,009D,10;5,"","",4,,,6
+12,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+13,ENG 006 Engineering Prob Solving,ENG,006,3,1,"",4,,,3
+14,ENG 017 Circuits I,ENG,017,2,"","",4,,,6
+15,EEC 001 Intro to ECE,EEC,001,"","","",1,,,1
+16,EEC 018 Digital Systems I,EEC,018,14,"","",5,,,8
+17,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,6
+18,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+19,EEC 100 Circuits II,EEC,100,14;7,"","",5,,,7
+20,EEC 110A Electronic Circuits I,EEC,110A,19,22,"",4,,,8
+21,EEC 130A Electromagnetics I,EEC,130A,4;10;14,"","",4,,,7
+22,EEC 140A Device Physics I,EEC,140A,11,14,"",4,,,7
+23,EEC 150A Intr Signals & Systems I,EEC,150A,19,13,"",4,,,8
+24,EEC 161 Probabilistic Analysis,EEC,161,19;13,"","",4,,,9
+25,EEC 196 Issues in Eng Design,EEC,196,"","","",1,,,10
+26,ENG 190 Prof Resp Of Engr,ENG,190,"","","",3,,,11
+27,EEC 010 Intro Dig & Analog Sys,EEC,010,31;14,10,"",4,,,5
+28,EEC 170 Intro to Comp Arch,EEC,170,31;16,"","",4,,,10
+29,EEC 157A Control Systems,EEC,157A,19,"","",4,,,10
+30,UWP 101 Advanced Composition,UWP,101,18,"","",4,,,9
+31,EEC 007 Prog & Microcontrollers,EEC,007,"","","",4,,,5

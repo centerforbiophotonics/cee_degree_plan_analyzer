@@ -1,0 +1,38 @@
+Curriculum,"AWFC - Wildlife, Fish, and Conservation Biology (BS)"
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,WFC 151 Wildlife Ecology,WFC,151,8,"","",4,,,7
+2,PLS 144 Trees & Forests,PLS,144,9,"","",4,,,10
+3,WFC 134 Herpetology,WFC,134,7;8;9,"","",3,,,11
+4,WFC 134L Herpetology Laboratory,WFC,134L,"",3,"",3,,,11
+5,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+6,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,8
+7,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+8,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+9,BIS 002C Introduction to Biology,BIS,002C,8,"","",5,,,5
+10,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+12,CHE 008A Organic Chemistry-Brief,CHE,008A,10,"","",2,,,4
+13,CHE 008B Organic Chemistry-Brief,CHE,008B,12,"","",4,,,6
+14,MAT 016B Short Calculus,MAT,016B,15,"","",3,,,2
+15,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+16,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+17,PHY 001B Principles Physics,PHY,001B,16,"","",3,,,8
+18,STA 100 Applied Stat for Bio Sci,STA,100,14,"","",4,,,5
+19,WFC 010 Wildl Ecol Conserve,WFC,010,"","","",4,,,3
+20,EVE 101 Introduction to Ecology,EVE,101,7;8;9;15;14,"","",4,,,7
+21,NPB 102 Animal Behavior,NPB,102,7,"","",3,,,8
+22,EVE 100 Intro to Evolution,EVE,100,7;8;9;15;14,"","",4,,,10
+23,WFC 100 Field Methods in WFCB,WFC,100,7;8;9,20,"",4,,,12
+24,WFC 130 Phys Ecol of Wildlife,WFC,130,20;7;8;9,"","",4,,,11
+25,WFC 122 Pop Dyn and Est,WFC,122,15;14;31;7;8;9,"","",4,,,9
+26,WFC 154 Conservation Biology,WFC,154,8,"","",4,,,11
+27,WFC 111 Biol Cons Wild Birds,WFC,111,7;8;9,"","",3,,,10
+28,WFC 111L Lab Biol Cons Wild Birds,WFC,111L,"",27,"",3,,,10
+29,WFC 110 Biol Cons Wild Mammals,WFC,110,7;8;9,20,"",3,,,9
+30,WFC 110L Lab Biol Cons Mammals,WFC,110L,"",29,"",3,,,12
+31,STA 013 Elementary Statistics,STA,013,"","","",4,,,4

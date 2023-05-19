@@ -1,0 +1,27 @@
+Curriculum,LIRE - International Relations (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECN 162 Intl Econ Relations,ECN,162,20;10,"","",4,,,7
+2,POL 130 Recent US Foreign Pol,POL,130,"","","",4,,,8
+3,POL 132 National Security Policy,POL,132,"","","",4,,,9
+4,HIS 174C US Since 1945,HIS,174C,"","","",4,,,8
+5,POL 121 Scientific Study War,POL,121,"","","",4,,,7
+6,POL 124 Pol Global Ineq,POL,124,"","","",4,,,8
+7,POL 126 Ethnic Conflict,POL,126,"","","",4,,,7
+8,SOC 118 Political Sociology,SOC,118,"","","",4,,,9
+9,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+10,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+11,HIS 010C 19th-20th Century World,HIS,010C,"","","",4,,,4
+12,POL 003 Internatl Relations,POL,003,"","","",4,,,3
+13,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+14,POL 002 Intro Comp Politics,POL,002,"","","",4,,,4
+15,POL 051 Scientific Study Politic,POL,051,"","","",4,,,4
+16,HIS 193B Middle East from 1914,HIS,193B,"","","",4,,,6
+17,ANT 123AN Resist Rebel & Pop Mvmnt,ANT,123AN,"","","",4,,,9
+18,IRE 104 International Migration,IRE,104,"","","",4,,,9
+19,HMR 134 Human Rights,HMR,134,"","","",4,,,10
+20,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3

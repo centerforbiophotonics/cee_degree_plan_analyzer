@@ -1,0 +1,32 @@
+Curriculum,"BNPB - Neurobiology, Physiology and Behavior (BS)"
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1503
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,5
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 118A Organic Chem Health Sci,CHE,118A,6,"","",4,,,4
+8,CHE 118B Organic Chem Health Sci,CHE,118B,7,"","",4,,,6
+9,CHE 118C Organic Chem Health Sci,CHE,118C,8,"","",4,,,6
+10,CHE 128A Organic Chemistry,CHE,128A,6,"","",3,,,5
+11,CHE 129A Organic Chem Lab,CHE,129A,6,10,"",2,,,5
+12,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+13,MAT 017B Calculus for BioSci,MAT,017B,12,"","",4,,,2
+14,MAT 017C Calculus for BioSci,MAT,017C,13,"","",4,,,3
+15,PHY 007A General Physics,PHY,007A,"",13,"",4,,,5
+16,PHY 007B General Physics,PHY,007B,15,"","",4,,,6
+17,PHY 007C General Physics,PHY,007C,16,"","",4,,,7
+18,BIS 101 Genes & Gene Expression,BIS,101,1;2;7;24,"","",4,,,8
+19,BIS 102 Struc & Func Biomolecule,BIS,102,1;8,"","",3,,,8
+20,BIS 103 Bioenergetics/Metabolism,BIS,103,19,"","",3,,,9
+21,NPB 110A Molecules to Individuals,NPB,110A,1;2;5,"","",5,,,7
+22,NPB 110B Neurobiology Foundations,NPB,110B,21,"","",5,,,9
+23,NPB 110C Physiology Foundations,NPB,110C,21;15,"","",5,,,9
+24,STA 100 Applied Stat for Bio Sci,STA,100,13,"","",4,,,5
+25,NPB 168 Neurobiol Addict Drugs,NPB,168,22,"","",4,,,10

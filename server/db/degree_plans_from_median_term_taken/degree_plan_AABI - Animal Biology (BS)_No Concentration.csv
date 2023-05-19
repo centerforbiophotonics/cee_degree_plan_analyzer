@@ -1,0 +1,39 @@
+Curriculum,AABI - Animal Biology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,4
+8,CHE 008B Organic Chemistry-Brief,CHE,008B,7,"","",4,,,5
+9,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+10,MAT 016B Short Calculus,MAT,016B,9,"","",3,,,2
+11,MAT 016C Short Calculus,MAT,016C,10,"","",3,,,3
+12,PHY 007A General Physics,PHY,007A,"",10,"",4,,,6
+13,PHY 007B General Physics,PHY,007B,12,"","",4,,,8
+14,PHY 007C General Physics,PHY,007C,13,"","",4,,,9
+15,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+16,ABI 050A Animal Biology Lab,ABI,050A,"","","",2,,,4
+17,ABI 050B Animal Biology,ABI,050B,30,31,"",3,,,1
+18,ABI 050C Animal Biology,ABI,050C,31;32;16;17,"","",3,,,3
+19,BIS 101 Genes & Gene Expression,BIS,101,1;2;7;15,"","",4,,,8
+20,BIS 102 Struc & Func Biomolecule,BIS,102,1;8,"","",3,,,9
+21,BIS 103 Bioenergetics/Metabolism,BIS,103,20,"","",3,,,10
+22,NPB 101 Systemic Physiology,NPB,101,1;5,"","",5,,,9
+23,NPB 101L Systemic Physiology Lab,NPB,101L,22,"","",3,,,12
+24,NPB 123 Comp Vert Organology,NPB,123,1,"","",4,,,10
+25,EVE 100 Intro to Evolution,EVE,100,1;2;3;9;10,"","",4,,,10
+26,EVE 101 Introduction to Ecology,EVE,101,1;2;3;9;10,"","",4,,,9
+27,ABI 187 Animal Biology Seminar,ABI,187,"","","",2,,,7
+28,ABI 189 Senior Practicum,ABI,189,16;17;18,"","",2,,,11
+29,ABI 189D Senior Practicum Discuss,ABI,189D,16;17;18;27,28,"",1,,,12
+30,BIS 001A Introductory Biology,BIS,001A,"","","",5,,,0
+31,BIS 001B Intro Biology,BIS,001B,"","","",5,,,0
+32,BIS 001C Introductory Biology,BIS,001C,"","","",5,,,0

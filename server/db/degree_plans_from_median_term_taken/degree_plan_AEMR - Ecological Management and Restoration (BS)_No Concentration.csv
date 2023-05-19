@@ -1,0 +1,43 @@
+Curriculum,AEMR - Ecological Management and Restoration (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,3
+6,PHY 001A Principles Physics,PHY,001A,"","","",3,,,7
+7,PHY 001B Principles Physics,PHY,001B,6,"","",3,,,9
+8,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+9,MAT 016B Short Calculus,MAT,016B,8,"","",3,,,2
+10,PLS 120 Applied Stat in Ag Sci,PLS,120,"","","",4,,,8
+11,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,10
+12,ESP 001 Environmental Analysis,ESP,001,"",33,"",4,,,7
+13,ENH 160 Restoration Ecology,ENH,160,22,"","",4,,,9
+14,ENH 160L Restoration Ecology Lab,ENH,160L,"",13,"",1,,,9
+15,PLS 176 Weed Science,PLS,176,3,"","",4,,,11
+16,SSC 118 Soils-Land Use,SSC,118,"","","",4,,,10
+17,ENH 150 Plant Conservation,ENH,150,34,"","",3,,,7
+18,PLS 147 CA Plant Communities,PLS,147,3,"","",3,,,9
+19,PLS 147L CA Plant Comm Field,PLS,147L,3,18,"",1,,,0
+20,EVE 100 Intro to Evolution,EVE,100,2;1;3;8;9,"","",4,,,11
+21,ESM 141 Fire Ecology,ESM,141,2;1,"","",4,,,8
+22,PLS 130 Rangeland Ecology,PLS,130,1,"","",3,,,8
+23,WFC 154 Conservation Biology,WFC,154,1,"","",4,,,11
+24,PLS 150 Agroecosystem Management,PLS,150,35;4;3,"","",4,,,9
+25,ESM 100 Hydrologic Principles,ESM,100,5;9;36,"","",4,,,0
+26,PLS 171 Plant Propagation,PLS,171,3,"","",4,,,9
+27,PLS 163 Ecosystem&Landscape Eco,PLS,163,13,"","",4,,,11
+28,PLS 100A Plant Metabolic Process,PLS,100A,3,"","",3,,,8
+29,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",28,"",2,,,0
+30,ESP 161 Environmental Law,ESP,161,"","","",4,,,9
+31,PLS 164 Restoration Practicum,PLS,164,"","","",1,,,7
+32,PLS 192 Internship,PLS,192,"","","",12,,,9
+33,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3
+34,BIS 001C Introductory Biology,BIS,001C,"","","",5,,,0
+35,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+36,PHY 007A General Physics,PHY,007A,"",9,"",4,,,5

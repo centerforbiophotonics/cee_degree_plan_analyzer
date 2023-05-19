@@ -1,0 +1,43 @@
+Curriculum,APLT - Plant Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PLS 172 Postharvest Physiology,PLS,172,7;8,"","",4,,,10
+2,PLS 174 Micro Safety Fruit & Veg,PLS,174,8,"","",3,,,9
+3,ARE 100A Intermed Microeconomics,ARE,100A,16,"","",4,,,9
+4,ARE 130 Agricultural Markets,ARE,130,32;3;35;33,"","",4,,,0
+5,FST 109 Prin Of Qual Assurance,FST,109,35,"","",3,,,12
+6,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+7,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+8,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+9,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+10,CHE 002B General Chemistry,CHE,002B,9,"","",5,,,3
+11,CHE 002C General Chemistry,CHE,002C,10,"","",5,,,4
+12,CHE 008A Organic Chemistry-Brief,CHE,008A,10,"","",2,,,6
+13,CHE 008B Organic Chemistry-Brief,CHE,008B,12,"","",4,,,7
+14,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+15,PHY 001B Principles Physics,PHY,001B,14,"","",3,,,6
+16,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,3
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+18,PLS 120 Applied Stat in Ag Sci,PLS,120,"","","",4,,,7
+19,PLS 100A Plant Metabolic Process,PLS,100A,8,"","",3,,,7
+20,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",19,"",2,,,7
+21,PLS 100B Plant Growth & Yield,PLS,100B,19,"","",3,,,8
+22,PLS 100BL Plant Growth & Yield Lab,PLS,100BL,"",21,"",2,,,11
+23,PLS 100C Plant-Envir Interact,PLS,100C,19,"","",3,,,9
+24,PLS 100CL Plant-Envir Interact Lab,PLS,100CL,"",23,"",2,,,9
+25,PLS 101 Agric & the Environment,PLS,101,8,"","",3,,,8
+26,PLS 152 Plant Genetics,PLS,152,7,"","",4,,,7
+27,PLB 143 Evolution of Crop Plants,PLB,143,8,"","",4,,,6
+28,PLS 147 CA Plant Communities,PLS,147,8,"","",3,,,9
+29,PLS 147L CA Plant Comm Field,PLS,147L,8,28,"",1,,,12
+30,PLS 105 Concepts in Pest Mgt,PLS,105,13;6,"","",3,,,10
+31,PLS 192 Internship,PLS,192,"","","",12,,,9
+32,ARE 106 Econometrics,ARE,106,3;33;35;36,"","",4,,,0
+33,STA 103 Applied Statistics,STA,103,34;16,"","",4,,,5
+34,STA 100 Applied Stat for Bio Sci,STA,100,16,"","",4,,,6
+35,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+36,PLS 021 Computers in Technology,PLS,021,"","","",3,,,4

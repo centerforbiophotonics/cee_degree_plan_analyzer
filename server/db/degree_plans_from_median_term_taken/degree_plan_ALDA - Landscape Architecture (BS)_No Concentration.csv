@@ -1,0 +1,35 @@
+Curriculum,ALDA - Landscape Architecture (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+2,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,6
+3,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+4,ENH 006 Intro Environ Plant,ENH,006,"","","",4,,,4
+5,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+6,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+7,LDA 001 Intro Environ Design,LDA,001,"","","",4,,,4
+8,"LDA 002 Place, Culture, Comm",LDA,002,"","","",4,,,5
+9,LDA 003 Sustainable Development,LDA,003,"","","",4,,,3
+10,LDA 021 Land Rep I,LDA,021,"",7,"",5,,,4
+11,LDA 023 Land Rep II,LDA,023,10,"","",4,,,7
+12,LDA 030 History Environ Design,LDA,030,"","","",4,,,5
+13,LDA 050 Site Ecology,LDA,050,3,"","",4,,,6
+14,LDA 060 Landform Grading Studio,LDA,060,15,"","",6,,,6
+15,LDA 070 Intro to Spacemaking,LDA,070,10,"","",5,,,5
+16,LDA 102 Design Methods/Research,LDA,102,20,"","",4,,,11
+17,LDA 160 Design & Build Studio,LDA,160,7;8;9;10;12;13;15,"","",6,,,7
+18,LDA 161 Construction Documents,LDA,161,20,"","",6,,,10
+19,LDA 170 Field Studio,LDA,170,17,"","",14,,,8
+20,LDA 171 Urban Design & Planning,LDA,171,19,"","",6,,,9
+21,LDA 182 Adv LA Studio I,LDA,182,20,"","",6,,,10
+22,LDA 183 Adv LA Studio II,LDA,183,21,"","",6,,,11
+23,LDA 184 Capstone LA Studio,LDA,184,22,"","",6,,,12
+24,LDA 120 Land Rep III,LDA,120,11,"","",4,,,8
+25,LDA 190 Proseminar in LDA,LDA,190,"","","",1,,,9
+26,ENH 133 Woody Plants:  Mgmt,ENH,133,28,"","",4,,,8
+27,ENH 105 Taxon & Ecol Env Plants,ENH,105,4,"","",4,,,9
+28,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5

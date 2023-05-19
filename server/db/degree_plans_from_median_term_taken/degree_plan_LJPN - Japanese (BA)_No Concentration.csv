@@ -1,0 +1,23 @@
+Curriculum,LJPN - Japanese (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0302
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JPN 101 Early Lit In Engl,JPN,101,"","","",4,,,7
+2,JPN 102 Mid-Era Lit In Engl,JPN,102,"","","",4,,,8
+3,JPN 103 Modern Lit In Engl,JPN,103,"","","",4,,,8
+4,JPN 111 Modern Japanese,JPN,111,11,"","",4,,,7
+5,JPN 112 Modern Japanese,JPN,112,4,"","",4,,,8
+6,JPN 113 Modern Japanese,JPN,113,5,"","",4,,,9
+7,JPN 151 Japanese Linguistics,JPN,151,14,"","",4,,,8
+8,JPN 136 Readings in Newspapers,JPN,136,6,"","",4,,,10
+9,JPN 106 Japanese Culture & Film,JPN,106,"","","",4,,,9
+10,JPN 155 Intro Japanese Folklore,JPN,155,"","","",4,,,7
+11,JPN 006 Intermed Japanese,JPN,006,12,"","",5,,,6
+12,JPN 005 Intermed Japanese,JPN,005,13,"","",5,,,5
+13,JPN 004 Intermed Japanese,JPN,004,14,"","",5,,,4
+14,JPN 003 Elementary Japanese,JPN,003,15,"","",5,,,3
+15,JPN 002 Elementary Japanese,JPN,002,16,"","",5,,,2
+16,JPN 001 Elementary Japanese,JPN,001,"","","",5,,,1

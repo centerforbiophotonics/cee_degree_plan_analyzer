@@ -1,0 +1,32 @@
+Curriculum,ABIT - Biotechnology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,5
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 118A Organic Chem Health Sci,CHE,118A,6,"","",4,,,4
+8,CHE 118B Organic Chem Health Sci,CHE,118B,7,"","",4,,,5
+9,CHE 118C Organic Chem Health Sci,CHE,118C,8,"","",4,,,7
+10,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+11,MAT 017B Calculus for BioSci,MAT,017B,10,"","",4,,,2
+12,PHY 007A General Physics,PHY,007A,"",11,"",4,,,5
+13,PHY 007B General Physics,PHY,007B,12,"","",4,,,6
+14,STA 100 Applied Stat for Bio Sci,STA,100,11,"","",4,,,5
+15,UWP 101 Advanced Composition,UWP,101,25,"","",4,,,9
+16,BIS 101 Genes & Gene Expression,BIS,101,1;2;7;14,"","",4,,,7
+17,BIS 104 Cell Biology,BIS,104,16;18,"","",3,,,10
+18,BIS 102 Struc & Func Biomolecule,BIS,102,1;8,"","",3,,,8
+19,BIS 103 Bioenergetics/Metabolism,BIS,103,18,"","",3,,,9
+20,BIT 171 Ethics in Biotechnology,BIT,171,"","","",3,,,9
+21,MIC 102 Intro Microbiology,MIC,102,1,5,"",4,,,8
+22,MCB 121 Adv Molecular Biology,MCB,121,16,18,"",3,,,10
+23,BIT 192 Internship,BIT,192,"","","",12,,,10
+24,BIT 188 Research Proposal,BIT,188,"","","",3,,,9
+25,UWP 001 Academic Literacies,UWP,001,"","","",4,,,5

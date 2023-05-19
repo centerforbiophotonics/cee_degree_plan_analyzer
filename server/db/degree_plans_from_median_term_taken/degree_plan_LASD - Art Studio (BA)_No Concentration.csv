@@ -1,0 +1,28 @@
+Curriculum,LASD - Art Studio (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ART 007 Beginning Painting,ART,007,"","","",5,,,3
+2,ART 002 Beginning Drawing,ART,002,"","","",5,,,2
+3,ART 005 Beginning Sculpture,ART,005,"","","",5,,,5
+4,ART 009 Beginning Photography,ART,009,"","","",5,,,7
+5,AHI 001C Baroque to Modern Art,AHI,001C,"","","",4,,,4
+6,AHI 001B Mediev & Renaiss Art,AHI,001B,"","","",4,,,5
+7,ART 101 Intermediate Painting,ART,101,2;1,"","",4,,,8
+8,ART 103B Intermed Drawing: Color,ART,103B,2,"","",4,,,9
+9,ART 151 Intermediate Sculpture,ART,151,3,"","",5,,,7
+10,ART 103A Intermed Drawing: B&W,ART,103A,2,"","",4,,,10
+11,ART 110B IntmedPhoto:Digital,ART,110B,4,"","",4,,,9
+12,ART 102A AdvPainting: Studio Proj,ART,102A,"","","",5,,,11
+13,ART 195 Artist Lecture Series,ART,195,"","","",1,,,9
+14,ART 105A AdvDrwing:StudioProjects,ART,105A,2;8,"","",5,,,9
+15,ART 198 Directed Gp Study,ART,198,"","","",5,,,10
+16,DES 115 Letterforms & Type,DES,115,18;19;20;21,"","",4,,,7
+17,AHI 189 Photography in History,AHI,189,"","","",4,,,9
+18,DES 001 Introduction to Design,DES,001,"","","",4,,,4
+19,DES 014 Design Drawing,DES,014,"",18,"",4,,,6
+20,DES 015 Form & Color,DES,015,"",18,"",4,,,4
+21,DES 016 Graphics & The Computer,DES,016,"",18,"",4,,,5

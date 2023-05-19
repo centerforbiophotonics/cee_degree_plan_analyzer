@@ -1,0 +1,16 @@
+Curriculum,LAHI - Art History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,AHI 001A Ancient Mediterran Art,AHI,001A,"","","",4,,,4
+2,AHI 001B Mediev & Renaiss Art,AHI,001B,"",1,"",4,,,2
+3,AHI 001C Baroque to Modern Art,AHI,001C,"",2,"",4,,,3
+4,AHI 001D Arts of Asia,AHI,001D,"",3,"",4,,,6
+5,ART 002 Beginning Drawing,ART,002,"",4,"",5,,,9
+6,AHI 172A Early Greek Art & Arch,AHI,172A,"",5,"",4,,,7
+7,AHI 186 Contemporary Art,AHI,186,"",6,"",4,,,8
+8,AHI 183B Impressionism Manet-1900,AHI,183B,"",7,"",4,,,8
+9,AHI 189 Photography in History,AHI,189,"",8,"",4,,,9

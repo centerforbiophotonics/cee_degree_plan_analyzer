@@ -1,0 +1,22 @@
+Curriculum,LRUS - Russian (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0402
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,RUS 006 Intermed Russian,RUS,006,11,"","",4,,,6
+2,RUS 101A Advanced Russian,RUS,101A,1,"","",4,,,4
+3,RUS 101B Advanced Russian,RUS,101B,2,"","",4,,,5
+4,RUS 101C Advanced Russian,RUS,101C,3,"","",4,,,6
+5,RUS 105 Adv Russian Conver,RUS,105,1,"","",4,,,6
+6,RUS 143 Chekhov (in English),RUS,143,"","","",4,,,8
+7,RUS 141 Tolstoy (In English),RUS,141,"","","",4,,,6
+8,RUS 150 Russian Culture,RUS,150,"","","",4,,,0
+9,RUS 129 Russian Film,RUS,129,"","","",4,,,8
+10,RUS 133 Post-Soviet Literature,RUS,133,"","","",4,,,12
+11,RUS 005 Intermediate Russian,RUS,005,12,"","",4,,,5
+12,RUS 004 Intermediate Russian,RUS,004,13,"","",4,,,4
+13,RUS 003 Elementary Russian,RUS,003,14,"","",5,,,3
+14,RUS 002 Elementary Russian,RUS,002,15,"","",5,,,2
+15,RUS 001 Elementary Russian,RUS,001,"","","",5,,,2

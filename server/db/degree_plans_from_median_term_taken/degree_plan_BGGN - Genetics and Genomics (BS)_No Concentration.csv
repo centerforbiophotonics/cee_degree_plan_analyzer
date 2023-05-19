@@ -1,0 +1,43 @@
+Curriculum,BGGN - Genetics and Genomics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,5
+4,BIS 002D Intro to Cell Biology,BIS,002D,1,"","",3,,,0
+5,CHE 002B General Chemistry,CHE,002B,6,"","",5,,,2
+6,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+7,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+8,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+9,CHE 118B Organic Chem Health Sci,CHE,118B,8,"","",4,,,6
+10,CHE 118C Organic Chem Health Sci,CHE,118C,9,"","",4,,,6
+11,CHE 128A Organic Chemistry,CHE,128A,7,"","",3,,,5
+12,CHE 128B Organic Chemistry,CHE,128B,11,"","",3,,,4
+13,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+14,MAT 017B Calculus for BioSci,MAT,017B,13,"","",4,,,2
+15,MAT 017C Calculus for BioSci,MAT,017C,14,"","",4,,,3
+16,PHY 007A General Physics,PHY,007A,"",14,"",4,,,5
+17,PHY 007B General Physics,PHY,007B,16,"","",4,,,6
+18,PHY 007C General Physics,PHY,007C,17,"","",4,,,8
+19,BIS 101 Genes & Gene Expression,BIS,101,1;2;8;27,"","",4,,,6
+20,BIS 102 Struc & Func Biomolecule,BIS,102,1;9,"","",3,,,7
+21,BIS 103 Bioenergetics/Metabolism,BIS,103,20,"","",3,,,9
+22,BIS 104 Cell Biology,BIS,104,19;20,"","",3,,,10
+23,MCB 121 Adv Molecular Biology,MCB,121,19,20,"",3,,,9
+24,MCB 182 Principles of Genomics,MCB,182,19,"","",3,,,9
+25,EVE 100 Intro to Evolution,EVE,100,1;2;3;13;14,"","",4,,,10
+26,BIS 183 Functional Genomics,BIS,183,19,"","",3,,,9
+27,STA 100 Applied Stat for Bio Sci,STA,100,14,"","",4,,,4
+28,BIS 181 Comparative Genomics,BIS,181,19,"","",3,,,10
+29,MCB 164 Adv Eukaryotic Genetics,MCB,164,23,"","",3,,,11
+30,MCB 162 Human Genetics Genomics,MCB,162,19,"","",3,,,10
+31,MCB 163 Developmental Genetics,MCB,163,"",23,"",3,,,10
+32,MCB 150 Developmental Biology,MCB,150,19,"","",4,,,11
+33,EVE 131 Human Genetic Variation,EVE,131,2,"","",3,,,10
+34,PLB 112 Plant Growth & Develop,PLB,112,1;2;3;9;19,"","",3,,,11
+35,PLB 112D Plant Growth & Devel Dis,PLB,112D,"",34,"",1,,,10
+36,MIC 170 Yeast Molecular Genetics,MIC,170,19,"","",3,,,12

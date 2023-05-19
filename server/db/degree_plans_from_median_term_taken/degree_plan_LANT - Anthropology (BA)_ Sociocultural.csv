@@ -1,0 +1,27 @@
+Curriculum,LANT - Anthropology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+2,ANT 001 Human Evolutionary Bio,ANT,001,"","","",4,,,4
+3,ANT 003 Intro to Archaeology,ANT,003,"","","",4,,,4
+4,SPA 021 Intermediate Spanish,SPA,021,17,"","",5,,,3
+5,SPA 022 Intermediate Spanish,SPA,022,4,"","",5,,,6
+6,ANT 100 Soc-Cultural Theory,ANT,100,"","","",4,,,8
+7,ANT 144 Latin America,ANT,144,"","","",4,,,8
+8,ANT 148A Cult Pol Econ Cont China,ANT,148A,"","","",4,,,9
+9,ANT 153 Hum Genetics: Mut & Mig,ANT,153,20,"","",5,,,8
+10,ANT 152 Human Evolution,ANT,152,"","","",5,,,8
+11,ANT 154A Primate Socioecol,ANT,154A,"","","",5,,,7
+12,ANT 199 Special Study,ANT,199,"","","",5,,,9
+13,ANT 151 Primate Evolution,ANT,151,"","","",4,,,6
+14,ANT 156A Human Osteology,ANT,156A,"","","",4,,,9
+15,ANT 121 Medical Anthropology,ANT,121,"","","",4,,,7
+16,ANT 132 Psychological Anthro,ANT,132,"","","",4,,,9
+17,SPA 003 Elementary Spanish,SPA,003,18,"","",5,,,6
+18,SPA 002 Elementary Spanish,SPA,002,19,"","",5,,,5
+19,SPA 001 Elementary Spanish,SPA,001,"","","",5,,,4
+20,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4

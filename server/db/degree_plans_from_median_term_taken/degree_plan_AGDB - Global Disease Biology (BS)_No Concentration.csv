@@ -1,0 +1,35 @@
+Curriculum,AGDB - Global Disease Biology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GDB 090 Intro Global Disease Bio,GDB,090,"","","",1,,,5
+2,SAS 013 Disease & Society,SAS,013,"","","",3,,,4
+3,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+4,BIS 002C Introduction to Biology,BIS,002C,3,"","",5,,,5
+5,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+6,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+9,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+10,CHE 118B Organic Chem Health Sci,CHE,118B,9,"","",4,,,6
+11,PHY 007A General Physics,PHY,007A,"",13,"",4,,,6
+12,PHY 007B General Physics,PHY,007B,11,"","",4,,,7
+13,MAT 017B Calculus for BioSci,MAT,017B,14,"","",4,,,2
+14,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+15,MAT 017C Calculus for BioSci,MAT,017C,13,"","",4,,,3
+16,BIS 101 Genes & Gene Expression,BIS,101,5;3;9;20,"","",4,,,7
+17,BIS 105 Biomolecule & Metabolism,BIS,105,5;10,"","",3,,,10
+18,EVE 100 Intro to Evolution,EVE,100,5;3;4;14;13,"","",4,,,10
+19,MIC 102 Intro Microbiology,MIC,102,5,6,"",4,,,9
+20,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+21,VME 158 Disease Ecology,VME,158,5;3;4,"","",3,,,8
+22,GDB 101 Epidemiology,GDB,101,2,"","",4,,,10
+23,GDB 102 Disease Intervent Policy,GDB,102,22;2;5;3;4;21,"","",4,,,12
+24,GDB 103 The Microbiome,GDB,103,5;3;4,"","",3,,,11
+25,ENT 153 Med Entomol,ENT,153,5;3,"","",3,,,11
+26,GDB 187 Global Disease Biol Sem,GDB,187,1;2,"","",3,,,8
+27,GDB 189 Global Disease Biol Res,GDB,189,1;2,28,"",3,,,11
+28,GDB 189D Research Discussion,GDB,189D,1;26;2,"","",1,,,12

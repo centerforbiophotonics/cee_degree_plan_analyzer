@@ -1,0 +1,38 @@
+Curriculum,LAPP - Applied Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,2
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,ECS 036A Programming,ECS,036A,25,"","",4,,,0
+9,ECS 036B Object-Oriented Program,ECS,036B,8,"","",4,,,7
+10,PHY 104A Intro Math Phys,PHY,104A,26;3;5;7,"","",4,,,7
+11,PHY 105A Analytical Mechanic,PHY,105A,26;3;5;7,"","",4,,,7
+12,PHY 110A Electricity & Magnetism,PHY,110A,26;3;5;7;10;11,"","",4,,,8
+13,PHY 110B Electricty & Magnetsm,PHY,110B,12;10,"","",4,,,9
+14,PHY 112 Thermo & Stat Physics,PHY,112,15,"","",4,,,10
+15,PHY 115A Quantum Mechanics,PHY,115A,10;11,"","",4,,,9
+16,PHY 116A Electronics,PHY,116A,28;7,"","",4,,,7
+17,PHY 116B Electronics,PHY,116B,28,"","",4,,,8
+18,PHY 104B Comp Math Physics,PHY,104B,10;29,"","",4,,,8
+19,PHY 116C Computers in Phys Expts,PHY,116C,30;17;7,"","",4,,,9
+20,ECS 036C Data Structures,ECS,036C,9;31,"","",4,,,9
+21,ECS 122A Algorithm Design & Anyls,ECS,122A,31;20,"","",4,,,9
+22,ECS 120 Theory Computation,ECS,120,31,"","",4,,,8
+23,MAT 128A Numerical Analysis,MAT,128A,1;25,"","",4,,,9
+24,PHY 140A Solid State Physics,PHY,140A,15,"","",4,,,11
+25,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,8
+26,PHY 009B Classical Physics,PHY,009B,27;1,3,"",5,,,4
+27,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+28,PHY 009C Classical Physics,PHY,009C,26;3;5,"","",5,,,5
+29,PHY 105AL Comp Lab In Mech,PHY,105AL,"","","",1,,,0
+30,PHY 009D Modern Physics,PHY,009D,28;5,"","",4,,,6
+31,ECS 020 Discrete Math for CS,ECS,020,4,"","",4,,,5

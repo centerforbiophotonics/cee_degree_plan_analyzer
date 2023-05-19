@@ -1,0 +1,28 @@
+Curriculum,ASED - Sustainable Environmental Design (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ENL 003 Intro To Literature,ENL,003,"","","",4,,,3
+2,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+3,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+4,LDA 001 Intro Environ Design,LDA,001,"","","",4,,,4
+5,"LDA 002 Place, Culture, Comm",LDA,002,"","","",4,,,5
+6,LDA 003 Sustainable Development,LDA,003,"","","",4,,,3
+7,LDA 021 Land Rep I,LDA,021,"",4,"",5,,,4
+8,LDA 030 History Environ Design,LDA,030,"","","",4,,,5
+9,LDA 050 Site Ecology,LDA,050,3,"","",4,,,6
+10,LDA 070 Intro to Spacemaking,LDA,070,7,"","",5,,,5
+11,LDA 140 Green Bldg Des Matrls,LDA,140,9;10,"","",4,,,7
+12,LDA 141 Community Participation,LDA,141,7;8;9;10,"","",4,,,11
+13,LDA 142 Sustainable Strategies,LDA,142,11;12,"","",6,,,12
+14,ESP 171 Urban & Regl Planning,ESP,171,"","","",4,,,9
+15,LDA 190 Proseminar in LDA,LDA,190,"","","",1,,,9
+16,LDA 150 Intro to GIS,LDA,150,"","","",4,,,9
+17,ESP 161 Environmental Law,ESP,161,"","","",4,,,7
+18,CRD 152 Community Development,CRD,152,21,"","",4,,,9
+19,ECI 123 Urban Sys Sustainability,ECI,123,"","","",4,,,9
+20,CRD 149 Comm Dev and Env Just,CRD,149,"","","",4,,,10
+21,SOC 002 Self & Society,SOC,002,"","","",4,,,4

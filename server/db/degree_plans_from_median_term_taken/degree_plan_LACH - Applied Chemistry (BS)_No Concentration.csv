@@ -1,0 +1,30 @@
+Curriculum,LACH - Applied Chemistry (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+2,CHE 002B General Chemistry,CHE,002B,1,"","",5,,,2
+3,CHE 002C General Chemistry,CHE,002C,2,"","",5,,,3
+4,PHY 007A General Physics,PHY,007A,"",8,"",4,,,5
+5,PHY 007B General Physics,PHY,007B,4,"","",4,,,6
+6,PHY 007C General Physics,PHY,007C,5,"","",4,,,7
+7,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+8,MAT 017B Calculus for BioSci,MAT,017B,7,"","",4,,,2
+9,MAT 017C Calculus for BioSci,MAT,017C,8,"","",4,,,3
+10,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+11,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+12,CHE 100 Environmental Water Chem,CHE,100,3,"","",3,,,8
+13,CHE 105 Anly & Phys Chem Methods,CHE,105,"",17,"",4,,,10
+14,CHE 115 Instrumental Analysis,CHE,115,16,"","",4,,,11
+15,CHE 124A Inorg Fundamentals,CHE,124A,3,"","",3,,,9
+16,CHE 107A Physical Chem Life Sci,CHE,107A,3;9;6,"","",3,,,8
+17,CHE 107B Phys Chem Life Sci,CHE,107B,16,"","",3,,,9
+18,CHE 128A Organic Chemistry,CHE,128A,3,"","",3,,,4
+19,CHE 129A Organic Chem Lab,CHE,129A,3,18,"",2,,,4
+20,CHE 128B Organic Chemistry,CHE,128B,18,"","",3,,,6
+21,CHE 129B Organic Chem Lab,CHE,129B,19,20,"",2,,,5
+22,CHE 128C Organic Chemistry,CHE,128C,20,"","",3,,,7
+23,ETX 102A Env Fate of Toxicants,ETX,102A,20,"","",4,,,8

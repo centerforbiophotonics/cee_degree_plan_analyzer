@@ -1,0 +1,25 @@
+Curriculum,LMSA - Middle East South Asia Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0108
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 006 Intro to Middle East,HIS,006,"","","",4,,,6
+2,HIS 008 Indian Civilization,HIS,008,"","","",4,,,9
+3,ARB 022 Intermediate Arabic 22,ARB,022,13,"","",5,,,8
+4,ARB 022L Colloquial Levantine ARB,ARB,022L,14,"","",4,,,9
+5,MSA 100 Comparative Perspectives,MSA,100,"","","",4,,,7
+6,MSA 180 ME/SA Selected Themes,MSA,180,"","","",4,,,12
+7,HIS 193B Middle East from 1914,HIS,193B,"","","",4,,,6
+8,POL 135 Intrnatl Pol Middle East,POL,135,"","","",4,,,5
+9,ANT 145 South Asia,ANT,145,15,"","",4,,,9
+10,HIS 196B India,HIS,196B,"","","",4,,,9
+11,ARB 023 Intermediate Arabic  23,ARB,023,3,"","",5,,,7
+12,ARB 023L Colloquial Levantine ARB,ARB,023L,4,"","",4,,,10
+13,ARB 021 Intermediate Arabic 21,ARB,021,16,"","",5,,,7
+14,ARB 021L Colloquial Levantine Arb,ARB,021L,16,"","",4,,,8
+15,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,2
+16,ARB 003 Elem Arabic 3,ARB,003,17,"","",5,,,6
+17,ARB 002 Elem Arabic 2,ARB,002,18,"","",5,,,5
+18,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,4

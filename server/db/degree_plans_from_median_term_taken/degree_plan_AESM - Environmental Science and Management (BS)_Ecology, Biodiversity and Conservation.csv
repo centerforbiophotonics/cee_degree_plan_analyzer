@@ -1,0 +1,43 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ESM 121 Water Science&Management,ESM,121,19,"","",3,,,9
+2,ESP 171 Urban & Regl Planning,ESP,171,"","","",4,,,9
+3,EVE 100 Intro to Evolution,EVE,100,16;17;18;26;25,"","",4,,,9
+4,WFC 154 Conservation Biology,WFC,154,17,"","",4,,,11
+5,ENH 160 Restoration Ecology,ENH,160,29,"","",4,,,9
+6,ENH 160L Restoration Ecology Lab,ENH,160L,"",5,"",1,,,12
+7,ESP 121 Population Ecology,ESP,121,17;25,"","",4,,,11
+8,ESP 151 Limnology,ESP,151,16;17,"","",4,,,9
+9,ESP 151L Limnology Laboratory,ESP,151L,"",8,"",3,,,12
+10,PLS 162 Urban Ecology,PLS,162,"","","",3,,,11
+11,ESM 144 Trees & Forests,ESM,144,18,"","",4,,,7
+12,WFC 120 Biol Cons Fishes,WFC,120,16;17;18,"","",3,,,10
+13,WFC 120L Lab Biol Cons Fishes,WFC,120L,"",12,"",2,,,10
+14,UWP 101 Advanced Composition,UWP,101,36,"","",4,,,9
+15,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+16,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+17,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+18,BIS 002C Introduction to Biology,BIS,002C,17,"","",5,,,6
+19,GEL 001 The Earth,GEL,001,"","","",4,,,3
+20,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+21,CHE 002B General Chemistry,CHE,002B,20,"","",5,,,3
+22,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+23,PHY 001B Principles Physics,PHY,001B,22,"","",3,,,8
+24,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+25,MAT 016B Short Calculus,MAT,016B,26,"","",3,,,3
+26,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+27,ESP 001 Environmental Analysis,ESP,001,"",36,"",4,,,4
+28,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+29,ESP 100 General Ecology,ESP,100,16;17;18;26;25,"","",4,,,7
+30,ESP 162 Environmental Policy,ESP,162,24,"","",4,,,8
+31,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+32,ESP 179 Env Impact Assessment,ESP,179,27,"","",4,,,9
+33,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+34,ESP 192 Internship,ESP,192,"","","",12,,,9
+35,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+36,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

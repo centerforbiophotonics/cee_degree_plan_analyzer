@@ -1,0 +1,26 @@
+Curriculum,LMCS - Marine and Coastal Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.3201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+2,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,6
+3,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,3
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,4
+7,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+8,MAT 017B Calculus for BioSci,MAT,017B,7,"","",4,,,2
+9,MAT 017C Calculus for BioSci,MAT,017C,8,"","",4,,,3
+10,PHY 007A General Physics,PHY,007A,"",8,"",4,,,5
+11,PHY 007B General Physics,PHY,007B,10,"","",4,,,6
+12,PHY 007C General Physics,PHY,007C,11,"","",4,,,7
+13,STA 100 Applied Stat for Bio Sci,STA,100,8,"","",4,,,7
+14,GEL 116N Oceanography,GEL,116N,17,"","",3,,,8
+15,EVE 120 Global Change Ecology,EVE,120,18;19,"","",3,,,9
+16,EVE 199 Special Study,EVE,199,"","","",5,,,8
+17,GEL 016 The Oceans,GEL,016,"","","",3,,,2
+18,EVE 100 Intro to Evolution,EVE,100,3;1;2;7;8,"","",4,,,10
+19,EVE 101 Introduction to Ecology,EVE,101,3;1;2;7;8,"","",4,,,8

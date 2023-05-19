@@ -1,0 +1,13 @@
+Curriculum,LTAD - Theater and Dance (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DRA 021A Fundamentals of Act,DRA,021A,"","","",4,,,4
+2,DRA 024 Vis Aspect Dram Art,DRA,024,"",1,"",4,,,6
+3,DRA 028 Stagecraft & Management,DRA,028,"",2,"",4,,,6
+4,DRA 056C Hist Theatre Dance III,DRA,056C,"",3,"",4,,,6
+5,DRA 055 Cont Theatre Dance Perf,DRA,055,"",4,"",4,,,6
+6,DRA 056B Hist Theatre Dance II,DRA,056B,"",5,"",4,,,4

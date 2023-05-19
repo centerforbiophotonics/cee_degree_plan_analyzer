@@ -1,0 +1,52 @@
+Curriculum,EBSE - Biological Systems Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,18;2,"","",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;2,4,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;4;5,"","",5,,,5
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+13,CHE 008A Organic Chemistry-Brief,CHE,008A,12,"","",2,,,7
+14,CHE 008B Organic Chemistry-Brief,CHE,008B,13,"","",4,,,8
+15,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+16,ENG 017 Circuits I,ENG,017,2,"","",4,,,6
+17,ENG 035 Statics,ENG,035,8,4,"",4,,,6
+18,ENG 006 Engineering Prob Solving,ENG,006,3,1,"",4,,,2
+19,EBS 001 Foundations Bio Sys Eng,EBS,001,"","","",5,,,1
+20,EBS 075 Prop Mat Biol Sys,EBS,075,15,9,"",4,,,5
+21,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,5
+22,UWP 001 Academic Literacies,UWP,001,"","","",4,,,5
+23,ENG 100 Elec Circuits & Systems,ENG,100,16,"","",3,,,8
+24,ENG 102 Dynamics,ENG,102,17;7,"","",4,,,7
+25,ENG 104 Mech of Materials,ENG,104,17;7,"","",4,,,9
+26,ENG 104L Mech Of Material Lab,ENG,104L,25,"","",1,,,0
+27,ENG 105 Thermodynamics,ENG,105,7;9,"","",4,,,7
+28,ENG 106 Engin Economics,ENG,106,"","","",4,,,11
+29,ENG 103 Fluid Mechanics,ENG,103,17;7;9,"","",4,,,8
+30,EBS 125 Heat Transfer in Bio Sys,EBS,125,20;27;15;29,"","",4,,,9
+31,EBS 127 Mass Transfer & Kinetics,EBS,127,30,"","",4,,,10
+32,EBS 130 Modeling of Dynamic Proc,EBS,130,20;18;7,"","",4,,,8
+33,EBS 165 Bioinstrument & Control,EBS,165,23,"","",4,,,10
+34,EBS 170A Engr Design & Prof Resp,EBS,170A,19;24;25,"","",3,,,10
+35,EBS 170B Engr Projects: Design,EBS,170B,34,36,"",2,,,11
+36,EBS 170BL Engr Projects Design Lab,EBS,170BL,"","","",1,,,11
+37,EBS 170C Eng Projects Des Eval,EBS,170C,35,38,"",1,,,12
+38,EBS 170CL Engr Proj Des Eval Lab,EBS,170CL,"","","",2,,,12
+39,STA 100 Applied Stat for Bio Sci,STA,100,1,"","",4,,,7
+40,EBS 128 Biomchanics & Ergonomics,EBS,128,39;24,"","",4,,,12
+41,EBS 161 Kin & Bioreactor Des,EBS,161,31,"","",4,,,11
+42,EBS 199 Special Study,EBS,199,"","","",5,,,8
+43,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+44,BIS 002C Introduction to Biology,BIS,002C,43,"","",5,,,6
+45,UWP 101 Advanced Composition,UWP,101,22,"","",4,,,9

@@ -1,0 +1,38 @@
+Curriculum,AIAD - International Agricultural Development (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 016B Short Calculus,MAT,016B,14,"","",3,,,3
+2,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+3,TXC 174 Textile World Trade,TXC,174,28,"","",4,,,8
+4,ARE 115B Economic Development,ARE,115B,11;12,"","",4,,,8
+5,ARE 100A Intermed Microeconomics,ARE,100A,11,"","",4,,,4
+6,ARE 100B Intermed Microeconomics,ARE,100B,5;11;12;14;29,"","",4,,,5
+7,ARE 121 Econ of Ag Sustain,ARE,121,11,"","",4,,,8
+8,IAD 010 Intro Int Ag Dev,IAD,010,"","","",4,,,2
+9,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+10,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+11,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+12,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+13,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+14,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+15,CRD 001 The Community,CRD,001,"","","",4,,,4
+16,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,3
+17,PLS 001 Ag Nature & Society,PLS,001,"","","",3,,,4
+18,PLS 101 Agric & the Environment,PLS,101,9,"","",3,,,8
+19,ECN 115A Economic Development,ECN,115A,11;12,"","",4,,,8
+20,IAD 142 Eqpt/Tech for Small Farm,IAD,142,"","","",2,,,12
+21,PLS 112 Forage Crop Production,PLS,112,9,"","",3,,,8
+22,IAD 103 Soc Chg & Ag Dev,IAD,103,"","","",4,,,9
+23,IAD 170 Program Develop for IAD,IAD,170,8,"","",4,,,7
+24,CRD 141 Org of Economic Space,CRD,141,15,"","",4,,,8
+25,CRD 142 Rural Change Indust Wrld,CRD,142,15,"","",4,,,8
+26,POL 124 Pol Global Ineq,POL,124,"","","",4,,,8
+27,ARB 003 Elem Arabic 3,ARB,003,30,"","",5,,,6
+28,TXC 008 Textile Apparel Ind,TXC,008,"","","",4,,,0
+29,ARE 018 Business Law,ARE,018,"","","",4,,,9
+30,ARB 002 Elem Arabic 2,ARB,002,31,"","",5,,,5
+31,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,4

@@ -1,0 +1,21 @@
+Curriculum,LCGS - Cognitive Science (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIN 001 Intro Linguistics,LIN,001,"","","",4,,,4
+2,CGS 001 Intro Cognitive Science,CGS,001,"","","",4,,,5
+3,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+4,PHI 013G Minds Brains Comp w/Disc,PHI,013G,"","","",4,,,6
+5,PHI 012 Intro to Symbol Logic,PHI,012,"","","",4,,,6
+6,PSC 041 Research Meth in Psych,PSC,041,3,"","",4,,,4
+7,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+8,PSC 100 Cognitive Psychology,PSC,100,3;6,"","",4,,,7
+9,PHI 112 Intermed Symbolic Logic,PHI,112,5,"","",4,,,8
+10,CGS 107 Neuroeconomics&Decisions,CGS,107,13;7,"","",4,,,10
+11,LIN 177 Computational Linguistic,LIN,177,"","","",4,,,9
+12,PSC 101 Intro to Bio Psych,PSC,101,3;6,"","",4,,,7
+13,PSC 135 Cognitive Neuroscience,PSC,135,3;6,"","",4,,,8
+14,PSC 140 Developmental Psychology,PSC,140,3;6,"","",4,,,8

@@ -1,0 +1,39 @@
+Curriculum,BMMM - Molecular & Medical Microbiology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0502
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,3
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,BIS 002C Introduction to Biology,BIS,002C,1,"","",5,,,4
+4,BIS 002D Intro to Cell Biology,BIS,002D,2,"","",3,,,9
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+6,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,2
+7,CHE 002C General Chemistry,CHE,002C,6,"","",5,,,3
+8,CHE 118A Organic Chem Health Sci,CHE,118A,7,"","",4,,,4
+9,CHE 118B Organic Chem Health Sci,CHE,118B,8,"","",4,,,5
+10,CHE 118C Organic Chem Health Sci,CHE,118C,9,"","",4,,,6
+11,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+12,MAT 017B Calculus for BioSci,MAT,017B,11,"","",4,,,2
+13,MAT 017C Calculus for BioSci,MAT,017C,12,"","",4,,,4
+14,PHY 007B General Physics,PHY,007B,15,"","",4,,,7
+15,PHY 007A General Physics,PHY,007A,"",12,"",4,,,6
+16,PHY 007C General Physics,PHY,007C,14,"","",4,,,8
+17,MIC 191 Intro Research Adv,MIC,191,2,"","",1,,,7
+18,BIS 101 Genes & Gene Expression,BIS,101,2;1;8;22,"","",4,,,7
+19,BIS 104 Cell Biology,BIS,104,18;20,"","",3,,,10
+20,BIS 102 Struc & Func Biomolecule,BIS,102,2;9,"","",3,,,8
+21,BIS 103 Bioenergetics/Metabolism,BIS,103,20,"","",3,,,9
+22,STA 100 Applied Stat for Bio Sci,STA,100,12,"","",4,,,5
+23,MIC 102 Intro Microbiology,MIC,102,2,6,"",4,,,5
+24,MIC 105 Microbial Diversity,MIC,105,23,"","",5,,,8
+25,MIC 105L Microbial Diversity Lab,MIC,105L,23;32,24,"",3,,,12
+26,MIC 111 Human Microbiology,MIC,111,23;18,"","",3,,,10
+27,MIC 115 Recombinant DNA Cloning,MIC,115,18,"","",3,,,10
+28,MIC 162 General Virology,MIC,162,18,"","",4,,,11
+29,MMI 188 Human Immunology,MMI,188,"","","",3,,,9
+30,MIC 170 Yeast Molecular Genetics,MIC,170,18,"","",3,,,9
+31,MIC 198 Directed Gp Study,MIC,198,"","","",5,,,11
+32,MIC 104L General Microbiology Lab,MIC,104L,23;9,"","",3,,,7

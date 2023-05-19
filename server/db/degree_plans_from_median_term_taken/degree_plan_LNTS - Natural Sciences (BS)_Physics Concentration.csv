@@ -1,0 +1,44 @@
+Curriculum,LNTS - Natural Sciences (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 107A Physical Chem Life Sci,CHE,107A,16;28;35,"","",3,,,0
+2,CHE 110A Phys Chem: Quantum Mech,CHE,110A,16;28;35,"","",4,,,0
+3,GEL 161 Geophys Field Methods,GEL,161,30;28;35,"","",3,,,0
+4,GEL 162 Solid Earth Geophysics,GEL,162,28;35,"","",3,,,0
+5,GEL 163 Planet Geol & Geophysics,GEL,163,20;28;36,"","",3,,,0
+6,PHY 108 Optics,PHY,108,24;37;31,"","",3,,,0
+7,PHY 160 Envir Physics & Soc,PHY,160,28;32;23,"","",3,,,0
+8,GEL 181 Teaching in Sci & Math,GEL,181,"","","",2,,,0
+9,GEL 183 Teaching HS Math & Sci,GEL,183,"","","",3,,,0
+10,CHE 118A Organic Chem Health Sci,CHE,118A,16,"","",4,,,0
+11,GEL 109 Sediments & Strata,GEL,109,30,"","",3,,,0
+12,GEL 109L Sediments and Strata Lab,GEL,109L,33,11,"",2,,,0
+13,BIS 101 Genes & Gene Expression,BIS,101,17;18;10;25,"","",4,,,0
+14,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+15,CHE 002B General Chemistry,CHE,002B,14,"","",5,,,0
+16,CHE 002C General Chemistry,CHE,002C,15,"","",5,,,0
+17,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+18,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+19,BIS 002C Introduction to Biology,BIS,002C,18,"","",5,,,0
+20,GEL 002 Earth System Science,GEL,002,"","","",3,,,0
+21,GEL 003 History Of Life,GEL,003,"","","",3,,,0
+22,GEL 060 Earth Materials Intro,GEL,060,14;15;30;33;36,"","",4,,,0
+23,MAT 016B Short Calculus,MAT,016B,36,"","",3,,,0
+24,PHY 007A General Physics,PHY,007A,"",23,"",4,,,0
+25,STA 100 Applied Stat for Bio Sci,STA,100,23,"","",4,,,0
+26,MAT 021C Calculus,MAT,021C,"","","",4,,,0
+27,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,0
+28,PHY 007C General Physics,PHY,007C,29,"","",4,,,0
+29,PHY 007B General Physics,PHY,007B,24,"","",4,,,0
+30,GEL 001 The Earth,GEL,001,"","","",4,,,0
+31,MAT 021D Vector Analysis,MAT,021D,"","","",4,,,0
+32,PHY 010 Topics in Physics,PHY,010,"","","",4,,,0
+33,GEL 050L Physical Geology Lab,GEL,050L,"",34,"",2,,,0
+34,GEL 050 Physical Geology,GEL,050,"","","",3,,,0
+35,MAT 016C Short Calculus,MAT,016C,"","","",3,,,0
+36,MAT 016A Short Calculus,MAT,016A,"","","",3,,,0
+37,MAT 021B Calculus,MAT,021B,"","","",4,,,0

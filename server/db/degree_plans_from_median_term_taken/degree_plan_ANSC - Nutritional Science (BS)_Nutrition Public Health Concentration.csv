@@ -1,0 +1,41 @@
+Curriculum,ANSC - Nutritional Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.1901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+2,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+3,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,5
+4,PSC 001 General Psychology,PSC,001,"","","",4,,,3
+5,ABI 102 Animal Biochem & Metabol,ABI,102,17,"","",5,,,7
+6,ABI 103 Animal Biochem & Metabol,ABI,103,5,"","",5,,,8
+7,EXB 110 Exercise Metabolism,EXB,110,29,"","",3,,,12
+8,NUT 113 Princ of Epi in Nutr,NUT,113,23,"","",4,,,10
+9,NUT 118 Community Nutrition,NUT,118,33;31,"","",4,,,11
+10,NUT 192 Internship,NUT,192,"","","",12,,,8
+11,NUT 105 Life Cycle Nutrition,NUT,105,6,"","",3,,,12
+12,HDE 100C Adulthood & Aging,HDE,100C,4,"","",4,,,9
+13,HDE 100A Infancy & Early Childhd,HDE,100A,4;14,"","",4,,,9
+14,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+15,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+16,BIS 002C Introduction to Biology,BIS,002C,15,"","",5,,,6
+17,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+18,CHE 002B General Chemistry,CHE,002B,17,"","",5,,,2
+19,CHE 002C General Chemistry,CHE,002C,18,"","",5,,,3
+20,CHE 008A Organic Chemistry-Brief,CHE,008A,18,"","",2,,,4
+21,CHE 008B Organic Chemistry-Brief,CHE,008B,20,"","",4,,,5
+22,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,2
+23,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+24,PSC 041 Research Meth in Psych,PSC,041,4,"","",4,,,6
+25,BIS 101 Genes & Gene Expression,BIS,101,14;15;20;23,"","",4,,,9
+26,FST 100A Food Chemistry,FST,100A,21,"","",4,,,7
+27,FST 100B Food Properties,FST,100B,26;21,"","",4,,,8
+28,MIC 102 Intro Microbiology,MIC,102,14,18,"",4,,,6
+29,NPB 101 Systemic Physiology,NPB,101,14;18,"","",5,,,6
+30,NPB 101L Systemic Physiology Lab,NPB,101L,29,"","",3,,,10
+31,NUT 111B Rec for Human Nutrition,NUT,111B,21,"","",2,,,9
+32,NUT 112 Nutritional Assessment,NUT,112,5;23,"","",4,,,9
+33,NUT 116A Clinical Nutrition,NUT,116A,31;32;29,"","",3,,,10
+34,NUT 116AL Nutrition Practicum,NUT,116AL,"",33,"",3,,,0

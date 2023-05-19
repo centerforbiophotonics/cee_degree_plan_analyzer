@@ -1,0 +1,20 @@
+Curriculum,LIRE - International Relations (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+2,ECN 001B Princ Of Macroecon,ECN,001B,"",1,"",5,,,3
+3,HIS 010C 19th-20th Century World,HIS,010C,"",2,"",4,,,4
+4,POL 003 Internatl Relations,POL,003,"",3,"",4,,,3
+5,STA 013 Elementary Statistics,STA,013,"",4,"",4,,,3
+6,POL 002 Intro Comp Politics,POL,002,"",5,"",4,,,4
+7,POL 051 Scientific Study Politic,POL,051,"",6,"",4,,,4
+8,HIS 193B Middle East from 1914,HIS,193B,"",7,"",4,,,6
+9,SOC 118 Political Sociology,SOC,118,"",8,"",4,,,9
+10,ANT 123AN Resist Rebel & Pop Mvmnt,ANT,123AN,"",9,"",4,,,9
+11,POL 126 Ethnic Conflict,POL,126,"",10,"",4,,,7
+12,IRE 104 International Migration,IRE,104,"",11,"",4,,,9
+13,HMR 134 Human Rights,HMR,134,"",12,"",4,,,10

@@ -1,0 +1,40 @@
+Curriculum,LNTS - Natural Sciences (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 105 Anly & Phys Chem Methods,CHE,105,"",3,"",4,,,0
+2,CHE 107A Physical Chem Life Sci,CHE,107A,15;27;32,"","",3,,,0
+3,CHE 107B Phys Chem Life Sci,CHE,107B,2,"","",3,,,0
+4,CHE 118A Organic Chem Health Sci,CHE,118A,15,"","",4,,,0
+5,CHE 118B Organic Chem Health Sci,CHE,118B,4,"","",4,,,0
+6,CHE 124A Inorg Fundamentals,CHE,124A,15,"","",3,,,0
+7,CHE 118C Organic Chem Health Sci,CHE,118C,5,"","",4,,,0
+8,GEL 181 Teaching in Sci & Math,GEL,181,"","","",2,,,0
+9,GEL 183 Teaching HS Math & Sci,GEL,183,"","","",3,,,0
+10,GEL 109 Sediments & Strata,GEL,109,29,"","",3,,,0
+11,GEL 109L Sediments and Strata Lab,GEL,109L,30,10,"",2,,,0
+12,BIS 101 Genes & Gene Expression,BIS,101,16;17;4;24,"","",4,,,0
+13,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+14,CHE 002B General Chemistry,CHE,002B,13,"","",5,,,0
+15,CHE 002C General Chemistry,CHE,002C,14,"","",5,,,0
+16,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+17,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+18,BIS 002C Introduction to Biology,BIS,002C,17,"","",5,,,0
+19,GEL 002 Earth System Science,GEL,002,"","","",3,,,0
+20,GEL 003 History Of Life,GEL,003,"","","",3,,,0
+21,GEL 060 Earth Materials Intro,GEL,060,13;14;29;30;33,"","",4,,,0
+22,MAT 016B Short Calculus,MAT,016B,33,"","",3,,,0
+23,PHY 007A General Physics,PHY,007A,"",22,"",4,,,0
+24,STA 100 Applied Stat for Bio Sci,STA,100,22,"","",4,,,0
+25,MAT 021C Calculus,MAT,021C,"","","",4,,,0
+26,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,0
+27,PHY 007C General Physics,PHY,007C,28,"","",4,,,0
+28,PHY 007B General Physics,PHY,007B,23,"","",4,,,0
+29,GEL 001 The Earth,GEL,001,"","","",4,,,0
+30,GEL 050L Physical Geology Lab,GEL,050L,"",31,"",2,,,0
+31,GEL 050 Physical Geology,GEL,050,"","","",3,,,0
+32,MAT 016C Short Calculus,MAT,016C,"","","",3,,,0
+33,MAT 016A Short Calculus,MAT,016A,"","","",3,,,0

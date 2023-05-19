@@ -1,0 +1,30 @@
+Curriculum,LSTA - Statistics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,27.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,3
+2,MAT 021B Calculus,MAT,021B,3,"","",4,,,2
+3,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+4,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,5
+7,ECS 036C Data Structures,ECS,036C,20;23,"","",4,,,5
+8,STA 013 Elementary Statistics,STA,013,"","","",4,,,2
+9,STA 106 Analysis of Variance,STA,106,8,"","",4,,,6
+10,STA 108 Regression Analysis,STA,108,8,"","",4,,,5
+11,STA 131A Probability Theory,STA,131A,1;5,"","",4,,,7
+12,STA 131B Math Statistics,STA,131B,11,"","",4,,,8
+13,STA 141A Statistical Data Science,STA,141A,10,"","",4,,,9
+14,STA 138 Anly Categor Data,STA,138,10,"","",4,,,10
+15,ECS 165A Database Systems,ECS,165A,7,"","",4,,,11
+16,STA 141B Stat Data Technologies,STA,141B,13,"","",4,,,10
+17,STA 141C Adv Stat Computing,STA,141C,13,"","",4,,,9
+18,MAT 167 Applied Linear Algebra,MAT,167,5,"","",4,,,9
+19,MAT 145 Combinatorics,MAT,145,1,"","",4,,,9
+20,ECS 036B Object-Oriented Program,ECS,036B,21,"","",4,,,5
+21,ECS 036A Programming,ECS,036A,22,"","",4,,,5
+22,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,5
+23,ECS 020 Discrete Math for CS,ECS,020,3,"","",4,,,4

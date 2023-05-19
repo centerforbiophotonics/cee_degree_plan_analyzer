@@ -1,0 +1,36 @@
+Curriculum,LCGS - Cognitive Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECS 020 Discrete Math for CS,ECS,020,6,"","",4,,,5
+2,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,6
+3,ECS 032B Intro to Data Structures,ECS,032B,2,"","",4,,,6
+4,ECS 036C Data Structures,ECS,036C,28;1,"","",4,,,6
+5,LIN 001 Intro Linguistics,LIN,001,"","","",4,,,4
+6,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,1
+7,MAT 017B Calculus for BioSci,MAT,017B,6,"","",4,,,3
+8,MAT 017C Calculus for BioSci,MAT,017C,7,"","",4,,,4
+9,MAT 022A Linear Algebra,MAT,022A,8,10,"",3,,,6
+10,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,8,"","",1,,,5
+11,PHI 012 Intro to Symbol Logic,PHI,012,"","","",4,,,6
+12,PHI 013G Minds Brains Comp w/Disc,PHI,013G,"","","",4,,,6
+13,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+14,PSC 041 Research Meth in Psych,PSC,041,13,"","",4,,,4
+15,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+16,CGS 107 Neuroeconomics&Decisions,CGS,107,17;15,"","",4,,,10
+17,PSC 100 Cognitive Psychology,PSC,100,13;14,"","",4,,,7
+18,PHI 112 Intermed Symbolic Logic,PHI,112,11,"","",4,,,8
+19,LIN 177 Computational Linguistic,LIN,177,"","","",4,,,9
+20,"PHI 133 Logic, Probability & AI",PHI,133,11;15,"","",4,,,12
+21,ECS 120 Theory Computation,ECS,120,1,"","",4,,,9
+22,PSC 101 Intro to Bio Psych,PSC,101,13;14,"","",4,,,7
+23,LIN 103A Linguistic Analysis I,LIN,103A,"","","",4,,,8
+24,PSC 103A Stat Analys Psych Data,PSC,103A,13;14;15,"","",5,,,9
+25,PSC 121 Physiological Psychology,PSC,121,13;14;22,"","",4,,,10
+26,PSC 113 Developmental Psychobiol,PSC,113,22,"","",4,,,8
+27,PSC 103B Stat Analys Psych Data,PSC,103B,24;15,"","",5,,,9
+28,ECS 036B Object-Oriented Program,ECS,036B,29,"","",4,,,5
+29,ECS 036A Programming,ECS,036A,2,"","",4,,,5

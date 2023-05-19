@@ -1,0 +1,51 @@
+Curriculum,EASE - Aerospace Science and Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+2,MAT 021C Calculus,MAT,021C,1,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,2,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,17;2,"","",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,2,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;2,3,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;3;5,"","",5,,,5
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+13,ENG 004 Engr Graphics in Design,ENG,004,"","","",3,,,2
+14,ENG 017 Circuits I,ENG,017,2,"","",4,,,6
+15,ENG 035 Statics,ENG,035,8,3,"",4,,,5
+16,ENG 045 Properties of Materials,ENG,045,2;11;8,"","",4,,,5
+17,ENG 006 Engineering Prob Solving,ENG,006,4,1,"",4,,,3
+18,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,5
+19,ENL 003 Intro To Literature,ENL,003,"","","",4,,,2
+20,ENG 100 Elec Circuits & Systems,ENG,100,14,"","",3,,,8
+21,ENG 102 Dynamics,ENG,102,15;7,"","",4,,,6
+22,ENG 103 Fluid Mechanics,ENG,103,15;7;9,"","",4,,,7
+23,ENG 104 Mech of Materials,ENG,104,15;7,"","",4,,,7
+24,ENG 104L Mech Of Material Lab,ENG,104L,23,"","",1,,,0
+25,ENG 105 Thermodynamics,ENG,105,7;9,"","",4,,,7
+26,ENG 190 Prof Resp Of Engr,ENG,190,"","","",3,,,9
+27,EME 106 Thermo-Fluid Dynamics,EME,106,22;25,"","",4,,,8
+28,EME 108 Measurement Systems,EME,108,20;21,"","",4,,,10
+29,EME 109 Experimental Methods,EME,109,27,"","",4,,,9
+30,EME 165 Heat Transfer,EME,165,17;22;25,"","",4,,,9
+31,EME 172 Auto Control of Engr Sys,EME,172,20;21,"","",4,,,9
+32,EAE 127 Appl Aircraft Aero,EAE,127,27,"","",4,,,10
+33,EAE 129 Stab & Cont Aerosp Veh,EAE,129,21,"","",4,,,8
+34,EAE 130A Aircraft Perf & Design,EAE,130A,32,33,"",4,,,11
+35,EAE 130B Aircraft Perf & Design,EAE,130B,34,"","",4,,,12
+36,EAE 133 Finite Element Structure,EAE,133,23,"","",4,,,10
+37,EAE 135 Aerospace Structures,EAE,135,23,"","",4,,,11
+38,EAE 138 Aircraft Propulsion,EAE,138,27,"","",4,,,11
+39,ENG 180 Engineering Analysis,ENG,180,17;3;7,"","",4,,,10
+40,EAE 142 Orbital Mechanics,EAE,142,21,"","",4,,,8
+41,EAE 140 Rocket Propulsion,EAE,140,27,"","",4,,,10
+42,EME 150A Mechanical Design,EME,150A,16;23,44,"",4,,,9
+43,UWP 102E Writing in Engineering,UWP,102E,19,"","",4,,,8
+44,EME 050 Manufacturing Processes,EME,050,13;8,"","",4,,,6

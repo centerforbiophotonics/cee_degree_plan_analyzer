@@ -1,0 +1,24 @@
+Curriculum,LNTS - Natural Sciences (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+2,CHE 002B General Chemistry,CHE,002B,1,"","",5,,,0
+3,CHE 002C General Chemistry,CHE,002C,2,"","",5,,,0
+4,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+5,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+6,BIS 002C Introduction to Biology,BIS,002C,5,"","",5,,,0
+7,GEL 002 Earth System Science,GEL,002,"","","",3,,,0
+8,GEL 003 History Of Life,GEL,003,"","","",3,,,0
+9,GEL 060 Earth Materials Intro,GEL,060,1;2;14;15;17,"","",4,,,0
+10,MAT 016B Short Calculus,MAT,016B,17,"","",3,,,0
+11,PHY 007A General Physics,PHY,007A,"",10,"",4,,,0
+12,STA 100 Applied Stat for Bio Sci,STA,100,10,"","",4,,,0
+13,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,0
+14,GEL 001 The Earth,GEL,001,"","","",4,,,0
+15,GEL 050L Physical Geology Lab,GEL,050L,"",16,"",2,,,0
+16,GEL 050 Physical Geology,GEL,050,"","","",3,,,0
+17,MAT 016A Short Calculus,MAT,016A,"","","",3,,,0

@@ -1,0 +1,42 @@
+Curriculum,ACNU - Clinical Nutrition (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.1901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+2,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,9
+3,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+4,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+5,CHE 002B General Chemistry,CHE,002B,6,"","",5,,,2
+6,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+7,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+8,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,4
+9,CHE 008B Organic Chemistry-Brief,CHE,008B,8,"","",4,,,5
+10,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,2
+11,PSC 001 General Psychology,PSC,001,"","","",4,,,3
+12,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+13,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+14,ARE 112 Organization Management,ARE,112,"","","",4,,,7
+15,ABI 102 Animal Biochem & Metabol,ABI,102,5,"","",5,,,7
+16,ABI 103 Animal Biochem & Metabol,ABI,103,15,"","",5,,,8
+17,BIS 101 Genes & Gene Expression,BIS,101,3;4;8;13,"","",4,,,9
+18,FST 100A Food Chemistry,FST,100A,9,"","",4,,,7
+19,FST 100B Food Properties,FST,100B,18;9,"","",4,,,8
+20,FSM 120 Prin Quantity Food Prod,FSM,120,19;24,"","",4,,,9
+21,FSM 120L Production Lab,FSM,120L,20,"","",2,,,12
+22,FSM 122 Systems Management,FSM,122,14;20,"","",3,,,11
+23,MIC 102 Intro Microbiology,MIC,102,3,5,"",4,,,6
+24,NUT 106 Food Chem Clin Nutr,NUT,106,9,"","",5,,,7
+25,NUT 111B Rec for Human Nutrition,NUT,111B,9,"","",2,,,9
+26,NUT 112 Nutritional Assessment,NUT,112,15;13,"","",4,,,9
+27,NUT 116A Clinical Nutrition,NUT,116A,25;26;33,"","",3,,,10
+28,NUT 116AL Nutrition Practicum,NUT,116AL,"",27,"",3,,,10
+29,NUT 116B Clinical Nutrition,NUT,116B,25;26;33,"","",3,,,11
+30,NUT 116BL Nutrition Practicum,NUT,116BL,28,29,"",3,,,11
+31,NUT 118 Community Nutrition,NUT,118,27;25,"","",4,,,11
+32,NUT 190 Proseminar in Nutrition,NUT,190,25,"","",1,,,11
+33,NPB 101 Systemic Physiology,NPB,101,3;5,"","",5,,,6
+34,NPB 101L Systemic Physiology Lab,NPB,101L,33,"","",3,,,10
+35,NUT 192 Internship,NUT,192,"","","",12,,,9

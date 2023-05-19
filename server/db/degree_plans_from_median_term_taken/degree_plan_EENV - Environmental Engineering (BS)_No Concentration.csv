@@ -1,0 +1,44 @@
+Curriculum,EENV - Environmental Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.1401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021B Calculus,MAT,021B,2,"","",4,,,2
+2,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+3,MAT 021C Calculus,MAT,021C,1,"","",4,,,3
+4,MAT 021D Vector Analysis,MAT,021D,3,"","",4,,,4
+5,MAT 022A Linear Algebra,MAT,022A,15;3,"","",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,3,"","",1,,,5
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+9,CHE 002B General Chemistry,CHE,002B,8,"","",5,,,3
+10,CHE 002C General Chemistry,CHE,002C,9,"","",5,,,4
+11,PHY 009A Classical Physics,PHY,009A,1,"","",5,,,3
+12,PHY 009B Classical Physics,PHY,009B,11;3,4,"",5,,,4
+13,GEL 050 Physical Geology,GEL,050,"","","",3,,,5
+14,GEL 050L Physical Geology Lab,GEL,050L,"",13,"",2,,,7
+15,ENG 006 Engineering Prob Solving,ENG,006,2,1,"",4,,,4
+16,ENG 035 Statics,ENG,035,11,4,"",4,,,5
+17,ECI 003 Civil Infrastr & Society,ECI,003,"",2,"",4,,,1
+18,ECI 016 Spatial Data Analysis,ECI,016,"","","",2,,,6
+19,ECI 040 Intro to Env Eng,ECI,040,9,"","",4,,,7
+20,UWP 001 Academic Literacies,UWP,001,"","","",4,,,5
+21,ENG 106 Engin Economics,ENG,106,"","","",4,,,8
+22,ECI 100 Fluid Mech Civil/Env Eng,ECI,100,16;7;12,"","",4,,,7
+23,ECI 114 Probabilistic Sys Anlys,ECI,114,3,"","",4,,,8
+24,ECI 115 Comp Method in Civil Eng,ECI,115,15;7,"","",4,,,9
+25,ECI 123 Urban Sys Sustainability,ECI,123,"","","",4,,,9
+26,ECI 140A Env Analysis Aqueous Sys,ECI,140A,9,19,"",4,,,8
+27,ECI 140B Chem Princip for Env Eng,ECI,140B,9,"","",4,,,8
+28,ECI 140C Bio Princip Envir Engi,ECI,140C,27;19,"","",4,,,8
+29,ECI 140D Water Treatment,ECI,140D,27;28;19,"","",4,,,9
+30,ECI 141 Engr Hydraulics,ECI,141,22,"","",3,,,9
+31,ECI 141L Hydraulics Lab,ECI,141L,"",30,"",1,,,9
+32,ECI 145 Hydraulic Struct Design,ECI,145,30,"","",4,,,12
+33,ECI 149 Air Pollution,ECI,149,4;7;9;22,"","",4,,,10
+34,ECI 193A Civil/Env Senior Design,ECI,193A,30,"","",4,,,11
+35,ECI 193B Civil/Env Senior Design,ECI,193B,34,"","",4,,,12
+36,ECI 142 Engineering Hydrology,ECI,142,"",30,"",4,,,10
+37,UWP 101 Advanced Composition,UWP,101,20,"","",4,,,8

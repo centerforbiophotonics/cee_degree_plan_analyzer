@@ -1,0 +1,39 @@
+Curriculum,LAPP - Applied Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,2
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+9,PHY 102 Computationl Lab Phyiscs,PHY,102,3;5;7;24;8,10,"",1,,,7
+10,PHY 104A Intro Math Phys,PHY,104A,26;3;5;7,"","",4,,,7
+11,PHY 105A Analytical Mechanic,PHY,105A,26;3;5;7,"","",4,,,7
+12,PHY 110A Electricity & Magnetism,PHY,110A,26;3;5;7;10;11,"","",4,,,8
+13,PHY 110B Electricty & Magnetsm,PHY,110B,12;10,"","",4,,,9
+14,PHY 115A Quantum Mechanics,PHY,115A,10;11,"","",4,,,9
+15,PHY 116A Electronics,PHY,116A,25;7,"","",4,,,7
+16,PHY 116B Electronics,PHY,116B,25,"","",4,,,8
+17,PHY 116C Computers in Phys Expts,PHY,116C,24;16;7,"","",4,,,9
+18,ATM 120 Thermodyn & Cloud Physic,ATM,120,1;26,28,"",4,,,0
+19,ATM 121A Atmos Dynamics,ATM,121A,18;3;26,"","",4,,,0
+20,ATM 121B Atmospheric Dynamic,ATM,121B,19,"","",4,,,0
+21,GEL 116N Oceanography,GEL,116N,29,"","",3,,,0
+22,GEL 150A Phys & Chem Oceanography,GEL,150A,21;26;1;30,"","",4,,,0
+23,PHY 112 Thermo & Stat Physics,PHY,112,14,"","",4,,,10
+24,PHY 009D Modern Physics,PHY,009D,25;5,"","",4,,,6
+25,PHY 009C Classical Physics,PHY,009C,26;3;5,"","",5,,,5
+26,PHY 009B Classical Physics,PHY,009B,27;1,3,"",5,,,4
+27,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+28,ATM 060 Intr Atmospheric Science,ATM,060,4;27,"","",4,,,0
+29,GEL 001 The Earth,GEL,001,"","","",4,,,0
+30,CHE 002C General Chemistry,CHE,002C,31,"","",5,,,4
+31,CHE 002B General Chemistry,CHE,002B,32,"","",5,,,3
+32,CHE 002A General Chemistry,CHE,002A,"","","",5,,,3

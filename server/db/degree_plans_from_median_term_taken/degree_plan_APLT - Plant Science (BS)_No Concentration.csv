@@ -1,0 +1,33 @@
+Curriculum,APLT - Plant Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+2,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+3,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,3
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,4
+7,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,6
+8,CHE 008B Organic Chemistry-Brief,CHE,008B,7,"","",4,,,7
+9,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+10,PHY 001B Principles Physics,PHY,001B,9,"","",3,,,6
+11,MAT 016B Short Calculus,MAT,016B,12,"","",3,,,3
+12,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+13,PLS 120 Applied Stat in Ag Sci,PLS,120,"","","",4,,,7
+14,PLS 100A Plant Metabolic Process,PLS,100A,3,"","",3,,,7
+15,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",14,"",2,,,7
+16,PLS 100B Plant Growth & Yield,PLS,100B,14,"","",3,,,8
+17,PLS 100BL Plant Growth & Yield Lab,PLS,100BL,"",16,"",2,,,11
+18,PLS 100C Plant-Envir Interact,PLS,100C,14,"","",3,,,9
+19,PLS 100CL Plant-Envir Interact Lab,PLS,100CL,"",18,"",2,,,9
+20,PLS 101 Agric & the Environment,PLS,101,3,"","",3,,,8
+21,PLS 152 Plant Genetics,PLS,152,2,"","",4,,,7
+22,PLB 143 Evolution of Crop Plants,PLB,143,3,"","",4,,,6
+23,PLS 147 CA Plant Communities,PLS,147,3,"","",3,,,9
+24,PLS 147L CA Plant Comm Field,PLS,147L,3,23,"",1,,,12
+25,PLS 105 Concepts in Pest Mgt,PLS,105,8;1,"","",3,,,10
+26,PLS 192 Internship,PLS,192,"","","",12,,,9

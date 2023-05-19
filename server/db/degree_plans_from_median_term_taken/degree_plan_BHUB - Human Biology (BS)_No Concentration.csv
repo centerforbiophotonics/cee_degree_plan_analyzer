@@ -1,0 +1,35 @@
+Curriculum,BHUB - Human Biology (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,26.0102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+2,BIS 002C Introduction to Biology,BIS,002C,3,"","",5,,,0
+3,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+4,CHE 002B General Chemistry,CHE,002B,5,"","",5,,,0
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+6,CHE 002C General Chemistry,CHE,002C,4,"","",5,,,0
+7,CHE 118B Organic Chem Health Sci,CHE,118B,8,"","",4,,,0
+8,CHE 118A Organic Chem Health Sci,CHE,118A,6,"","",4,,,0
+9,CHE 118C Organic Chem Health Sci,CHE,118C,7,"","",4,,,0
+10,MAT 021A Calculus,MAT,021A,"","","",4,,,0
+11,MAT 021B Calculus,MAT,021B,10,"","",4,,,0
+12,PHY 007B General Physics,PHY,007B,14,"","",4,,,0
+13,PHY 007C General Physics,PHY,007C,12,"","",4,,,0
+14,PHY 007A General Physics,PHY,007A,"",11,"",4,,,0
+15,BIS 101 Genes & Gene Expression,BIS,101,1;3;8;19,"","",4,,,0
+16,BIS 104 Cell Biology,BIS,104,15;17,"","",3,,,0
+17,BIS 102 Struc & Func Biomolecule,BIS,102,1;7,"","",3,,,0
+18,BIS 103 Bioenergetics/Metabolism,BIS,103,17,"","",3,,,0
+19,STA 100 Applied Stat for Bio Sci,STA,100,11,"","",4,,,0
+20,EVE 100 Intro to Evolution,EVE,100,1;3;2;10;11,"","",4,,,0
+21,MIC 102 Intro Microbiology,MIC,102,1,4,"",4,,,0
+22,NPB 101 Systemic Physiology,NPB,101,1;4,"","",5,,,0
+23,NPB 101L Systemic Physiology Lab,NPB,101L,22,"","",3,,,0
+24,EXB 106 Human Gross Anatomy,EXB,106,1,"","",4,,,0
+25,EXB 106L Human Gross Anatomy Lab,EXB,106L,1,24,"",3,,,0
+26,MCB 121 Adv Molecular Biology,MCB,121,15,17,"",3,,,0
+27,NPB 100 Neurobiology,NPB,100,1,"","",4,,,0
+28,NPB 100L Neurobiology Lab,NPB,100L,"",27,"",3,,,0

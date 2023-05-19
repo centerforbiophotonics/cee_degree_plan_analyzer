@@ -1,0 +1,36 @@
+Curriculum,AMGE - Managerial Economics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,52.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ARE 176 Environmental Economics,ARE,176,23,"","",4,,,10
+2,ARE 175 Natural Resource Econ,ARE,175,23,"","",4,,,9
+3,ARE 146 Business/Gov't Reg/Soc,ARE,146,23;24,"","",4,,,10
+4,ARE 107 Econometrics for Bus Dec,ARE,107,25;23;21;22,"","",4,,,11
+5,ARE 145 Farm & Rural Res Apprais,ARE,145,"","","",4,,,11
+6,ARE 150 Agricultural Labor,ARE,150,23,"","",4,,,9
+7,ARE 140 Farm Management,ARE,140,16,"","",5,,,11
+8,ARE 142 Personal Finance,ARE,142,17,"","",3,,,7
+9,ECN 160A Intl Microeconomics,ECN,160A,23,"","",4,,,9
+10,ECN 121A Industrial Organization,ECN,121A,23;24,"","",4,,,9
+11,ECN 151A Econ Of Labor Mkt,ECN,151A,23,"","",4,,,9
+12,UWP 104A Business Writing,UWP,104A,28,"","",4,,,10
+13,PLS 021 Computers in Technology,PLS,021,"","","",3,,,3
+14,MGT 011A Elementary Accounting,MGT,011A,"","","",4,,,4
+15,MGT 011B Elementary Accounting,MGT,011B,14,"","",4,,,6
+16,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+17,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+18,MAT 016B Short Calculus,MAT,016B,20,"","",3,,,2
+19,MAT 016C Short Calculus,MAT,016C,18,"","",3,,,4
+20,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+21,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+22,STA 103 Applied Statistics,STA,103,21;18,"","",4,,,6
+23,ARE 100A Intermed Microeconomics,ARE,100A,17,"","",4,,,6
+24,ARE 100B Intermed Microeconomics,ARE,100B,23;16;17;18;29,"","",4,,,7
+25,ARE 106 Econometrics,ARE,106,23;22;21;13,"","",4,,,8
+26,ARE 155 Oper Res & Mgmt Sci,ARE,155,23;22;21,"","",4,,,8
+27,ECN 101 Intermed Macro Theory,ECN,101,17,"","",5,,,6
+28,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+29,ARE 018 Business Law,ARE,018,"","","",4,,,6

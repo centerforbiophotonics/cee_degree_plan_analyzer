@@ -1,0 +1,33 @@
+Curriculum,LSOC -  Sociology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOC 001 Intro Sociology,SOC,001,"","","",5,,,3
+2,SOC 005 Global Social Change,SOC,005,"","","",4,,,2
+3,SOC 046A Intro Social Rsch,SOC,046A,"","","",4,,,5
+4,SOC 056 Intro to Social Stats,SOC,056,"","","",5,,,0
+5,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,4
+6,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+7,POL 002 Intro Comp Politics,POL,002,"","","",4,,,3
+8,ARB 001 Elem Arabic 1,ARB,001,"","","",5,,,4
+9,SOC 100 Sociological Theory,SOC,100,"","","",4,,,9
+10,SOC 104 International Migration,SOC,104,"","","",4,,,9
+11,SOC 141 Indust & Social Change,SOC,141,"","","",4,,,8
+12,SOC 145A Third World Dev,SOC,145A,"","","",4,,,10
+13,SOC 170 Population,SOC,170,"","","",4,,,7
+14,ANT 126A Anthro of Development,ANT,126A,"","","",4,,,9
+15,SOC 131 The Family,SOC,131,"","","",4,,,8
+16,SOC 130 Race Relations,SOC,130,"","","",4,,,9
+17,SOC 118 Political Sociology,SOC,118,"","","",4,,,9
+18,AAS 107A Africans in Latin Americ,AAS,107A,"","","",4,,,7
+19,SPA 170 Intro Latin Amer Culture,SPA,170,21,"","",4,,,10
+20,SPA 172 Mexican Culture,SPA,172,21,"","",4,,,9
+21,SPA 033 Span-Native Speakers III,SPA,033,22,"","",5,,,6
+22,SPA 032 Span-Native Speakers II,SPA,032,23,"","",5,,,5
+23,SPA 031 Span-Native Speakers I,SPA,031,24,"","",5,,,4
+24,SPA 003 Elementary Spanish,SPA,003,25,"","",5,,,6
+25,SPA 002 Elementary Spanish,SPA,002,26,"","",5,,,5
+26,SPA 001 Elementary Spanish,SPA,001,"","","",5,,,4

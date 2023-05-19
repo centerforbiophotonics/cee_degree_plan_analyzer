@@ -1,0 +1,41 @@
+Curriculum,LNTS - Natural Sciences (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GEL 101 Structural Geology,GEL,101,26;27;24;33,"","",3,,,0
+2,GEL 101L Structural Geology Lab,GEL,101L,26;27;24,1,"",2,,,0
+3,GEL 105 Igneous Rocks,GEL,105,22;33,15,"",4,,,0
+4,GEL 109 Sediments & Strata,GEL,109,29,"","",3,,,0
+5,GEL 109L Sediments and Strata Lab,GEL,109L,27,4,"",2,,,0
+6,GEL 116N Oceanography,GEL,116N,20,"","",3,,,0
+7,GEL 163 Planet Geol & Geophysics,GEL,163,20;30;33,"","",3,,,0
+8,GEL 108 Paleoclimates,GEL,108,6;14,"","",3,,,0
+9,GEL 181 Teaching in Sci & Math,GEL,181,"","","",2,,,0
+10,GEL 183 Teaching HS Math & Sci,GEL,183,"","","",3,,,0
+11,CHE 118A Organic Chem Health Sci,CHE,118A,16,"","",4,,,0
+12,BIS 101 Genes & Gene Expression,BIS,101,17;18;11;25,"","",4,,,0
+13,CHE 107A Physical Chem Life Sci,CHE,107A,16;30;34,"","",3,,,0
+14,CHE 002A General Chemistry,CHE,002A,"","","",5,,,0
+15,CHE 002B General Chemistry,CHE,002B,14,"","",5,,,0
+16,CHE 002C General Chemistry,CHE,002C,15,"","",5,,,0
+17,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+18,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+19,BIS 002C Introduction to Biology,BIS,002C,18,"","",5,,,0
+20,GEL 002 Earth System Science,GEL,002,"","","",3,,,0
+21,GEL 003 History Of Life,GEL,003,"","","",3,,,0
+22,GEL 060 Earth Materials Intro,GEL,060,14;15;29;27;33,"","",4,,,0
+23,MAT 016B Short Calculus,MAT,016B,33,"","",3,,,0
+24,PHY 007A General Physics,PHY,007A,"",23,"",4,,,0
+25,STA 100 Applied Stat for Bio Sci,STA,100,23,"","",4,,,0
+26,GEL 050 Physical Geology,GEL,050,"","","",3,,,0
+27,GEL 050L Physical Geology Lab,GEL,050L,"",26,"",2,,,0
+28,MAT 017A Calculus for BioSci,MAT,017A,"","","",4,,,0
+29,GEL 001 The Earth,GEL,001,"","","",4,,,0
+30,PHY 007C General Physics,PHY,007C,31,"","",4,,,0
+31,PHY 007B General Physics,PHY,007B,24,"","",4,,,0
+32,MAT 021C Calculus,MAT,021C,"","","",4,,,0
+33,MAT 016A Short Calculus,MAT,016A,"","","",3,,,0
+34,MAT 016C Short Calculus,MAT,016C,"","","",3,,,0

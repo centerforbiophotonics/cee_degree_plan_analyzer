@@ -1,0 +1,15 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 009A East Asian Civ,HIS,009A,"","","",4,,,3,0.19152941176470595,0.016117647058823563,85,202105,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""NP*"", ""P*""]"
+2,HIS 008 Indian Civilization,HIS,008,"",1,"",4,,,5,0.20882978723404258,0.24053191489361705,94,202110,200103,"[""A"", ""A-"", ""B"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""NP*"", ""P*"", ""Y""]"
+3,HIS 196A Medieval India,HIS,196A,"",2,"",4,,,7,0.12,0.09368421052631577,76,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C+"", ""D"", ""F"", ""I"", ""NP*"", ""P*""]"
+4,HIS 191F History People Rep China,HIS,191F,"",3,"",4,,,9,0.2272277227722772,0.0896039603960396,101,202101,200010,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""NP*"", ""P*""]"
+5,HIS 196B India,HIS,196B,"",4,"",4,,,8,0.21445783132530122,0.1513253012048193,83,202110,200010,"[""A"", ""A-"", ""B"", ""B-"", ""B+"", ""C+"", ""F"", ""P*""]"
+6,HIS 010C 19th-20th Century World,HIS,010C,"",5,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+7,HIS 102M U S Since 1896,HIS,102M,"",6,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.19019378086447197,0.1035991968397331

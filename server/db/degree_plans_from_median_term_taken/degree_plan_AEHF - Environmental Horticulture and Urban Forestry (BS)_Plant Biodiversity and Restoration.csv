@@ -1,0 +1,43 @@
+Curriculum,AEHF - Environmental Horticulture and Urban Forestry (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ENH 160 Restoration Ecology,ENH,160,5,"","",4,,,9
+2,ENH 160L Restoration Ecology Lab,ENH,160L,"",1,"",1,,,9
+3,ENH 150 Plant Conservation,ENH,150,31,"","",3,,,7
+4,PLS 130 Rangeland Ecology,PLS,130,11,"","",3,,,8
+5,PLS 144 Trees & Forests,PLS,144,13,"","",4,,,8
+6,PLS 147 CA Plant Communities,PLS,147,13,"","",3,,,9
+7,PLS 147L CA Plant Comm Field,PLS,147L,13,6,"",1,,,0
+8,ENH 001 Envir Hort/Urban Forest,ENH,001,"","","",3,,,4
+9,ENH 006 Intro Environ Plant,ENH,006,"","","",4,,,4
+10,LDA 030 History Environ Design,LDA,030,"","","",4,,,5
+11,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+12,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+13,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,4
+14,PLS 021 Computers in Technology,PLS,021,"","","",3,,,3
+15,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+16,CHE 002B General Chemistry,CHE,002B,15,"","",5,,,3
+17,ESP 010 Current Issues Environ,ESP,010,"","","",4,,,5
+18,PHY 001A Principles Physics,PHY,001A,"","","",3,,,5
+19,PHY 001B Principles Physics,PHY,001B,18,"","",3,,,8
+20,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+21,UWP 104E Writing in Science,UWP,104E,32,"","",4,,,9
+22,PLS 100A Plant Metabolic Process,PLS,100A,13,"","",3,,,7
+23,PLS 100AL Plant Metab Process Lab,PLS,100AL,"",22,"",2,,,0
+24,ENH 105 Taxon & Ecol Env Plants,ENH,105,9,"","",4,,,9
+25,PLS 150 Agroecosystem Management,PLS,150,33;15;13,"","",4,,,12
+26,PLS 171 Plant Propagation,PLS,171,13,"","",4,,,9
+27,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,10
+28,PLP 120 Intro Plant Path,PLP,120,34,"","",4,,,8
+29,PLS 105 Concepts in Pest Mgt,PLS,105,35;11,"","",3,,,10
+30,PLS 192 Internship,PLS,192,"","","",12,,,9
+31,BIS 001C Introductory Biology,BIS,001C,"","","",5,,,0
+32,UWP 001 Academic Literacies,UWP,001,"","","",4,,,6
+33,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,1
+34,BIS 002C Introduction to Biology,BIS,002C,11,"","",5,,,5
+35,CHE 008B Organic Chemistry-Brief,CHE,008B,36,"","",4,,,7
+36,CHE 008A Organic Chemistry-Brief,CHE,008A,16,"","",2,,,6

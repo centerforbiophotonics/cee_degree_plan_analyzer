@@ -1,0 +1,23 @@
+Curriculum,LECN - Economics (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0603
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECN 122 Game Theory,ECN,122,11,"","",4,,,9
+2,ECN 121A Industrial Organization,ECN,121A,12;13,"","",4,,,7
+3,ECN 121B Industrial Organization,ECN,121B,12;13,"","",4,,,8
+4,ECN 135 Money and Banking,ECN,135,14;9,"","",4,,,9
+5,ECN 134 Financial Economics,ECN,134,12;9;13,"","",4,,,9
+6,ECN 131 Public Finance,ECN,131,12;13,"","",4,,,9
+7,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,2
+8,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+9,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+10,MAT 016A Short Calculus,MAT,016A,"","","",3,,,1
+11,MAT 016B Short Calculus,MAT,016B,10,"","",3,,,3
+12,ECN 100A Intermed Micro Theory,ECN,100A,7;8;10;11,"","",4,,,5
+13,ECN 100B Intermed Micro Theory,ECN,100B,12,"","",4,,,7
+14,ECN 101 Intermed Macro Theory,ECN,101,8,"","",5,,,6
+15,ECN 102 Analysis of Econ Data,ECN,102,7;8;9;10;11,"","",4,,,7
+16,ECN 111B Econ History,ECN,111B,8,"","",4,,,7

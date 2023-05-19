@@ -1,0 +1,24 @@
+Curriculum,LAAA - African American and African Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,AAS 010 African-Am Culture & Soc,AAS,010,"","","",4,,,1
+2,AAS 050 Black Images,AAS,050,"","","",4,,,2
+3,PSC 001 General Psychology,PSC,001,"","","",4,,,2
+4,CHI 010 Intro Chicana/o Studies,CHI,010,"","","",4,,,5
+5,HIS 017A History Of The U S,HIS,017A,"","","",4,,,3
+6,HIS 017B History Of The U S,HIS,017B,"","","",4,,,5
+7,AAS 016 African Verbal Arts,AAS,016,"","","",4,,,7
+8,AAS 100 Ethnicity in the US,AAS,100,"","","",4,,,8
+9,AAS 181 Hip Hop in Urban America,AAS,181,"","","",4,,,9
+10,AAS 123 The Black Female,AAS,123,"","","",4,,,11
+11,AAS 190 Topics Afr Diaspora Std,AAS,190,"","","",4,,,7
+12,AAS 133 The Black Family,AAS,133,"","","",4,,,7
+13,AAS 165 Black Christian Church,AAS,165,1;17,"","",4,,,6
+14,AAS 182 Hip Hop Globalization,AAS,182,"","","",4,,,6
+15,AAS 145A Blk Soc & Pol Thought,AAS,145A,1,"","",4,,,9
+16,AAS 107A Africans in Latin Americ,AAS,107A,"","","",4,,,7
+17,AAS 015 Int Afr Amer Humanities,AAS,015,"","","",4,,,6

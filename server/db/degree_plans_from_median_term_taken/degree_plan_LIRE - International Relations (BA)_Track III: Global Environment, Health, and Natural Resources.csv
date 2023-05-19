@@ -1,0 +1,28 @@
+Curriculum,LIRE - International Relations (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECN 162 Intl Econ Relations,ECN,162,21;9,"","",4,,,7
+2,POL 123 Pol of Interdependence,POL,123,"","","",4,,,7
+3,ESP 161 Environmental Law,ESP,161,"","","",4,,,9
+4,ANT 131 Ecology & Politics,ANT,131,"","","",4,,,9
+5,ECN 115A Economic Development,ECN,115A,21;9,"","",4,,,9
+6,SOC 160 Environmental Sociology,SOC,160,"","","",4,,,10
+7,ATM 116 Modern Climate Change,ATM,116,"","","",3,,,7
+8,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+9,ECN 001B Princ Of Macroecon,ECN,001B,"","","",5,,,3
+10,HIS 010C 19th-20th Century World,HIS,010C,"","","",4,,,4
+11,POL 003 Internatl Relations,POL,003,"","","",4,,,3
+12,STA 013 Elementary Statistics,STA,013,"","","",4,,,3
+13,POL 002 Intro Comp Politics,POL,002,"","","",4,,,4
+14,POL 051 Scientific Study Politic,POL,051,"","","",4,,,4
+15,HIS 193B Middle East from 1914,HIS,193B,"","","",4,,,6
+16,SOC 118 Political Sociology,SOC,118,"","","",4,,,9
+17,ANT 123AN Resist Rebel & Pop Mvmnt,ANT,123AN,"","","",4,,,9
+18,POL 126 Ethnic Conflict,POL,126,"","","",4,,,7
+19,IRE 104 International Migration,IRE,104,"","","",4,,,9
+20,HMR 134 Human Rights,HMR,134,"","","",4,,,10
+21,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3

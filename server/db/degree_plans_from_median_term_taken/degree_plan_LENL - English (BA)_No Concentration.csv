@@ -1,0 +1,20 @@
+Curriculum,LENL - English (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,23.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ENL 003 Intro To Literature,ENL,003,"","","",4,,,1
+2,ENL 044 Intro Topics in Fiction,ENL,044,1,"","",4,,,3
+3,ENL 010A Lit in English I,ENL,010A,1,"","",4,,,2
+4,ENL 010B Lit in English II,ENL,010B,1,"","",4,,,3
+5,ENL 010C Lit in English III,ENL,010C,1,"","",4,,,4
+6,ENL 110B Intr Modern Lit & Theory,ENL,110B,1,"","",4,,,6
+7,ENL 117 Shakespeare,ENL,117,1,"","",4,,,8
+8,ENL 111 Topics in Medieval Lit,ENL,111,1,"","",4,,,8
+9,ENL 158A American Novel to 1900,ENL,158A,1,"","",4,,,7
+10,ENL 156 The Short Story,ENL,156,1,"","",4,,,7
+11,ENL 166 Love Contemp Amer Poetry,ENL,166,1,"","",4,,,6
+12,ENL 180 Children's Lit,ENL,180,1,"","",4,,,8
+13,ENL 149 Topics in Literature,ENL,149,1,"","",4,,,9

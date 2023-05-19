@@ -1,0 +1,44 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,STA 103 Applied Statistics,STA,103,29;23,"","",4,,,8
+2,ESP 171 Urban & Regl Planning,ESP,171,"","","",4,,,9
+3,ESP 172 Public Lands Mgmt,ESP,172,"","","",4,,,10
+4,ESP 168A Environ Policy Eval,ESP,168A,29;25;22,"","",5,,,10
+5,ESP 161 Environmental Law,ESP,161,"","","",4,,,10
+6,ESM 144 Trees & Forests,ESM,144,16,"","",4,,,7
+7,ESP 151 Limnology,ESP,151,14;15,"","",4,,,9
+8,ESP 151L Limnology Laboratory,ESP,151L,"",7,"",3,,,12
+9,ESM 121 Water Science&Management,ESM,121,17,"","",3,,,9
+10,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,7
+11,ESM 186 Environ Remote Sensing,ESM,186,23;34,"","",5,,,11
+12,UWP 101 Advanced Composition,UWP,101,37,"","",4,,,9
+13,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+14,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+15,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+16,BIS 002C Introduction to Biology,BIS,002C,15,"","",5,,,6
+17,GEL 001 The Earth,GEL,001,"","","",4,,,3
+18,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+19,CHE 002B General Chemistry,CHE,002B,18,"","",5,,,3
+20,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+21,PHY 001B Principles Physics,PHY,001B,20,"","",3,,,8
+22,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+23,MAT 016B Short Calculus,MAT,016B,24,"","",3,,,3
+24,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+25,ESP 001 Environmental Analysis,ESP,001,"",37,"",4,,,4
+26,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+27,ESP 100 General Ecology,ESP,100,14;15;16;24;23,"","",4,,,7
+28,ESP 162 Environmental Policy,ESP,162,22,"","",4,,,8
+29,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+30,ESP 179 Env Impact Assessment,ESP,179,25,"","",4,,,9
+31,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+32,ESP 192 Internship,ESP,192,"","","",12,,,9
+33,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+34,PHY 007C General Physics,PHY,007C,35,"","",4,,,8
+35,PHY 007B General Physics,PHY,007B,36,"","",4,,,6
+36,PHY 007A General Physics,PHY,007A,"",23,"",4,,,5
+37,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

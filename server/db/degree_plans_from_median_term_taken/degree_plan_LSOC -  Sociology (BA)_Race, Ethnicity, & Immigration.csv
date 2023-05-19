@@ -1,0 +1,25 @@
+Curriculum,LSOC -  Sociology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOC 001 Intro Sociology,SOC,001,"","","",5,,,3
+2,SOC 004 Immigration,SOC,004,"","","",4,,,2
+3,SOC 005 Global Social Change,SOC,005,"","","",4,,,2
+4,SOC 007 Race & Ethnicity,SOC,007,"","","",4,,,12
+5,SOC 046A Intro Social Rsch,SOC,046A,"","","",4,,,5
+6,SOC 056 Intro to Social Stats,SOC,056,"","","",5,,,0
+7,CHI 010 Intro Chicana/o Studies,CHI,010,"","","",4,,,4
+8,SOC 100 Sociological Theory,SOC,100,"","","",4,,,9
+9,SOC 130 Race Relations,SOC,130,"","","",4,,,9
+10,SOC 131 The Family,SOC,131,"","","",4,,,8
+11,SOC 132 Gender,SOC,132,"","","",4,,,9
+12,SOC 151 The Criminal Justice Sys,SOC,151,"","","",4,,,8
+13,SOC 140 Social Stratification,SOC,140,"","","",4,,,10
+14,SOC 125 Sociology of Culture,SOC,125,"","","",4,,,9
+15,SOC 104 International Migration,SOC,104,"","","",4,,,9
+16,CHI 110 The Chicano Experience,CHI,110,1,"","",4,,,8
+17,CHI 130 Us Mex Bord Rel,CHI,130,"","","",4,,,7
+18,CHI 182 Race & Juvenile Justice,CHI,182,7,"","",4,,,9

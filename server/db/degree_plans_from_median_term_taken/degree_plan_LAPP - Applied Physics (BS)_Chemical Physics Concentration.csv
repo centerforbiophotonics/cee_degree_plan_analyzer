@@ -1,0 +1,35 @@
+Curriculum,LAPP - Applied Physics (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,2
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,3
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,1,6,"",3,,,4
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,5
+8,PHY 040 Intr Physics Computation,PHY,040,"","","",4,,,6
+9,CHE 002A General Chemistry,CHE,002A,"","","",5,,,3
+10,CHE 002B General Chemistry,CHE,002B,9,"","",5,,,3
+11,CHE 002C General Chemistry,CHE,002C,10,"","",5,,,4
+12,PHY 102 Computationl Lab Phyiscs,PHY,102,3;5;7;25;8,13,"",1,,,7
+13,PHY 104A Intro Math Phys,PHY,104A,27;3;5;7,"","",4,,,7
+14,PHY 105A Analytical Mechanic,PHY,105A,27;3;5;7,"","",4,,,7
+15,PHY 110A Electricity & Magnetism,PHY,110A,27;3;5;7;13;14,"","",4,,,8
+16,PHY 110B Electricty & Magnetsm,PHY,110B,15;13,"","",4,,,9
+17,PHY 112 Thermo & Stat Physics,PHY,112,18,"","",4,,,10
+18,PHY 115A Quantum Mechanics,PHY,115A,13;14,"","",4,,,9
+19,PHY 116A Electronics,PHY,116A,26;7,"","",4,,,7
+20,PHY 116B Electronics,PHY,116B,26,"","",4,,,8
+21,PHY 116C Computers in Phys Expts,PHY,116C,25;20;7,"","",4,,,9
+22,PHY 115B Quantum Mechanics,PHY,115B,18,"","",4,,,10
+23,PHY 140A Solid State Physics,PHY,140A,18,"","",4,,,11
+24,CHE 124A Inorg Fundamentals,CHE,124A,11,"","",3,,,11
+25,PHY 009D Modern Physics,PHY,009D,26;5,"","",4,,,6
+26,PHY 009C Classical Physics,PHY,009C,27;3;5,"","",5,,,5
+27,PHY 009B Classical Physics,PHY,009B,28;1,3,"",5,,,4
+28,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3

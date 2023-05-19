@@ -1,0 +1,22 @@
+Curriculum,APLA - Pre-Landscape Architecture (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,04.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,UWP 001 Academic Literacies,UWP,001,"","","",4,,,0
+2,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,0
+3,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,0
+4,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,0
+5,ENH 006 Intro Environ Plant,ENH,006,"","","",4,,,0
+6,MAT 016A Short Calculus,MAT,016A,"","","",3,,,0
+7,GEL 001 The Earth,GEL,001,"","","",4,,,0
+8,LDA 001 Intro Environ Design,LDA,001,"","","",4,,,0
+9,"LDA 002 Place, Culture, Comm",LDA,002,"","","",4,,,0
+10,LDA 003 Sustainable Development,LDA,003,"","","",4,,,0
+11,LDA 021 Land Rep I,LDA,021,"",8,"",5,,,0
+12,LDA 030 History Environ Design,LDA,030,"","","",4,,,0
+13,LDA 050 Site Ecology,LDA,050,3,"","",4,,,0
+14,LDA 060 Landform Grading Studio,LDA,060,15,"","",6,,,0
+15,LDA 070 Intro to Spacemaking,LDA,070,11,"","",5,,,0

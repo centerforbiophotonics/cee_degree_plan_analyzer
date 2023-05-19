@@ -1,0 +1,22 @@
+Curriculum,LITA - Italian (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0902
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ITA 003 Elementary Italian,ITA,003,10,"","",5,,,3
+2,"ITA 101 Adv Conv, Comp & Gram",ITA,101,12,"","",4,,,6
+3,ITA 105 Intro to Italian Lit,ITA,105,12,"","",4,,,8
+4,ITA 145S Special Topics in Lit,ITA,145S,12,"","",4,,,7
+5,ITA 104 Italian Translation & Style,ITA,104,12,"","",4,,,10
+6,ITA 121S New Italian Cinema,ITA,121S,15,"","",4,,,7
+7,ITA 145 Special Topics,ITA,145,12,"","",4,,,10
+8,ITA 108S Comtemp Cult/Soc,ITA,108S,"","","",4,,,7
+9,ITA 108 Contemp Italian Culture,ITA,108,"","","",4,,,9
+10,ITA 002 Elementary Italian,ITA,002,11,"","",5,,,2
+11,ITA 001 Elementary Italian,ITA,001,"","","",5,,,1
+12,ITA 009 Reading Italian,ITA,009,13,"","",4,,,6
+13,ITA 005 Interm Italian,ITA,005,14,"","",4,,,5
+14,ITA 004 Intermediate Italian,ITA,004,1,"","",4,,,4
+15,FMS 001 Intro to Film Studies,FMS,001,"","","",4,,,5

@@ -1,0 +1,49 @@
+Curriculum,AESM - Environmental Science and Management (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,03.0104
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ATM 133 Biometeorology,ATM,133,23,"","",4,,,8
+2,ESM 121 Water Science&Management,ESM,121,17,"","",3,,,9
+3,SSC 100 Principles Soil Sci,SSC,100,"","","",5,,,7
+4,ESM 108 Environmental Monitoring,ESM,108,34;27;35;38;39;3;40;41,"","",3,,,12
+5,GEL 035 Rivers,GEL,035,"","","",3,,,10
+6,ABT 181N Concepts/Methods in GIS,ABT,181N,31,"","",4,,,11
+7,ESP 172 Public Lands Mgmt,ESP,172,"","","",4,,,10
+8,ESP 168A Environ Policy Eval,ESP,168A,29;25;22,"","",5,,,10
+9,SSC 118 Soils-Land Use,SSC,118,"","","",4,,,9
+10,WFC 120 Biol Cons Fishes,WFC,120,14;15;16,"","",3,,,10
+11,WFC 120L Lab Biol Cons Fishes,WFC,120L,"",10,"",2,,,10
+12,UWP 101 Advanced Composition,UWP,101,42,"","",4,,,9
+13,DRA 010 Intro To Acting,DRA,010,"","","",4,,,5
+14,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+15,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+16,BIS 002C Introduction to Biology,BIS,002C,15,"","",5,,,6
+17,GEL 001 The Earth,GEL,001,"","","",4,,,3
+18,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+19,CHE 002B General Chemistry,CHE,002B,18,"","",5,,,3
+20,PHY 001A Principles Physics,PHY,001A,"","","",3,,,6
+21,PHY 001B Principles Physics,PHY,001B,20,"","",3,,,8
+22,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+23,MAT 016B Short Calculus,MAT,016B,24,"","",3,,,3
+24,MAT 016A Short Calculus,MAT,016A,"","","",3,,,2
+25,ESP 001 Environmental Analysis,ESP,001,"",42,"",4,,,4
+26,ESM 120 Global Environment,ESM,120,"","","",4,,,8
+27,ESP 100 General Ecology,ESP,100,14;15;16;24;23,"","",4,,,7
+28,ESP 162 Environmental Policy,ESP,162,22,"","",4,,,8
+29,STA 013 Elementary Statistics,STA,013,"","","",4,,,5
+30,ESP 179 Env Impact Assessment,ESP,179,25,"","",4,,,9
+31,ABT 150 Intro to GIS,ABT,150,"","","",4,,,9
+32,ESP 192 Internship,ESP,192,"","","",12,,,9
+33,ESM 195 Environmental Issues,ESM,195,"","","",2,,,12
+34,EVE 101 Introduction to Ecology,EVE,101,14;15;16;24;23,"","",4,,,7
+35,ETX 101 Principles Environ Tox,ETX,101,36;14,"","",4,,,7
+36,CHE 008B Organic Chemistry-Brief,CHE,008B,37,"","",4,,,5
+37,CHE 008A Organic Chemistry-Brief,CHE,008A,19,"","",2,,,4
+38,WFC 100 Field Methods in WFCB,WFC,100,14;15;16,27,"",4,,,12
+39,ERS 100 Hydrologic Principles,ERS,100,"","","",4,,,0
+40,ENH 100 Urban Forestry,ENH,100,15,"","",4,,,0
+41,LDA 050 Site Ecology,LDA,050,15,"","",4,,,0
+42,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4

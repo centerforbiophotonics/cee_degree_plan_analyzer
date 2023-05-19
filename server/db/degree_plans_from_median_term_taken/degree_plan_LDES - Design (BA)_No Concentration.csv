@@ -1,0 +1,25 @@
+Curriculum,LDES - Design (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,50.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DES 001 Introduction to Design,DES,001,"","","",4,,,1
+2,DES 014 Design Drawing,DES,014,"",1,"",4,,,4
+3,DES 015 Form & Color,DES,015,"",1,"",4,,,4
+4,DES 016 Graphics & The Computer,DES,016,"",1,"",4,,,4
+5,UWP 011 Pop Sci & Technol Wrtng,UWP,011,"","","",4,,,8
+6,DES 040C Design Aesthetics/Exper,DES,040C,"","","",4,,,5
+7,DES 040B Ideologies of Design,DES,040B,"","","",4,,,6
+8,"DES 040A Energy,Materials,Design",DES,040A,"","","",4,,,5
+9,DES 145 History Visual Comm,DES,145,1,"","",4,,,7
+10,DES 127A Sustainable Design,DES,127A,1,"","",4,,,8
+11,DES 143 History of Fashion,DES,143,"","","",4,,,8
+12,DES 115 Letterforms & Type,DES,115,1;2;3;4,"","",4,,,7
+13,DES 117 Interactive Media I,DES,117,1;2;3;4,"","",4,,,7
+14,DES 151 Type in Motion,DES,151,1;2;3;4,"","",4,,,8
+15,DES 116 VisCom: Graphic Design,DES,116,1;2;3;4;12,"","",4,,,10
+16,DES 112 UI/UX Design,DES,112,1;2;3;4,"","",4,,,10
+17,DES 149 Information Design,DES,149,"","","",4,,,9
+18,DES 144 History of Interior Arch,DES,144,"","","",4,,,9

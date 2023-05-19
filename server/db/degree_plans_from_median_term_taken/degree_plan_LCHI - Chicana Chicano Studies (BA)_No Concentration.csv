@@ -1,0 +1,18 @@
+Curriculum,LCHI - Chicana Chicano Studies (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,05.0203
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHI 010 Intro Chicana/o Studies,CHI,010,"","","",4,,,4
+2,CHI 050 Intro To Chicano Culture,CHI,050,"","","",4,,,3
+3,CHI 021 Health Issues,CHI,021,1,"","",4,,,7
+4,CHI 040 Comparative Health,CHI,040,11,"","",4,,,8
+5,CHI 110 The Chicano Experience,CHI,110,1,"","",4,,,9
+6,CHI 130 Us Mex Bord Rel,CHI,130,"","","",4,,,7
+7,CHI 182 Race & Juvenile Justice,CHI,182,1,"","",4,,,8
+8,CHI 198 Directed Gp Study,CHI,198,"","","",5,,,9
+9,AAS 107A Africans in Latin Americ,AAS,107A,"","","",4,,,9
+10,AAS 100 Ethnicity in the US,AAS,100,"","","",4,,,6
+11,STA 013 Elementary Statistics,STA,013,"","","",4,,,4

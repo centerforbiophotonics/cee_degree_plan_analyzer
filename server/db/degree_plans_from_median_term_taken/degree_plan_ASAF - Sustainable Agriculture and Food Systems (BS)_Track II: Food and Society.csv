@@ -1,0 +1,40 @@
+Curriculum,ASAF - Sustainable Agriculture and Food Systems (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,01.0308
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHI 005 Critical Reasoning,PHI,005,"","","",4,,,6
+2,PHI 014 Eth & Soc Probs Cont Soc,PHI,014,"","","",4,,,6
+3,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+4,CRD 151 Community Field Research,CRD,151,14;3,"","",5,,,10
+5,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+6,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,4
+7,PLS 002 Bot Physiol Cultiv Plant,PLS,002,"","","",4,,,5
+8,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,5
+9,FST 001 Principles Food Science,FST,001,"","","",3,,,6
+10,SSC 010 Soils in Our Environment,SSC,010,"","","",4,,,4
+11,ECN 001A Princ Of Microecon,ECN,001A,"","","",5,,,3
+12,POL 004 Bas Cnpt/Pol Thry,POL,004,"","","",4,,,5
+13,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+14,CRD 001 The Community,CRD,001,"","","",4,,,4
+15,CRD 002 Ethnicity & Amer Comm,CRD,002,"","","",4,,,3
+16,ARE 112 Organization Management,ARE,112,"","","",4,,,8
+17,ESP 161 Environmental Law,ESP,161,"","","",4,,,9
+18,CRD 142 Rural Change Indust Wrld,CRD,142,14,"","",4,,,8
+19,CRD 152 Community Development,CRD,152,14,"","",4,,,9
+20,"ANT 101 Ecology, Nature, Society",ANT,101,"","","",4,,,8
+21,HIS 172 Am Environmental History,HIS,172,"","","",4,,,4
+22,CMN 001 Intro Public Speaking,CMN,001,"","","",4,,,7
+23,PLS 015 Intro Sustainable Agric,PLS,015,"","","",4,,,6
+24,CRD 020 Food Systems,CRD,020,"","","",4,,,7
+25,PLS 150 Agroecosystem Management,PLS,150,10;5;7,"","",4,,,9
+26,ARE 121 Econ of Ag Sustain,ARE,121,11,"","",4,,,8
+27,PLS 190 Seminar on Altern Agric,PLS,190,"","","",2,,,8
+28,ESP 191A Sustainability Workshop,ESP,191A,23;24;26;25,"","",3,,,11
+29,ESP 191B Sustainability Workshop,ESP,191B,28,"","",3,,,12
+30,SAF 192 Internship,SAF,192,"","","",12,,,8
+31,PLS 049 Organic Crop Prod Pract,PLS,049,"","","",3,,,9
+32,ANS 049C Animal Prac/Dairy,ANS,049C,"","","",2,,,5
+33,ABT 049 Field Eqpt Operation,ABT,049,"","","",2,,,12

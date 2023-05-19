@@ -1,0 +1,47 @@
+Curriculum,EMEC - Mechanical Engineering (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,14.1901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,2,"","",4,,,3
+2,MAT 021B Calculus,MAT,021B,4,"","",4,,,2
+3,MAT 021D Vector Analysis,MAT,021D,1,"","",4,,,4
+4,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+5,MAT 022A Linear Algebra,MAT,022A,17;1,"","",3,,,5
+6,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,4
+7,MAT 022B Differential Equations,MAT,022B,5,"","",3,,,6
+8,PHY 009A Classical Physics,PHY,009A,2,"","",5,,,3
+9,PHY 009B Classical Physics,PHY,009B,8;1,3,"",5,,,4
+10,PHY 009C Classical Physics,PHY,009C,9;3;5,"","",5,,,5
+11,CHE 002A General Chemistry,CHE,002A,"","","",5,,,2
+12,CHE 002B General Chemistry,CHE,002B,11,"","",5,,,3
+13,ENG 004 Engr Graphics in Design,ENG,004,"","","",3,,,1
+14,ENG 017 Circuits I,ENG,017,1,"","",4,,,6
+15,ENG 035 Statics,ENG,035,8,3,"",4,,,5
+16,EME 050 Manufacturing Processes,EME,050,13;8,"","",4,,,5
+17,ENG 006 Engineering Prob Solving,ENG,006,4,2,"",4,,,3
+18,ENG 045 Properties of Materials,ENG,045,1;11;8,"","",4,,,6
+19,ENG 003 Intro to Engr Design,ENG,003,"","","",4,,,6
+20,UWP 001 Academic Literacies,UWP,001,"","","",4,,,4
+21,ENG 100 Elec Circuits & Systems,ENG,100,14,"","",3,,,8
+22,ENG 102 Dynamics,ENG,102,15;7,"","",4,,,7
+23,ENG 103 Fluid Mechanics,ENG,103,15;7;9,"","",4,,,7
+24,ENG 104 Mech of Materials,ENG,104,15;7,"","",4,,,7
+25,ENG 104L Mech Of Material Lab,ENG,104L,24,"","",1,,,0
+26,ENG 105 Thermodynamics,ENG,105,7;9,"","",4,,,7
+27,ENG 190 Prof Resp Of Engr,ENG,190,"","","",3,,,9
+28,EME 106 Thermo-Fluid Dynamics,EME,106,23;26,"","",4,,,9
+29,EME 108 Measurement Systems,EME,108,21;22,"","",4,,,10
+30,EME 109 Experimental Methods,EME,109,28,"","",4,,,10
+31,EME 150A Mechanical Design,EME,150A,18;24,16,"",4,,,9
+32,EME 165 Heat Transfer,EME,165,17;23;26,"","",4,,,9
+33,EME 172 Auto Control of Engr Sys,EME,172,21;22,"","",4,,,9
+34,EME 185A Mech Syst Design Project,EME,185A,31,32,"",4,,,11
+35,EME 185B Mech Syst Design Project,EME,185B,34,"","",4,,,12
+36,EME 115 Intro to Num Analysis,EME,115,17;4;2;1;3;5;7;8;9;10,"","",4,,,10
+37,EME 150B Mechanical Design,EME,150B,31,"","",4,,,11
+38,EME 171 Mechatronic Systems,EME,171,21;22,"","",4,,,10
+39,EAE 129 Stab & Cont Aerosp Veh,EAE,129,22,"","",4,,,8
+40,UWP 102E Writing in Engineering,UWP,102E,20,"","",4,,,8

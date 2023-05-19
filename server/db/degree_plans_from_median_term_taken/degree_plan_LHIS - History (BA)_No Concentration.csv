@@ -1,0 +1,9 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HIS 010C 19th-20th Century World,HIS,010C,"","","",4,,,2
+2,HIS 102M U S Since 1896,HIS,102M,"",1,"",5,,,9

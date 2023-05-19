@@ -1,0 +1,19 @@
+Curriculum,LCHN - Chinese (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,16.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHN 006 Intermed Chinese,CHN,006,12,"","",5,,,6
+2,CHN 106 Chn Poetry (Engl),CHN,106,"","","",4,,,6
+3,CHN 107 Trad Fiction (Engl),CHN,107,"","","",4,,,7
+4,CHN 114 Intro Classical Chinese,CHN,114,8,"","",4,,,8
+5,CHN 160 Chinese Language,CHN,160,"",1,"",4,,,7
+6,CHN 104 Mod Chinese Fict (Engl),CHN,104,"","","",4,,,7
+7,CHN 113 Mod Chinese/Rdng & Disc,CHN,113,8,"","",4,,,9
+8,CHN 112 Mod Chinese/Rdg & Dis,CHN,112,9,"","",4,,,8
+9,CHN 111 Mod Chn/Rdg & Dis,CHN,111,1,"","",4,,,7
+10,CHN 120 Advanced Chinese,CHN,120,7,"","",4,,,4
+11,CHN 103 Modern Chinese Drama,CHN,103,"","","",4,,,8
+12,CHN 005 Intermediate Chinese,CHN,005,"","","",5,,,5

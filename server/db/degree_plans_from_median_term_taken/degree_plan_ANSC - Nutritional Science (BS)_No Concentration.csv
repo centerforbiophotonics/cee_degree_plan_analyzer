@@ -1,0 +1,30 @@
+Curriculum,ANSC - Nutritional Science (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,30.1901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BIS 002A Introduction to Biology,BIS,002A,"","","",5,,,3
+2,BIS 002B Introduction to Biology,BIS,002B,"","","",5,,,4
+3,BIS 002C Introduction to Biology,BIS,002C,2,"","",5,,,6
+4,CHE 002A General Chemistry,CHE,002A,"","","",5,,,1
+5,CHE 002B General Chemistry,CHE,002B,4,"","",5,,,2
+6,CHE 002C General Chemistry,CHE,002C,5,"","",5,,,3
+7,CHE 008A Organic Chemistry-Brief,CHE,008A,5,"","",2,,,4
+8,CHE 008B Organic Chemistry-Brief,CHE,008B,7,"","",4,,,5
+9,NUT 010 Discov & Concepts,NUT,010,"","","",3,,,2
+10,STA 013 Elementary Statistics,STA,013,"","","",4,,,4
+11,PSC 041 Research Meth in Psych,PSC,041,22,"","",4,,,6
+12,BIS 101 Genes & Gene Expression,BIS,101,1;2;7;10,"","",4,,,9
+13,FST 100A Food Chemistry,FST,100A,8,"","",4,,,7
+14,FST 100B Food Properties,FST,100B,13;8,"","",4,,,8
+15,MIC 102 Intro Microbiology,MIC,102,1,5,"",4,,,6
+16,NPB 101 Systemic Physiology,NPB,101,1;5,"","",5,,,6
+17,NPB 101L Systemic Physiology Lab,NPB,101L,16,"","",3,,,10
+18,NUT 111B Rec for Human Nutrition,NUT,111B,8,"","",2,,,9
+19,NUT 112 Nutritional Assessment,NUT,112,23;10,"","",4,,,9
+20,NUT 116A Clinical Nutrition,NUT,116A,18;19;16,"","",3,,,10
+21,NUT 116AL Nutrition Practicum,NUT,116AL,"",20,"",3,,,0
+22,PSC 001 General Psychology,PSC,001,"","","",4,,,3
+23,BIS 102 Struc & Func Biomolecule,BIS,102,1;8,"","",3,,,7

@@ -1,0 +1,23 @@
+Curriculum,LPOL - Political Science (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POL 003 Internatl Relations,POL,003,"","","",4,,,3
+2,POL 002 Intro Comp Politics,POL,002,"",1,"",4,,,3
+3,POL 001 Amer Natl Govt,POL,001,"",2,"",4,,,3
+4,POL 004 Bas Cnpt/Pol Thry,POL,004,"",3,"",4,,,4
+5,POL 051 Scientific Study Politic,POL,051,"",4,"",4,,,4
+6,STA 013 Elementary Statistics,STA,013,"",5,"",4,,,4
+7,POL 104 CA State Govt & Politics,POL,104,"",6,"",4,,,7
+8,POL 150 Judicial Politics,POL,150,"",7,"",4,,,8
+9,POL 105 Legislative Process,POL,105,"",8,"",4,,,8
+10,POL 165 Mass Media & Politics,POL,165,"",9,"",4,,,8
+11,POL 122 International Law,POL,122,"",10,"",4,,,8
+12,POL 123 Pol of Interdependence,POL,123,"",11,"",4,,,8
+13,POL 132 National Security Policy,POL,132,"",12,"",4,,,9
+14,POL 126 Ethnic Conflict,POL,126,"",13,"",4,,,7
+15,POL 147B British Politics,POL,147B,"",14,"",4,,,9
+16,POL 151 Constitutional Politics,POL,151,"",15,"",4,,,7

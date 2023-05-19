@@ -1,0 +1,26 @@
+Curriculum,LSOC -  Sociology (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOC 001 Intro Sociology,SOC,001,"","","",5,,,3
+2,SOC 003 Social Problems,SOC,003,"","","",4,,,4
+3,SOC 046A Intro Social Rsch,SOC,046A,"","","",4,,,5
+4,SOC 056 Intro to Social Stats,SOC,056,"","","",5,,,0
+5,ANT 002 Cultural Anthropology,ANT,002,"","","",5,,,3
+6,HIS 017B History Of The U S,HIS,017B,"","","",4,,,4
+7,PHI 005 Critical Reasoning,PHI,005,"","","",4,,,5
+8,SOC 100 Sociological Theory,SOC,100,"","","",4,,,9
+9,SOC 155 Sociology of Law,SOC,155,"","","",4,,,9
+10,SOC 125 Sociology of Culture,SOC,125,"","","",4,,,9
+11,SOC 132 Gender,SOC,132,"","","",4,,,9
+12,SOC 131 The Family,SOC,131,"","","",4,,,8
+13,SOC 151 The Criminal Justice Sys,SOC,151,"","","",4,,,8
+14,SOC 150 Criminology,SOC,150,"","","",4,,,9
+15,SOC 120 Deviance,SOC,120,"","","",4,,,9
+16,SOC 118 Political Sociology,SOC,118,"","","",4,,,9
+17,UWP 104B Legal Writing,UWP,104B,19,"","",4,,,9
+18,SOC 140 Social Stratification,SOC,140,"","","",4,,,10
+19,UWP 001 Academic Literacies,UWP,001,"","","",4,,,3

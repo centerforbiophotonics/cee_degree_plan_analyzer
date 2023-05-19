@@ -1,0 +1,14 @@
+Curriculum,LHIS - History (BA)
+Institution,UC Davis
+Degree Type,BA
+System Type,quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term,Average Cumulative GPAO Penalty,Average Singular GPAO Penalty,Total Students,Most Recent Term,Earliest Term Offered,Grades
+1,HIS 006 Intro to Middle East,HIS,006,"","","",4,,,4,0.01873015873015878,0.006031746031746041,63,202201,200403,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D-"", ""F"", ""NP*"", ""P*""]"
+2,HIS 193B Middle East from 1914,HIS,193B,"",1,"",4,,,9,0.285625,0.20925000000000002,80,202103,200701,"[""A"", ""A-"", ""A+"", ""F"", ""I"", ""NP*"", ""P*""]"
+3,HIS 190D Safavid Iran,HIS,190D,"",2,"",4,,,7,0.06857142857142862,-0.009795918367346916,49,201910,201003,"[""A"", ""A-"", ""B"", ""B-"", ""B+"", ""D"", ""D-"", ""F"", ""P*""]"
+4,HIS 190C Middle East 1401-1730,HIS,190C,"",3,"",4,,,8,0.16540229885057475,0.06160919540229887,87,202110,200501,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""F"", ""I"", ""NP*"", ""P*""]"
+5,HIS 010C 19th-20th Century World,HIS,010C,"",4,"",4,,,2,0.246584440227704,0.2557495256166983,527,202201,200103,"[""A"", ""A-"", ""A+"", ""B"", ""B-"", ""B+"", ""C"", ""C-"", ""C+"", ""D"", ""D+"", ""F"", ""I"", ""NP*"", ""P*"", ""RW""]"
+6,HIS 102M U S Since 1896,HIS,102M,"",5,"",5,,,9,0.12272727272727274,-0.12181818181818181,11,202201,200010,"[""A"", ""A-"", ""A+"", ""F"", ""I""]"
+Overall Average,"","","","","","","","","","",0.15127343318452313,0.0668377278108691

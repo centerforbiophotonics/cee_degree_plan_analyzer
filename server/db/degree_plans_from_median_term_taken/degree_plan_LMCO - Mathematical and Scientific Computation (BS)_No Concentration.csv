@@ -1,0 +1,29 @@
+Curriculum,LMCO - Mathematical and Scientific Computation (BS)
+Institution,UC Davis
+Degree Type,BS
+System Type,quarter
+CIP,27.0303
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MAT 021C Calculus,MAT,021C,19,"","",4,,,2
+2,MAT 022A Linear Algebra,MAT,022A,1,3,"",3,,,3
+3,MAT 022AL Linear Algebra Comp Lab,MAT,022AL,1,"","",1,,,3
+4,MAT 108 Intro Abstract Math,MAT,108,19,"","",4,,,4
+5,ECS 032A Intro to Programming,ECS,032A,"","","",4,,,4
+6,ENG 006 Engineering Prob Solving,ENG,006,20,19,"",4,,,3
+7,MAT 127A Real Analysis,MAT,127A,2;4;1,"","",4,,,5
+8,MAT 127B Real Analysis,MAT,127B,7,"","",4,,,6
+9,MAT 127C Real Analysis,MAT,127C,8,"","",4,,,9
+10,MAT 128A Numerical Analysis,MAT,128A,1;6,"","",4,,,7
+11,MAT 128B Numerical Analysis,MAT,128B,2;6,"","",4,,,8
+12,MAT 128C Numerical Analysis,MAT,128C,21;2;6,"","",4,,,9
+13,MAT 135A Probability,MAT,135A,1;4,"","",4,,,7
+14,MAT 150A Modern Algebra,MAT,150A,22;4;2,"","",4,,,8
+15,MAT 168 Optimization,MAT,168,1;2;4,"","",4,,,8
+16,MAT 145 Combinatorics,MAT,145,1,"","",4,,,6
+17,MAT 124 Mathematical Biology,MAT,124,2;21,"","",4,,,9
+18,MAT 189 Advanced Problem Solving,MAT,189,7;2,"","",3,,,12
+19,MAT 021B Calculus,MAT,021B,20,"","",4,,,2
+20,MAT 021A Calculus,MAT,021A,"","","",4,,,1
+21,MAT 022B Differential Equations,MAT,022B,2,"","",3,,,5
+22,MAT 067 Modern Linear Algebra,MAT,067,1,"","",4,,,4
