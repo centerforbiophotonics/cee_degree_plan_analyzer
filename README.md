@@ -119,7 +119,7 @@ To modify this calculation function, edit the module's function `calculate_ratin
 ## Data Types
 Typescript allows us to implement object-oriented concepts, which will be leveraged using types. These types can be modified in `~/client/src/types`. 
 
-####`DegreePlan`
+### `DegreePlan`
 ```typescript
 export interface DegreePlan {
   id: number,
@@ -128,7 +128,7 @@ export interface DegreePlan {
   overall_avg_s_gpao_pen: string
 };
 ```
-####`Course`
+### `Course`
 ```typescript
 
 export interface Course {
