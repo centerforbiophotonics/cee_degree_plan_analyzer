@@ -16,9 +16,10 @@ This project is built using React, Express, Node, SQL (and Typescript). The tool
 ---
 ## [Getting Started](#getting-started)
 ### SQL Database
-The database needs to be initialized if not already. If it needs to be initialized, load the input folder `degree_plans_with_grade_penalty` with the Degree Plan CSV files. To run, go in `~/DegreePlanExplorer/server/db` and run the Python DB initialization script `degree_penalties_to_sql_db.py`.
+The database needs to be initialized if not already. If it needs to be initialized, load the input folder `degree_plans_with_grade_penalty` with the Degree Plan CSV files. To run, go in `~/DegreePlanExplorer/server/db` and run the Python DB initialization script `degree_penalties_to_sql_db.py`. To learn more about how the process in which the grade penalty files were created, jump to [Data Generation](#data-generation)
 
-The generated SQL database `DegreePlanPenalties.db` is where the server will fetch data from. Here are the tables:
+When `server.ts` is run, it connects to this generated SQL database `DegreePlanPenalties.db`.
+Here are the tables:
 
 | Name: course | -- |
 | ----------- | ----------- |
@@ -55,11 +56,12 @@ The `course` table describe a single course per entry. The `degree_course_associ
 
 ---
 ### Backend/Server
+With access to the database, the server uses *express.js* to provide an api so that the client to request resources for degree plans and such.
 `/api/degree_plans`
-- fetches all records from the `degree_plan` table
+- fetches all records from the `degree_plan` table. Returns an array of elements of type [`Degree Plan`](#degree-plan).
 
 `/api/degree_plan_info`
-- given a degree plan `id` from request query string params, collect all courses whose ids are linked to the degree plan `id` through the `degree_course_association` table 
+- given 1 degree plan `id` from request query string params, collect all courses whose ids are linked to the degree plan `id` through the `degree_course_association` table. In other words, it fetches all courses related to this degree plan. Returns an array of elements of type [`Course`](#course).
 ---
 ### Frontend/Client
 The main file structure for the frontend is highlighted here:
@@ -86,25 +88,88 @@ Jump to the [Documentation](#Documentation) section for more details.
 ### Actually getting started for real this time
 In the client directory
 ```
+npm install
 npm start
 ```
 In the server directory
 ```
+npm install
 npm start
 ```
+---
+## [Data Generation](#data-generation)
+The KYS project should provide the means to create GPA Other calculations, stored in the `GpaOther` table (i.e. these ruby scripts do not work here in this project, they are supposed to be run in KYS). 
 
+The `DegreePlanGradePenaltyCalc` module in `degree_plan_grade_penalty_calc.rb` reads in a folder of degree plans `degree_plans_from_median_term_taken` (generated CSV files that I got from our org's Box), and computes the GPA Other Penalty. It then spits out the same CSV files annotated with this GPA Other Penalty in the `degree_plans_with_grade_penalty`.
+
+The module `CourseGradePenalty` module in `course_grade_penalty.rb` is what provides the calculation function to compute these metrics. Currently the calculation function is a simple point difference between the observed course's grade and the GPA Other (cumulative or singular), which is why there are two values: GPA Other Penalty singular and GPA Other Penalty cumulative. 
+
+To modify this calculation function, edit the module's function `calculate_ratings`.
+```ruby
+# some code
+# consider putting weights?
+...
+(gpao.course_grade - gpao.gpao_cumulative)
+...
+(gpao.course_grade - gpao.gpao_singular)
+...
+##
+```
+---
+## Data Types
+Typescript allows us to implement object-oriented concepts, which will be leveraged using types. These types can be modified in `~/client/src/types`. 
+
+#####[`DegreePlan`](#degree-plan)
+```typescript
+export interface DegreePlan {
+  id: number,
+  name: string,
+  overall_avg_c_gpao_pen: string,
+  overall_avg_s_gpao_pen: string
+};
+```
+#####[`Course`](#course)
+```typescript
+
+export interface Course {
+  // index signature for accessing props via variable
+  [key: string]: string | number;
+
+  id: number,
+  course_name: string,
+  prefix: string,
+  number: string,
+  prerequisites: string,
+  corequisites: string,
+  strict_corequisites: string,
+  credit_hours: string,
+  institution: string,
+  canonical_name: string,
+  term: string,
+  avg_c_gpao_pen: string,
+  avg_s_gpao_pen: string,
+  total_students: string,
+  most_recent_term: string,
+  earliest_term_offered: string,
+  grades: string
+};
+```
+
+```typescript
+TODO: add more
+```
 ---
 ## [Documentation](#docs)
 Here you may find some components or elements that are not being used. I am in need of some feedback on whether to remove these unused features.
 ### Components
-####**CustomAxis**
+#### CustomAxis
 
 | Parameters | label : `string`, offset : `number[]`, angle : `number` (degrees), extraStyles : `object`|
 |-|-|
 
 Not used, intended for ProgressionChart. Replaced with library components `XAxis` and `YAxis` from `recharts`
 
-####**CustomToolTip**
+#### CustomToolTip
 
 | Parameters | active : `boolean`, payload : `ScatterMetaData[]`, label : `string`, outsidePayload : `ToolTipData`, ylabel : `string`|
 |-|-|

@@ -16,19 +16,15 @@ const db = new sqlite3.Database(fpath, (err) => {
 });
 
 
-
-// db.close((err) => {
-//   if (err) {
-//     return console.error(err.message);
-//   }
-//   console.log('Close the database connection.');
-// });
 app.use(cors({
   methods: 'GET,POST,PATCH,DELETE,OPTIONS',
   optionsSuccessStatus: 200,
   origin: 'http://localhost:3000'
 }));
-// Server routes
+
+/* Server Routes */
+
+// Test route
 app.get("/", (req, res) => {
   res.send("hello father");
 });
@@ -41,9 +37,7 @@ app.get("/api/degree_plans", async (req, res) => {
     if (err) {
       throw err;
     }
-    // rows.forEach((row) => {
-    //   console.log(row.name);
-    // });
+    
     res.send(rows);
   });
 });
@@ -52,7 +46,7 @@ app.get("/api/degree_plans", async (req, res) => {
 app.get("/api/degree_plan_info", async (req, res) => {
   console.log(req.query);
   const plan_id  = req.query.id;
-  // JOIN degree_plan ON degree_course_association.degree_plan_id = degree_plan.id
+  
   db.all(
     `SELECT id, course_name, prefix, number, prerequisites, corequisites, strict_corequisites,
     credit_hours, institution, canonical_name, term, avg_c_gpao_pen, avg_s_gpao_pen, total_students,
