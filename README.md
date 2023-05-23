@@ -58,7 +58,7 @@ The `course` table describe a single course per entry. The `degree_course_associ
 ### Backend/Server
 With access to the database, the server uses *express.js* to provide an api so that the client to request resources for degree plans and such.
 `/api/degree_plans`
-- fetches all records from the `degree_plan` table. Returns an array of elements of type [`Degree Plan`](#degree-plan).
+- fetches all records from the `degree_plan` table. Returns an array of elements of type [`Degree Plan`](#degreeplan).
 
 `/api/degree_plan_info`
 - given 1 degree plan `id` from request query string params, collect all courses whose ids are linked to the degree plan `id` through the `degree_course_association` table. In other words, it fetches all courses related to this degree plan. Returns an array of elements of type [`Course`](#course).
