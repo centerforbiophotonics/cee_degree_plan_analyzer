@@ -82,7 +82,7 @@ The main file structure for the frontend is highlighted here:
 ```
 `App.tsx` is the main page that renders all the components. The `components` hold standalone elements that represent a single item such as graph or table. The components will take in parameters that follow object types defined in the `types` folder. The `styles` folder contains styles for the components. The `utils` folder contains helper functions that are not intended to be tied to one specific component. The `api.ts` is where the axios requests are defined.
 
-Jump to the [Documentation](#Documentation) section for more details.
+Jump to the [Documentation](#documentation) section for more details.
 
 ---
 ### Actually getting started for real this time
@@ -119,7 +119,7 @@ To modify this calculation function, edit the module's function `calculate_ratin
 ## Data Types
 Typescript allows us to implement object-oriented concepts, which will be leveraged using types. These types can be modified in `~/client/src/types`. 
 
-#####[`DegreePlan`](#degree-plan)
+####`DegreePlan`
 ```typescript
 export interface DegreePlan {
   id: number,
@@ -128,7 +128,7 @@ export interface DegreePlan {
   overall_avg_s_gpao_pen: string
 };
 ```
-#####[`Course`](#course)
+####`Course`
 ```typescript
 
 export interface Course {
@@ -159,7 +159,7 @@ export interface Course {
 TODO: add more
 ```
 ---
-## [Documentation](#docs)
+## [Documentation](#documentation)
 Here you may find some components or elements that are not being used. I am in need of some feedback on whether to remove these unused features.
 ### Components
 #### CustomAxis
