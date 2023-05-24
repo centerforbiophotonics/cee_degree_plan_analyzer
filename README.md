@@ -14,7 +14,7 @@ This project is built using React, Express, Node, SQL (and Typescript). The tool
 </dl>
 
 ---
-## [Getting Started](#getting-started)
+## Getting Started
 ### SQL Database
 The database needs to be initialized if not already. If it needs to be initialized, load the input folder `degree_plans_with_grade_penalty` with the Degree Plan CSV files. To run, go in `~/DegreePlanExplorer/server/db` and run the Python DB initialization script `degree_penalties_to_sql_db.py`. To learn more about how the process in which the grade penalty files were created, jump to [Data Generation](#data-generation)
 
@@ -56,7 +56,8 @@ The `course` table describe a single course per entry. The `degree_course_associ
 
 ---
 ### Backend/Server
-With access to the database, the server uses *express.js* to provide an api so that the client to request resources for degree plans and such.
+With access to the database, the server uses *express.js* to provide an api so that the client can request resources for degree plans and such.
+
 `/api/degree_plans`
 - fetches all records from the `degree_plan` table. Returns an array of elements of type [`Degree Plan`](#degreeplan).
 
@@ -82,7 +83,8 @@ The main file structure for the frontend is highlighted here:
 ```
 `App.tsx` is the main page that renders all the components. The `components` hold standalone elements that represent a single item such as graph or table. The components will take in parameters that follow object types defined in the `types` folder. The `styles` folder contains styles for the components. The `utils` folder contains helper functions that are not intended to be tied to one specific component. The `api.ts` is where the axios requests are defined.
 
-Jump to the [Documentation](#documentation) section for more details.
+Jump to the [Documentation](#documentation) section for more details about components, api, and the app.
+Jump to the [Data Types](#data-types) section for more details about types.
 
 ---
 ### Actually getting started for real this time
@@ -97,7 +99,7 @@ npm install
 npm start
 ```
 ---
-## [Data Generation](#data-generation)
+## Data Generation
 The KYS project should provide the means to create GPA Other calculations, stored in the `GpaOther` table (i.e. these ruby scripts do not work here in this project, they are supposed to be run in KYS). 
 
 The `DegreePlanGradePenaltyCalc` module in `degree_plan_grade_penalty_calc.rb` reads in a folder of degree plans `degree_plans_from_median_term_taken` (generated CSV files that I got from our org's Box), and computes the GPA Other Penalty. It then spits out the same CSV files annotated with this GPA Other Penalty in the `degree_plans_with_grade_penalty`.
@@ -154,34 +156,168 @@ export interface Course {
   grades: string
 };
 ```
+### `ScatterMetaData`
+```typescript
+export interface ScatterMetaData { 
+  dataKey: string, 
+  name: string, 
+  payload: any, 
+  type: any, 
+  unit: string, 
+  value: number
+};
 
+```
+### `YBuckets`
+```typescript
+// A hashmap where keys are string, and value is a nested hashmap
+// with key being a string and the value being the object Course
+// *see ToolTipData constructor*
+export interface YBuckets {
+  [key: string] : Record<string, Course>
+}
+```
+### `ToolTipData`
+```typescript
+export class ToolTipData {
+  courses: YBuckets = {};
+
+  constructor(courses: Course[], groupType: string) {
+    // courses is a hashmap where the keys are Term Number and values are 
+    // hashes with the keys being course name and value being the Course object
+    // ex)
+    /*
+      {
+        "courses": {
+          "3": {
+            "ANT 002 Cultural Anthropology": {
+              "id": 2,
+              "course_name": "ANT 002 Cultural Anthropology",
+              "prefix": "ANT",
+              "number": "002",
+              "prerequisites": "",
+              "corequisites": "1.0",
+              "strict_corequisites": "",
+              "credit_hours": "5.0",
+              "institution": "",
+              "canonical_name": "",
+              "term": "3.0",
+              "avg_c_gpao_pen": "0.376836080586081",
+              "avg_s_gpao_pen": "0.376698717948718",
+              "total_students": "2184.0",
+              "most_recent_term": "202201.0",
+              "earliest_term_offered": "200010.0",
+              "grades": "[\"A\", \"A-\", \"A+\", \"B\", \"B-\", \"B+\", \"C\", \"C-\", \"C+\", \"D\", \"D-\", \"D+\", \"F\", \"I\", \"NG\", \"NP*\", \"P*\", \"Y\"]"
+            },
+            "ECN 001B Princ Of Macroecon": {
+              ...
+            },
+            ...
+          },
+          "4": {
+            "HIS 010C 19th-20th Century World": {
+              ...
+            },
+            ...
+          },
+          "6": {
+            "HIS 193B Middle East from 1914": {
+              ...
+            }
+          },
+          
+          ...
+        }
+      }
+    */ 
+  }
+
+  get(Xlabel: string, Ylabel: string) {
+    // Returns a hashmap of objects that describe the invidiual items at a 
+    // particular x-value and y-label
+    // ex) At Term 9 and label Credit Units for some degree plan
+    /* 
+      {
+        "SOC 118 Political Sociology": {
+          "credit_hours": "4.0"
+        },
+        "ANT 123AN Resist Rebel & Pop Mvmnt": {
+          "credit_hours": "4.0"
+        },
+        "IRE 104 International Migration": {
+          "credit_hours": "4.0"
+        }
+      }
+    */
+  }
+
+  reset() {
+    this.courses = {};
+  }
+}
+```
+
+### `StandardListOption`
+```typescript
+export class StandardListOption {
+  value: number;
+  label: string;
+  overall_avg_c_gpao_pen?: string;
+  overall_avg_s_gpao_pen?: string;
+
+  public constructor(item: any, idx: number) {
+    if (typeof item === 'object' && isInstanceOfDegreePlan(item)) {
+      this.value = item.id;
+      this.label = item.name;
+      this.overall_avg_c_gpao_pen = item.overall_avg_c_gpao_pen;
+      this.overall_avg_s_gpao_pen = item.overall_avg_s_gpao_pen;
+    }
+    else if (typeof item === 'string' || item instanceof String) {
+      this.value = idx;
+      this.label = String(item);
+    /* 
+    
+    If you want to pass in your own type into Dropdown, you
+    need to implement the type to be converted to StandardListOption here
+    Requirements: value, label
+
+    */
+    } else {
+      this.value = idx;
+      this.label = 'Undefined';
+    }
+
+  }
+
+}
+```
 ```typescript
 TODO: add more
 ```
 ---
-## [Documentation](#documentation)
+## Documentation
 Here you may find some components or elements that are not being used. I am in need of some feedback on whether to remove these unused features.
-### Components
-#### CustomAxis
-
-| Parameters | label : `string`, offset : `number[]`, angle : `number` (degrees), extraStyles : `object`|
-|-|-|
-
-Not used, intended for ProgressionChart. Replaced with library components `XAxis` and `YAxis` from `recharts`
 
 #### CustomToolTip
 
-| Parameters | active : `boolean`, payload : `ScatterMetaData[]`, label : `string`, outsidePayload : `ToolTipData`, ylabel : `string`|
+| Parameters | active : `boolean`, payload : [`ScatterMetaData[]`](#scattermetadata), outsidePayload : [`ToolTipData`](#tooltipdata)|
 |-|-|
 
 Currently used in ProgressionChart, intended to show a tooltip on hovering a data point. Parameters are derived from the `recharts` component `ToolTip`. https://recharts.org/en-US/api/Tooltip 
-- active: override to hide tooltip - Not used
-- payload: The chart data 
-- label: Label for the x-axis - Not used
-- outsidePayload: The data relating to the Tooltip, particularly the course information individually
-- ylabel: The selected y-axis option.
+- active: override to hide tooltip - Not used currently in ProgressionChart.
+- payload: The chart data. It follows the data format of an array of [`ScatterMetaData`](#scattermetadata).
+- outsidePayload: The data relating to the Tooltip, particularly the course information individually. It is type [`ToolTipData`](#tooltipdata).
 
+#### Dropdown
 
+| Parameters | ListItems : `any[]`, setSelectedItem : `React setState function`, additionalOnClick : `function`|
+|-|-|
+
+Used for the Degree Plan selection in `App.tsx` and in ProgressionChart to change the y-label. The ListItems prop will be converted to type [`StandardListOption`](#standardlistoption) to match the data format for *Select* from *react-select*.
+
+- ListItems: takes in a list of any type, provided that there is an implementation for the conversion of that type into [`StandardListOption`](#standardlistoption) in the constructor.
+- setSelectedItem: pass in a setState function from a parent component, so that the dropdown can update the state variable in the parent component.
+- additionalOnClick: you can pass in another setState function from a parent component. Currently this is used to update a toggle state in ProgressionChart.
 
 
 

@@ -56,8 +56,8 @@ const ScatterChartComponent = ({currentChart, selectedYLabel, tooltipPayload}) =
                 </Label>
               </YAxis>
               <Tooltip 
-                content={<CustomTooltip outsidePayload={tooltipPayload} yLabel={selectedYLabel.label} />}
-                cursor={{ stroCustomTooltipke: 'salmon', strokeDasharray: '3 3', strokeWidth: 3}}
+                content={<CustomTooltip outsidePayload={tooltipPayload} />}
+                cursor={{ stroke: 'salmon', strokeDasharray: '3 3', strokeWidth: 3}}
               />
               <Scatter name="A title" data={currentChart} fill={COLORS.gold} line={{stroke: COLORS.blue, strokeWidth: 2}} />
             </ScatterChart>

@@ -75,6 +75,7 @@ export class ToolTipData {
     this.courses = {};
   }
 }
+
 // I would like the CustomYScale implementation to stay separate from the TooltipData
 export class CustomYScale {
   // the values of the y-axis

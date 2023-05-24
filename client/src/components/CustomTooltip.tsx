@@ -15,28 +15,29 @@ const tooltipStyle = {
 
 // `label` is probably used in bar charts
 // `payload` is the data content of the point hovered, 
-const CustomTooltip = ({ active, payload, label, outsidePayload, yLabel} : {
+const CustomTooltip = ({ active, payload, outsidePayload} : {
   active: boolean,
   payload: ScatterMetaData[],
-  label: string
   outsidePayload: ToolTipData,
-  yLabel: string,
 }) => {
   // console.log(yLabel)
-  const formatYLabel = LabelToSnakeCase(yLabel)
   if (active && payload && payload.length) {
-    // console.log(outsidePayload.get((payload[0].value).toString(), formatYLabel));
-    let tooltipCourseDetails: TooltipCourseDetails<typeof formatYLabel> | undefined = outsidePayload.get((payload[0].value).toString(), LabelToCourseAttr(yLabel));
+    const formatYLabel = LabelToSnakeCase(payload[1].name)
+    // console.log(outsidePayload)
+    console.log(outsidePayload.get((payload[0].value).toString(), formatYLabel));
+    let tooltipCourseDetails: TooltipCourseDetails<typeof formatYLabel> | undefined = outsidePayload.get((payload[0].value).toString(), LabelToCourseAttr(payload[1].name));
     return (
       <div style={tooltipStyle}>
         <p className={styles.toolLabel}>{`${payload[0].name} : ${payload[0].value}`}</p>
         <p className={styles.toolLabel}>{`${payload[1].name} : ${payload[1].value}`}</p>
-        <TooltipDetailsComponent details={tooltipCourseDetails} yLabel={yLabel} />
+        <TooltipDetailsComponent details={tooltipCourseDetails} yLabel={payload[1].name} />
       </div>
     );
   }
 
-  return null;
+  return (
+    <></>
+  );
 };
 
 function abbreviateCourseName (name: string, len: number) {
