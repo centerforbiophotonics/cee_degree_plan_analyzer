@@ -4,7 +4,6 @@ import { ScatterChart, Scatter, XAxis, YAxis, Label, CartesianGrid, Tooltip, Res
 import Button from 'react-bootstrap/Button';
 
 import { Course } from '../types/degreeplan.types';
-import { Filter } from '../types/filter.types';
 import { StandardPlotPoint } from '../types/plotChart.types';
 import { Dropdown } from './Dropdown';
 import CustomTooltip from './CustomTooltip';
@@ -73,9 +72,8 @@ const ScatterChartComponent = ({currentChart, selectedYLabel, tooltipPayload}) =
 // Dropdown for y axis parameter,
 // Button to manipulate state,
 // ScatterChartComponent
-export const ProgressionChart = ({Courses, Filters} : { 
+export const ProgressionChart = ({Courses} : { 
   Courses: Course[],
-  Filters: Filter[] | null,
 }) => {
   const timelineYGroupOptions = [
     "Credit Units", 

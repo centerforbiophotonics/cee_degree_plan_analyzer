@@ -73,7 +73,7 @@ function App() {
         </div>
         :
         <div>
-          <ProgressionChart Courses={selectedPlan} Filters={null}/>
+          <ProgressionChart Courses={selectedPlan}/>
         </div>
       }
 
@@ -85,7 +85,7 @@ function App() {
           Pick a Degree Plan to see Degree Penalty Table!
         </div>
         :
-        <PenaltyTable Courses={selectedPlan} Filters={null} />
+        <PenaltyTable Courses={selectedPlan}/>
       }
       
     </div>

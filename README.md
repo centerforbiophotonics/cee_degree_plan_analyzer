@@ -179,6 +179,10 @@ export interface YBuckets {
 ```
 ### `ToolTipData`
 ```typescript
+export interface YBuckets {
+  [key: string] : Record<string, Course>
+}
+
 export class ToolTipData {
   courses: YBuckets = {};
 
@@ -291,6 +295,115 @@ export class StandardListOption {
 
 }
 ```
+### `Filter`
+- Not used
+
+### `StandardPlotPoint`
+```typescript
+export class StandardPlotPoint {
+  data: Course[];
+  x_axis_label : string;
+  y_axis_label: string;
+  x_values: number[];
+  y_values: CustomYScale;
+  tooltip_values: ToolTipData;
+
+  constructor(courses: Course[], ylabel: string) {
+    this.data = courses;
+    this.x_axis_label = "term"
+    this.y_axis_label = LabelToSnakeCase(ylabel)
+    this.x_values = [] as number[];
+
+    // Generates x-values (Terms)
+    // Generates y-values (using CustomYScale)
+    // Generates Tooltip object
+  }
+
+  // Change the label for Y axis
+  setYType(attr: string) : void {
+    // Creates a new CustomYScale object with the selected attribute
+    // Then constructs a hash containing objects storing the 
+    // binned values of the data
+    // Then overwrites this.y_values
+  }
+
+  formatData() : {x: number, y: number}[] {
+    // Returns a list of coordinate objects 
+    // This is the data format for the Scatter chart from recharts
+    /*
+      [{x: 1, y: 2}, ...]
+    */
+  }
+
+  formatTooltip() {
+    // Returns a TooltipData object that groups the raw 
+    // course data based on the y label
+  }
+  
+}
+
+```
+
+### `CustomYScale`
+```typescript
+// to store as buckets
+export interface YPointsSum {
+  [key: string] : number
+}
+
+export class CustomYScale {
+  // the value of the y-axis
+  valueType: string;
+  // Define how to group the original data for the y-axis
+  groupType: string;
+  values: YPointsSum;
+
+  constructor(courses: Course[], groupType: string, valueType: string) {
+    this.valueType = valueType;
+    this.groupType = groupType;
+    this.values = {} as YPointsSum // buckets
+    let trimmedType: string = "";
+    // Based on y-label valueType
+    /*
+      credit_hours, 
+      sum_avg_c_gpao_pen, 
+      sum_avg_s_gpao_pen
+      ==> bucket number is the sum of each category, i.e. a normal bucket 
+    */
+    /*
+      avg_avg_c_gpao_pen, avg_avg_s_gpao_pen
+      ==> bucket number is the average value of each category 
+    */
+
+  }
+
+  contains(attr : string) : boolean {
+    if (attr in this.values) {
+      return true
+    }
+    return false
+  }
+
+  get(xlabel: string) : number {
+    return this.values[xlabel]
+  }
+
+  getYRange() : [l:number , r:number] {
+    switch (this.valueType) {
+      // maybe change?
+      case "avg_avg_c_gpao_pen":
+      case "avg_avg_s_gpao_pen":
+      case "sum_avg_c_gpao_pen":
+      case "sum_avg_s_gpao_pen":
+        return [-4, 4];
+    
+      default:
+        const y_list : Array<number> = Object.values(this.values)
+        return [0, Math.max(...y_list)];
+    }
+  }
+}
+```
 ```typescript
 TODO: add more
 ```
@@ -319,6 +432,47 @@ Used for the Degree Plan selection in `App.tsx` and in ProgressionChart to chang
 - setSelectedItem: pass in a setState function from a parent component, so that the dropdown can update the state variable in the parent component.
 - additionalOnClick: you can pass in another setState function from a parent component. Currently this is used to update a toggle state in ProgressionChart.
 
+#### FilterForm
 
+| Parameters | ListItems: `Filter[]` or `null`, setSelectedItem : `React setState function`|
+|-|-|
 
+Currently not used. Was meant to be a dropdown that would filter out the columns of penalty table. Maybe remove later.
+
+#### PenaltyTable
+
+| Parameters | Courses: [`Course[]`](#course) |
+|-|-|
+
+Passes Course data into *useTable* from *react-table* and rendered using *Table* from *react-bootstrap*. Clicking the headers of the columns will toggle ascending/descending sort. 
+
+Includes a filter form above the table, a checked option indicates the column is visible on the table. The component unchecks some of the columns by default in the useEffect based on column definition.
+
+Includes a download button that takes the current state of the fitlered table and turns it into a csv.
+
+Notes: 
+Adding a new column would require updating the `columns` in the `PenaltyTable.tsx` and `ReadableCourseValue` in `utils/formatValues.ts`
+- ReadableCourseValue is a utility function that formats the cell values depending on the column type. Modify the switch function in its definition to add a new column name or to change a column's exisiting format.
+
+The download function currently exports the csv under the static name "GPAOther_Penalties.csv"
+
+#### ProgressionChart
+
+| Parameters | Courses: [`Course[]`](#course) |
+|-|-|
+
+Renders a list of Courses from a selected Degreeplan as a scatter plot. There are 2 components: 
+- ScatterChartComponent: contains the plot and axes
+- ProgressionChart: contains a dropdown that controls the y-label, and houses ScatterChartComponent
+
+Courses in converted to type [`StandardPlotPoint`](#standardplotpoint) object in order to provide chart functionality
+- The selectedYLabel state is passed into the StandardPlotPoint setYType to set the category for the data's y axis.
+- StandardPlotPoint formatData is called after setting the Y type in order to re-sort and bin the data based on the selected y label.
+- StandardPlotPoint formatTooltip is called after setting Y type for similar reasons, to search the raw values for the selected y label.
+
+React States:
+- selectedYLabel: Holds the string value of y-axis to be, will be set in the StandardPlotPoint object when 'Apply Changes' is clicked
+- currentChart: Derived from StandardPlotPoint, a list of coordinates [{x: 1, y:2}, ...] that is ultimately passed into *ScatterChart* from *recharts*
+- chartVisible: Used to toggle visibility of the chart, used when the dropdown selects a y-label.
+- tooltipPayload: Derived from StandardPlotPoint, is type [`ToolTipData`](#tooltipdata) in order to get the list of related courses at any given plot point.
 

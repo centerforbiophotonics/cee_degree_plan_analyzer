@@ -1,10 +1,8 @@
 import React, { useMemo } from 'react';
-import { useTable, useSortBy, useBlockLayout, useResizeColumns, HeaderGroup, Row } from 'react-table';
+import { useTable, useSortBy, useBlockLayout, useResizeColumns, HeaderGroup } from 'react-table';
 import Table from 'react-bootstrap/Table';
 
-
 import { Course } from '../types/degreeplan.types';
-import { Filter } from '../types/filter.types';
 import { ReadableCourseValue } from '../utils/formatValues';
 import { SaveAsCSV } from '../utils/csv';
 import styles from '../styles/PenaltyTable.module.css';
@@ -20,9 +18,8 @@ interface CustomHeaderGroup<T extends object> extends HeaderGroup<T> {
   show?: boolean;
 }
 
-export const PenaltyTable = ({Courses, Filters} : { 
+export const PenaltyTable = ({ Courses } : { 
   Courses: Course[], 
-  Filters: Filter[] | null,
 }) => {
   // const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
   // const ops = Courses?.map(item => new StandardListOption(item));
@@ -175,6 +172,8 @@ export const PenaltyTable = ({Courses, Filters} : {
 
   return (
     <div>
+      {// Checkbox Filters for Table 
+      }
       <div className={styles.checkboxContainer}>
         <h5 className={styles.checkboxLabel}>
           Show/Hide Headers for Degree Plan Penalty Table
@@ -192,9 +191,10 @@ export const PenaltyTable = ({Courses, Filters} : {
             <button onClick={download}>Export Table</button>
           </div>
         </div>
-
       </div>
-
+      
+      {// Data Table
+      }
       <Table {...getTableProps()} striped bordered hover size="sm" className={styles.table}>
         <thead>
           {// Loop over the header rows
@@ -217,9 +217,11 @@ export const PenaltyTable = ({Courses, Filters} : {
                         : ""}
                     </span>
                 </th>
-              ))}
+              ))
+              }
             </tr>
-          ))}
+          ))
+          }
         </thead>
         {/* Apply the table body props */}
         <tbody {...getTableBodyProps()}>

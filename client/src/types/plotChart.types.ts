@@ -3,16 +3,15 @@ import { LabelToSnakeCase } from "../utils/labels";
 // Puts y values into buckets -- for tooltip
 /*
 {
-  1: {object, ...},
-  2: {object, ...},
-  3: {object, ...},
+  1: {Course object, ...},
   ...
-}
+}s
 */
 // 
 export interface YBuckets {
   [key: string] : Record<string, Course>
 }
+
 // Puts y values into buckets and sum the buckets -- for chart itself
 // Example
 // CustomYScale -> groupType is by term, valueType is credit_hours
@@ -78,7 +77,7 @@ export class ToolTipData {
 
 // I would like the CustomYScale implementation to stay separate from the TooltipData
 export class CustomYScale {
-  // the values of the y-axis
+  // the value of the y-axis
   valueType: string;
   // Define how to group the original data for the y-axis
   groupType: string;
