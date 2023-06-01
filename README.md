@@ -58,10 +58,10 @@ The `course` table describe a single course per entry. The `degree_course_associ
 ### Backend/Server
 With access to the database, the server uses *express.js* to provide an api so that the client can request resources for degree plans and such.
 
-`/api/degree_plans`
+#### `/api/degree_plans` 
 - fetches all records from the `degree_plan` table. Returns an array of elements of type [`Degree Plan`](#degreeplan).
 
-`/api/degree_plan_info`
+#### `/api/degree_plan_info`
 - given 1 degree plan `id` from request query string params, collect all courses whose ids are linked to the degree plan `id` through the `degree_course_association` table. In other words, it fetches all courses related to this degree plan. Returns an array of elements of type [`Course`](#course).
 ---
 ### Frontend/Client
@@ -404,13 +404,12 @@ export class CustomYScale {
   }
 }
 ```
-```typescript
-TODO: add more
-```
+
 ---
 ## Documentation
 Here you may find some components or elements that are not being used. I am in need of some feedback on whether to remove these unused features.
 
+---
 #### CustomToolTip
 
 | Parameters | active : `boolean`, payload : [`ScatterMetaData[]`](#scattermetadata), outsidePayload : [`ToolTipData`](#tooltipdata)|
@@ -421,6 +420,7 @@ Currently used in ProgressionChart, intended to show a tooltip on hovering a dat
 - payload: The chart data. It follows the data format of an array of [`ScatterMetaData`](#scattermetadata).
 - outsidePayload: The data relating to the Tooltip, particularly the course information individually. It is type [`ToolTipData`](#tooltipdata).
 
+---
 #### Dropdown
 
 | Parameters | ListItems : `any[]`, setSelectedItem : `React setState function`, additionalOnClick : `function`|
@@ -432,6 +432,7 @@ Used for the Degree Plan selection in `App.tsx` and in ProgressionChart to chang
 - setSelectedItem: pass in a setState function from a parent component, so that the dropdown can update the state variable in the parent component.
 - additionalOnClick: you can pass in another setState function from a parent component. Currently this is used to update a toggle state in ProgressionChart.
 
+---
 #### FilterForm
 
 | Parameters | ListItems: `Filter[]` or `null`, setSelectedItem : `React setState function`|
@@ -439,6 +440,7 @@ Used for the Degree Plan selection in `App.tsx` and in ProgressionChart to chang
 
 Currently not used. Was meant to be a dropdown that would filter out the columns of penalty table. Maybe remove later.
 
+---
 #### PenaltyTable
 
 | Parameters | Courses: [`Course[]`](#course) |
@@ -456,6 +458,7 @@ Adding a new column would require updating the `columns` in the `PenaltyTable.ts
 
 The download function currently exports the csv under the static name "GPAOther_Penalties.csv"
 
+---
 #### ProgressionChart
 
 | Parameters | Courses: [`Course[]`](#course) |
@@ -475,4 +478,24 @@ React States:
 - currentChart: Derived from StandardPlotPoint, a list of coordinates [{x: 1, y:2}, ...] that is ultimately passed into *ScatterChart* from *recharts*
 - chartVisible: Used to toggle visibility of the chart, used when the dropdown selects a y-label.
 - tooltipPayload: Derived from StandardPlotPoint, is type [`ToolTipData`](#tooltipdata) in order to get the list of related courses at any given plot point.
+
+---
+### App (frontend)
+On load, will get the list of degree plan names from getAllDegreePlans to render the dropdown list. The user's dropdown selection is tracked with the state selectedOp. When the "Load Degree Plan" button is clicked, a fetch query will execute for the selectedOp, and the response data will be propogated into the ProgressionChart and PenaltyTable.
+
+React States:
+- allDegreePlanLoad: holds response from data fetch query for the list of degree plan names
+- selectedOp: holds the dropdown selection for the selected degree plan
+- selectedPlan: holds response from the data fetch query for all courses in a specific degree plan
+
+#### API (frontend)
+##### getAllDegreePlans
+| Parameters | None |
+|-|-|
+Accesses [`/api/degree_plans`](#apidegree_plans) in backend
+
+##### getDegreePlanInfo
+| Parameters | id: `number` |
+|-|-|
+Accesses [`/api/degree_plan_info`](#api_degree_plan_info) in backend
 
